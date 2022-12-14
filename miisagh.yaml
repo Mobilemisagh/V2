@@ -25,8 +25,7 @@ proxies:
   - {"type":"trojan","name":"25|32.13Mb","server":"45.88.148.234","port":28443,"password":"6b1b5af1-31c2-4841-b56c- dff351e32e00","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
   - {"type":"trojan","name":"_26|32.38Mb","server":"45.88.148.234","port":28443,"password":"71e55461-1f57-4a1e-a6a7-f3fccb908544","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
   - {"type":"trojan","name":"_28|151.75Mb","server":"89.163.220.99","port":28443,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
-  - {"type":"trojan","name":"mianfeifq_120620228f77-420","server":"211.72.35.155","port":3389,"password":"3febb05ea76a940f","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"mianfeifq_120620228f77-429","server":"211.72.35.157","port":3389,"password":"b09d2aaa443af97a","udp":true,"skip-c  - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15778","server":"196.247.59.156","port":809,"cipher":"chacha20-ietf -poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"trojan","name":"mianfeifq_120620228f77-420","server":"211.72.35.155","port":3389,"password":"3febb05ea76a940f","udp":true,"skip-cert-verify":true
   - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15691","server":"196.247.59.156","port":808,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
   - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15768","server":"196.247.59.156","port":804,"cipher":"chacha20-ietf -poly1305","password":"G!yBwPWH3Vao"}
   - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15777","server":"196.247.59.156","port":803,"cipher":"chacha20-ietf -poly1305","password":"G!yBwPWH3Vao"}

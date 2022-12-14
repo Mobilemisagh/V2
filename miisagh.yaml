@@ -1,10 +1,10 @@
 #
 #-------------------------------------------------------------#
 #  创建者：https://v2rayse.com
-#  创建时间：2022-12-14 10:45:01
-#  模版：v2rayse默认模版
-#  节点数量：95
-#-------------------------------------------------------------#
+#  创建时间：2022-12-15 00:51:15
+# Template: v2rayse default template
+# Number of nodes: 70
+#------------------------------------------------- ------------#
 #
 port: 7890
 socks-port: 7891
@@ -13,142 +13,94 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"type":"trojan","name":"🇸🇬+Lightsail-Singapore-1","server":"lightsailsingapore.plluto.cn","port":37627,"password":"bAcFd3fHoi","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬+Lightsail-Singapore-2","server":"lightsailsingapore.plluto.cn","port":54294,"password":"o9CohVE3su","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬+Lightsail-Singapore-3","server":"lightsailsingapore.plluto.cn","port":43574,"password":"SMRVuCCj8j","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬+AWS-Singapore-1","server":"awssingapore.plluto.cn","port":26921,"password":"chGUcIXys8","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬+AWS-Singapore-2","server":"awssingapore.plluto.cn","port":42529,"password":"uDIntx99cm","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬+AWS-Singapore-3","server":"awssingapore.plluto.cn","port":44511,"password":"VJlltbnSbn","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇬🇧+SpeedyPage-UK-1","server":"speedypage.plluto.cn","port":30012,"password":"UyqnXs1E6v","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇬🇧+SpeedyPage-UK-2","server":"speedypage.plluto.cn","port":35494,"password":"abQ0rLVt0B","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇬🇧+SpeedyPage-UK-3","server":"speedypage.plluto.cn","port":12893,"password":"nQFpL1YzaI","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇬🇧+SpeedyPage-UK-4","server":"speedypage.plluto.cn","port":62345,"password":"NXpsahdotD","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇬🇧+SpeedyPage-UK-5","server":"speedypage.plluto.cn","port":63456,"password":"KSPoFLqrqm","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇭🇰+AWS-Hongkong-1","server":"awshongkong.plluto.cn","port":17896,"password":"ek5KONrsZw","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇭🇰+AWS-Hongkong-2","server":"awshongkong.plluto.cn","port":23127,"password":"RAAcXuH7kr","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇭🇰+AWS-Hongkong-3","server":"awshongkong.plluto.cn","port":25594,"password":"lC2o8QoiSV","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇰🇷+AWS-Seoul-1","server":"awsseoul.plluto.cn","port":34504,"password":"Ff194TAgEf","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇰🇷+AWS-Seoul-2","server":"awsseoul.plluto.cn","port":29962,"password":"GwC5lBLN3s","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇯🇵+AWS-Tokyo-1","server":"awstokyo.plluto.cn","port":11264,"password":"wsxshDdOt5","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇯🇵+AWS-Tokyo-2","server":"awstokyo.plluto.cn","port":49070,"password":"T0dp76M8u7","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇯🇵+AWS-Tokyo-3","server":"awstokyo.plluto.cn","port":17092,"password":"E0ff1kO24e","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇲+BWG-LosAngeles-1","server":"bwglosangeles.plluto.cn","port":37920,"password":"Lb6jCbzMb4","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇲+BWG-LosAngeles-2","server":"bwglosangeles.plluto.cn","port":10270,"password":"yuYOIBmsDd","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇲+BWG-LosAngeles-3","server":"bwglosangeles.plluto.cn","port":42765,"password":"qXfaxZVmNc","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇲+BWG-LosAngeles-4","server":"bwglosangeles.plluto.cn","port":13418,"password":"uNeqMFVt1u","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"11+|33.37Mb","server":"45.82.253.234","port":28443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
-  - {"type":"trojan","name":"_12+|32.55Mb","server":"212.90.123.130","port":28443,"password":"6b1b5af1-31c2-4841-b56c-dff351e32e00","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
-  - {"type":"trojan","name":"_13+|31.16Mb","server":"45.88.148.234","port":28443,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
-  - {"type":"trojan","name":"_14+|32.45Mb","server":"45.88.148.234","port":28443,"password":"564f0597-8e7c-4aa9-95cc-51eb9480a4f3","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
-  - {"type":"trojan","name":"_17+|26.45Mb","server":"45.88.148.234","port":28443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
-  - {"type":"trojan","name":"_18+|32.60Mb","server":"45.82.253.234","port":28443,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
-  - {"type":"trojan","name":"20+|29.25Mb","server":"212.90.123.130","port":28443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
-  - {"type":"trojan","name":"_21+|26.98Mb","server":"45.82.253.234","port":28443,"password":"71e55461-1f57-4a1e-a6a7-f3fccb908544","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
-  - {"type":"trojan","name":"_23+|+8.82Mb","server":"212.90.123.130","port":28443,"password":"71e55461-1f57-4a1e-a6a7-f3fccb908544","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
-  - {"type":"trojan","name":"25+|32.13Mb","server":"45.88.148.234","port":28443,"password":"6b1b5af1-31c2-4841-b56c-dff351e32e00","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
-  - {"type":"trojan","name":"_26+|32.38Mb","server":"45.88.148.234","port":28443,"password":"71e55461-1f57-4a1e-a6a7-f3fccb908544","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
-  - {"type":"trojan","name":"_28+|151.75Mb","server":"89.163.220.99","port":28443,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
+  - {"type":"trojan","name":"11|33.37Mb","server":"45.82.253.234","port":28443,"password":"6248895b-4255-4f07-9479- d198bc1eb8db", "udp": true, "skip-cert-verify": true, "sni": "glc.hruqoaw.cn"}
+  - {"type":"trojan","name":"_12|32.55Mb","server":"212.90.123.130","port":28443,"password":"6b1b5af1-31c2-4841-b56c- dff351e32e00","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
+  - {"type":"trojan","name":"_13|31.16Mb","server":"45.88.148.234","port":28443,"password":"6b4ced5e-835a-4a7a-9d03- 6a46e94668cb", "udp": true, "skip-cert-verify": true, "sni": "mzy.hruqoaw.cn"}
+  - {"type":"trojan","name":"_14|32.45Mb","server":"45.88.148.234","port":28443,"password":"564f0597-8e7c-4aa9-95cc- 51eb9480a4f3","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
+  - {"type":"trojan","name":"_17|26.45Mb","server":"45.88.148.234","port":28443,"password":"6248895b-4255-4f07-9479- d198bc1eb8db", "udp": true, "skip-cert-verify": true, "sni": "glc.hruqoaw.cn"}
+  - {"type":"trojan","name":"_18|32.60Mb","server":"45.82.253.234","port":28443,"password":"6b4ced5e-835a-4a7a-9d03- 6a46e94668cb", "udp": true, "skip-cert-verify": true, "sni": "mzy.hruqoaw.cn"}
+  - {"type":"trojan","name":"20|29.25Mb","server":"212.90.123.130","port":28443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
+  - {"type":"trojan","name":"_21|26.98Mb","server":"45.82.253.234","port":28443,"password":"71e55461-1f57-4a1e-a6a7-f3fccb908544","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
+  - {"type":"trojan","name":"_23|8.82Mb","server":"212.90.123.130","port":28443,"password":"71e55461-1f57-4a1e-a6a7- f3fccb908544","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
+  - {"type":"trojan","name":"25|32.13Mb","server":"45.88.148.234","port":28443,"password":"6b1b5af1-31c2-4841-b56c- dff351e32e00","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
+  - {"type":"trojan","name":"_26|32.38Mb","server":"45.88.148.234","port":28443,"password":"71e55461-1f57-4a1e-a6a7-f3fccb908544","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
+  - {"type":"trojan","name":"_28|151.75Mb","server":"89.163.220.99","port":28443,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
   - {"type":"trojan","name":"mianfeifq_120620228f77-420","server":"211.72.35.155","port":3389,"password":"3febb05ea76a940f","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"mianfeifq_120620228f77-429","server":"211.72.35.157","port":3389,"password":"b09d2aaa443af97a","udp":true,"skip-cert-verify":true}
   - {"type":"ss","name":"@anty_filter","server":"95.142.161.114","port":855,"cipher":"chacha20-ietf-poly1305","password":"bhcoDfavlz5r"}
-  - {"type":"ss","name":"🇺🇸US-212.102.47.198-11069_1","server":"212.102.47.198","port":443,"cipher":"aes-128-cfb","password":"shadowsocks"}
-  - {"type":"ss","name":"🇺🇸US-212.102.47.198-11069_2","server":"212.102.47.198","port":443,"cipher":"aes-128-cfb","password":"shadowsocks"}
-  - {"type":"ss","name":"🇺🇸US-212.102.47.198-11069_3","server":"212.102.47.198","port":443,"cipher":"aes-128-cfb","password":"shadowsocks"}
-  - {"type":"ss","name":"🇺🇸US-212.102.47.198-11069_4","server":"212.102.47.198","port":443,"cipher":"aes-128-cfb","password":"shadowsocks"}
-  - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15778","server":"196.247.59.156","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US-212.102.47.198-11069_1","server":"212.102.47.198","port":443,"cipher":"aes-128 -cfb","password":"shadowsocks"}
+  - {"type":"ss","name":"🇺🇸US-212.102.47.198-11069_2","server":"212.102.47.198","port":443,"cipher":"aes-128 -cfb","password":"shadowsocks"}
+  - {"type":"ss","name":"🇺🇸US-212.102.47.198-11069_3","server":"212.102.47.198","port":443,"cipher":"aes-128 -cfb","password":"shadowsocks"}
+  - {"type":"ss","name":"🇺🇸US-212.102.47.198-11069_4","server":"212.102.47.198","port":443,"cipher":"aes-128 -cfb","password":"shadowsocks"}
+  - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15778","server":"196.247.59.156","port":809,"cipher":"chacha20-ietf -poly1305","password":"G!yBwPWH3Vao"}
   - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15691","server":"196.247.59.156","port":808,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15768","server":"196.247.59.156","port":804,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15777","server":"196.247.59.156","port":803,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"ss","name":"🇺🇸US-79.133.109.56-15762","server":"79.133.109.56","port":1036,"cipher":"chacha20-ietf-poly1305","password":")1N1E6v0SU_rGTpg"}
-  - {"type":"ss","name":"🇷🇺+RU_97+|20.19Mb","server":"79.133.109.56","port":1036,"cipher":"chacha20-ietf-poly1305","password":")1N1E6v0SU_rGTpg"}
-  - {"type":"vmess","name":"🟢@v2rayng20:کانالاصلی🟢","ws-opts":{"path":"/telegram-id-@privatevpns","headers":{"host":"google.com"}},"server":"159.69.179.231","port":"80","uuid":"2aac77de-b3e4-4017-845c-ca1380f2e8d0","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"کانالتلگرام🚀@VpnRaya","ws-opts":{"path":"/telegram-id-@privatevpns","headers":{"host":"google.com"}},"server":"159.69.179.231","port":"80","uuid":"2aac77de-b3e4-4017-845c-ca1380f2e8d0","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇦🇺🌏@customv2rayکانفیگهایبیشترعضوشو","ws-opts":{"path":"/","headers":{"host":"dknbyn3lw16n5elj.gongyiyun.cf"}},"server":"104.17.191.85","port":"2095","uuid":"e3dba91f-b31c-473a-8f17-92e1dedda38f","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇬🇧🌏@customv2rayکانفیگهایبیشترعضوشو","ws-opts":{"path":"/telegram-id-@privatevpns","headers":{"host":"google.com"}},"server":"159.69.179.231","port":"80","uuid":"2aac77de-b3e4-4017-845c-ca1380f2e8d0","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"@v2rayng_vpnnارسلان","ws-opts":{"path":"/vmess","headers":{"host":"209.250.246.244"}},"server":"209.250.246.244","port":"80","uuid":"e34f769b-4803-4cd8-9c37-2954158bd188","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"@VpnActive","ws-opts":{"path":"/","headers":{"host":"f.qwerty1x.space"}},"server":"f.qwerty1x.space","port":"80","uuid":"79a9c3d9-689e-49de-9600-2b9b51377f75","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"کانالV_2rayNG@_1","server":"188.121.107.186","port":"36250","uuid":"cc707d78-5f4b-47be-d41f-fb726c3d4840","alterId":"0","cipher":"auto","network":"quic"}
-  - {"type":"vmess","name":"کانالV_2rayNG@_2","server":"188.121.107.186","port":"36250","uuid":"cc707d78-5f4b-47be-d41f-fb726c3d4840","alterId":"0","cipher":"auto","network":"quic"}
-  - {"type":"vmess","name":"🌍(@Anty_Filter)_1","ws-opts":{"path":"/vmess","headers":{"host":"51.75.160.126"}},"server":"51.75.160.126","port":"80","uuid":"2ed33a1b-5c47-4c4e-8473-eea30c2d337f","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🌍(@Anty_Filter)_2","ws-opts":{"path":"/jhndsmlanj11223","headers":{"host":"129.150.44.64"}},"server":"129.150.44.64","port":"46075","uuid":"da257e73-f02b-45ab-9916-7baf154c47a3","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"@beiten","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"84e8a926-4705-4aea-96b4-5f787c385097","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"@c","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"84e8a926-4705-4aea-96b4-5f787c385097","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"@VMESSIRANسرور۱۹آذر_1","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"@VMESSIRANسرور۱۹آذر_2","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"trojan","name":"+🇸🇬+Singapore⚡️(@FastNetIR)","server":"kh.mjt001.com","port":443,"password":"725d0da4-e547-4632-aaa9-5ddc7233b0f4","udp":true,"skip-cert-verify":true,"sni":"kh.mjt001.com"}
-  - {"type":"vmess","name":"🌍(@Anty_Filter)_3","ws-opts":{"path":"/vmess","headers":{"host":"15.235.192.195"}},"server":"15.235.192.195","port":"80","uuid":"b5a9c7bc-8bdb-4ff3-b03f-96b941c414c6","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15768","server":"196.247.59.156","port":804,"cipher":"chacha20-ietf -poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇨🇦CA-196.247.59.156-15777","server":"196.247.59.156","port":803,"cipher":"chacha20-ietf -poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US-79.133.109.56-15762","server":"79.133.109.56","port":1036,"cipher":"chacha20-ietf -poly1305","password":")1N1E6v0SU_rGTpg"}
+  - {"type":"ss","name":"🇷🇺RU_97|20.19Mb","server":"79.133.109.56","port":1036,"cipher":"chacha20-ietf-poly1305","password":")1N1E6v0SU_rGTpg"}
+  - {"type":"vmess","name":"@VMESSIRANسرور۱۹آذر_1","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"} },"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto ","network":"ws"}
   - {"type":"vmess","name":"🔰@Am1n_irسرور۲۰آذر","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇩🇪@prrofile_purple_1","ws-opts":{"path":"/aries"},"server":"185.14.47.240","port":"2086","uuid":"7a8a19ec-94f5-4262-edbe-a308e1d0c66d","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🌍(@Anty_Filter)_4","ws-opts":{"path":"/vmess","headers":{"host":"15.235.192.195"}},"server":"15.235.192.195","port":"80","uuid":"b5a9c7bc-8bdb-4ff3-b03f-96b941c414c6","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇨🇦@prrofile_purple","ws-opts":{"path":"/"},"server":"cdn3.soft98.download","port":"2096","uuid":"baa6e395-016e-438f-c8e1-8cdcf6a90d70","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇨🇦@IraneAzad_Netکانالتلگرامما","ws-opts":{"path":"/"},"server":"cdn3.soft98.download","port":"2096","uuid":"baa6e395-016e-438f-c8e1-8cdcf6a90d70","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"@Gap_Proxy@Proxy_PJ🪐","server":"188.121.107.186","port":"36250","uuid":"cc707d78-5f4b-47be-d41f-fb726c3d4840","alterId":"0","cipher":"auto","network":"quic"}
-  - {"type":"vmess","name":"کانفیگهایبیشتردر@Best_Program","ws-opts":{"path":"/telegram-id-@privatevpns","headers":{"host":"google.com"}},"server":"159.69.179.231","port":"80","uuid":"2aac77de-b3e4-4017-845c-ca1380f2e8d0","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Vpnv2rayvmess","ws-opts":{"path":"/vmess","headers":{"host":"209.250.246.244"}},"server":"209.250.246.244","port":"80","uuid":"e34f769b-4803-4cd8-9c37-2954158bd188","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"VMESS22AZARFORIRANPEOPLETESTALLISP","ws-opts":{"path":"/telegram-id-@privatevpns","headers":{"host":"google.com"}},"server":"159.69.179.231","port":"80","uuid":"2aac77de-b3e4-4017-845c-ca1380f2e8d0","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇩🇪@prrofile_purple_2","ws-opts":{"path":"/"},"server":"cdn3.soft98.download","port":"2096","uuid":"baa6e395-016e-438f-c8e1-8cdcf6a90d70","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇸🇬@prrofile_purple","ws-opts":{"path":"/Falling42gcssgnode","headers":{"host":"gcssg.sylu.cyou"}},"server":"gcssg.sylu.cyou","port":"443","uuid":"12e08256-da5d-4b1c-aeca-8c973ccceef8","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"@VMESSIRANسرور۱۸آذر_1","ws-opts":{"path":"/vmess","headers":{"host":"139.99.133.225"}},"server":"139.99.133.225","port":"80","uuid":"186651ce-dc75-4c66-be07-16e15b53b128","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"@VMESSIRANسرور۱۸آذر_2","ws-opts":{"path":"/vmess","headers":{"host":"139.99.133.225"}},"server":"139.99.133.225","port":"80","uuid":"186651ce-dc75-4c66-be07-16e15b53b128","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"@VMESSIRANسرور۱۹آذر_3","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇩🇪@prrofile_purple_3","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇩🇪@prrofile_purple_4","ws-opts":{"path":"/vmess","headers":{"host":"209.250.246.244"}},"server":"209.250.246.244","port":"80","uuid":"e34f769b-4803-4cd8-9c37-2954158bd188","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"telegram:@v2ray100_1","ws-opts":{"path":"/"},"server":"65.109.129.15","port":"25459","uuid":"ead3843c-d06a-4224-88db-8946e448de6b","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"telegram:@v2ray100_2","ws-opts":{"path":"/"},"server":"65.109.129.15","port":"25459","uuid":"ead3843c-d06a-4224-88db-8946e448de6b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"@VMESSIRANسرور۱۹آذر_2","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇩🇪@prrofile_purple_2","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"@VMESSIRANسرور۲۰آذر_1","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇮🇷@prrofile_purple","ws-opts":{"path":"/ray"},"server":"37.152.187.109","port":"80","uuid":"86336e12-ac06-4604-8389-461485a845ae","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"سرورهایقویاپآزاد@app_azad_iran_1","ws-opts":{"path":"/vmess","headers":{"host":"139.99.133.225"}},"server":"139.99.133.225","port":"80","uuid":"186651ce-dc75-4c66-be07-16e15b53b128","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"سرورهایقویاپآزاد@app_azad_iran_2","ws-opts":{"path":"/aries"},"server":"185.14.47.240","port":"2086","uuid":"7a8a19ec-94f5-4262-edbe-a308e1d0c66d","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"سرورهایقویاپآزاد@app_azad_iran","ws-opts":{"path":"/aries"},"server":"185.14.47.240","port":"2086","uuid":"7a8a19ec-94f5-4262-edbe-a308e1d0c66d","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"@VMESSIRANسرور۲۰آذر_2","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"v2cross.com_1","ws-opts":{"path":"/shirker","headers":{"host":"sg-ovh.sharecentre.online"}},"server":"141.193.213.21","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"v2cross.com_2","ws-opts":{"path":"/shirker","headers":{"host":"sg-ovh.sharecentre.online"}},"server":"141.193.213.21","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"v2cross.com_3","ws-opts":{"path":"/shirker","headers":{"host":"sg-ovh.sharecentre.online"}},"server":"141.193.213.21","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"v2cross.com_4","ws-opts":{"path":"/ray"},"server":"37.152.187.109","port":"80","uuid":"86336e12-ac06-4604-8389-461485a845ae","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇵🇱t.me/DarkVPNpro","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"trojan","name":"🇮🇩+@prrofile_purple","server":"kh.mjt001.com","port":443,"password":"725d0da4-e547-4632-aaa9-5ddc7233b0f4","udp":true,"skip-cert-verify":true,"sni":"kh.mjt001.com"}
-  - {"type":"ss","name":"کانال+ما+@webclub_team","server":"ro-4a4ca3be.xeovo.net","port":9000,"cipher":"chacha20-ietf-poly1305","password":"BpXVyHLdIGHv2iT5Vo6nY4f7KDZW"}
-  - {"type":"vmess","name":"کانالما@webclub_team","ws-opts":{"path":"/telegram-id-@privatevpns","headers":{"host":"google.com"}},"server":"159.69.179.231","port":"80","uuid":"2aac77de-b3e4-4017-845c-ca1380f2e8d0","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇵🇱t.me/DarkVPNpro_1","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇩🇪@prrofile_purple_3","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🔰@PewezaVpn","ws-opts":{"path":"/aries"},"server":"185.14.47.240","port":"2086","uuid":"7a8a19ec-94f5-4262-edbe-a308e1d0c66d","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇸🇬@prrofile_purple","ws-opts":{"path":"/jhndsmlanj11223","headers":{"host":"129.150.44.64"}},"server":"129.150.44.64","port":"46075","uuid":"da257e73-f02b-45ab-9916-7baf154c47a3","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"free7telegram:@falconsazi","ws-opts":{"path":"/"},"server":"51.77.158.169","port":"2096","uuid":"c92fd902-b5d3-4208-bb48-630b1c7babea","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🏴‍☠️","server":"188.165.24.244","port":"11107","uuid":"a1d7abd0-57c8-4b2b-d28d-f4e9c0661b4a","alterId":"0","cipher":"auto","network":"kcp"}
+  - {"type":"vmess","name":"vpnclub_7","ws-opts":{"path":"/aries"},"server":"185.14.47.240","port":"2086","uuid":"7a8a19ec-94f5-4262-edbe-a308e1d0c66d","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇲🇫t.me/DarkVPNpro_1","ws-opts":{"path":"/","headers":{"host":"51.77.230.27"}},"server":"51.77.230.27","port":"50728","uuid":"58362f48-b66c-4fec-a91e-25714d4ff299","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇲🇫t.me/DarkVPNpro_2","http-opts":{"path":["/"]},"server":"51.77.230.27","port":"35403","uuid":"e3ebb4c5-5a22-4f19-c0e3-4ef4b9913921","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇵🇱t.me/DarkVPNpro_2","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"9ec73f71-1d2c-4ef7-a814-15fb272ab5a1","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇲🇫t.me/DarkVPNpro_3","ws-opts":{"path":"/"},"server":"51.77.230.27","port":"50728","uuid":"58362f48-b66c-4fec-a91e-25714d4ff299","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇲🇫t.me/DarkVPNpro_4","http-opts":{"path":["/"]},"server":"51.77.230.27","port":"35403","uuid":"e3ebb4c5-5a22-4f19-c0e3-4ef4b9913921","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇨🇳_CN_中国_1_5@1","server":"106.55.234.95","port":"31372","uuid":"374d3519-455c-45b8-e3b1-0e2e9fcf4411","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"ss","name":"🇯🇵_JP_日本_2_7@11","server":"85.208.108.60","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"trojan","name":"🇸🇬Lightsail-Singapore-1","server":"lightsailsingapore.plluto.cn","port":37627,"password":"bAcFd3fHoi","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬Lightsail-Singapore-2","server":"lightsailsingapore.plluto.cn","port":54294,"password":"o9CohVE3su","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬Lightsail-Singapore-3","server":"lightsailsingapore.plluto.cn","port":43574,"password":"SMRVuCCj8j","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬AWS-Singapore-1","server":"awssingapore.plluto.cn","port":26921,"password":"chGUcIXys8","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬AWS-Singapore-2","server":"awssingapore.plluto.cn","port":42529,"password":"uDIntx99cm","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬AWS-Singapore-3","server":"awssingapore.plluto.cn","port":44511,"password":"VJlltbnSbn","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇬🇧SpeedyPage-UK-1","server":"speedypage.plluto.cn","port":30012,"password":"UyqnXs1E6v","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇬🇧SpeedyPage-UK-2","server":"speedypage.plluto.cn","port":35494,"password":"abQ0rLVt0B","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇬🇧SpeedyPage-UK-3","server":"speedypage.plluto.cn","port":12893,"password":"nQFpL1YzaI","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇬🇧SpeedyPage-UK-4","server":"speedypage.plluto.cn","port":62345,"password":"NXpsahdotD","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇬🇧SpeedyPage-UK-5","server":"speedypage.plluto.cn","port":63456,"password":"KSPoFLqrqm","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇭🇰AWS-Hongkong-1","server":"awshongkong.plluto.cn","port":17897,"password":"ek5KONrsZw","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇭🇰AWS-Hongkong-2","server":"awshongkong.plluto.cn","port":23128,"password":"RAAcXuH7kr","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇭🇰AWS-Hongkong-3","server":"awshongkong.plluto.cn","port":25595,"password":"lC2o8QoiSV","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇰🇷AWS-Seoul-1","server":"awsseoul.plluto.cn","port":34505,"password":"Ff194TAgEf","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇰🇷AWS-Seoul-2","server":"awsseoul.plluto.cn","port":29962,"password":"GwC5lBLN3s","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵AWS-Tokyo-1","server":"awstokyo.plluto.cn","port":11265,"password":"wsxshDdOt5","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵AWS-Tokyo-2","server":"awstokyo.plluto.cn","port":49071,"password":"T0dp76M8u7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵AWS-Tokyo-3","server":"awstokyo.plluto.cn","port":17093,"password":"E0ff1kO24e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇲BWG-LosAngeles-1","server":"bwglosangeles.plluto.cn","port":37920,"password":"Lb6jCbzMb4","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇲BWG-LosAngeles-2","server":"bwglosangeles.plluto.cn","port":10270,"password":"yuYOIBmsDd","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇲BWG-LosAngeles-3","server":"bwglosangeles.plluto.cn","port":42765,"password":"qXfaxZVmNc","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇲BWG-LosAngeles-4","server":"bwglosangeles.plluto.cn","port":13418,"password":"uNeqMFVt1u","udp":true,"skip-cert-verify":true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇸🇬+Lightsail-Singapore-1
-      - 🇸🇬+Lightsail-Singapore-2
-      - 🇸🇬+Lightsail-Singapore-3
-      - 🇸🇬+AWS-Singapore-1
-      - 🇸🇬+AWS-Singapore-2
-      - 🇸🇬+AWS-Singapore-3
-      - 🇬🇧+SpeedyPage-UK-1
-      - 🇬🇧+SpeedyPage-UK-2
-      - 🇬🇧+SpeedyPage-UK-3
-      - 🇬🇧+SpeedyPage-UK-4
-      - 🇬🇧+SpeedyPage-UK-5
-      - 🇭🇰+AWS-Hongkong-1
-      - 🇭🇰+AWS-Hongkong-2
-      - 🇭🇰+AWS-Hongkong-3
-      - 🇰🇷+AWS-Seoul-1
-      - 🇰🇷+AWS-Seoul-2
-      - 🇯🇵+AWS-Tokyo-1
-      - 🇯🇵+AWS-Tokyo-2
-      - 🇯🇵+AWS-Tokyo-3
-      - 🇺🇲+BWG-LosAngeles-1
-      - 🇺🇲+BWG-LosAngeles-2
-      - 🇺🇲+BWG-LosAngeles-3
-      - 🇺🇲+BWG-LosAngeles-4
-      - 11+|33.37Mb
-      - _12+|32.55Mb
-      - _13+|31.16Mb
-      - _14+|32.45Mb
-      - _17+|26.45Mb
-      - _18+|32.60Mb
-      - 20+|29.25Mb
-      - _21+|26.98Mb
-      - _23+|+8.82Mb
-      - 25+|32.13Mb
-      - _26+|32.38Mb
-      - _28+|151.75Mb
+      - 11|33.37Mb
+      - _12|32.55Mb
+      - _13|31.16Mb
+      - _14|32.45Mb
+      - _17|26.45Mb
+      - _18|32.60Mb
+      - 20|29.25Mb
+      - _21|26.98Mb
+      - _23|8.82Mb
+      - 25|32.13Mb
+      - _26|32.38Mb
+      - _28|151.75Mb
       - mianfeifq_120620228f77-420
       - mianfeifq_120620228f77-429
       - '@anty_filter'
@@ -161,95 +113,70 @@ proxy-groups:
       - 🇨🇦CA-196.247.59.156-15768
       - 🇨🇦CA-196.247.59.156-15777
       - 🇺🇸US-79.133.109.56-15762
-      - 🇷🇺+RU_97+|20.19Mb
-      - 🟢@v2rayng20:کانالاصلی🟢
-      - کانالتلگرام🚀@VpnRaya
-      - 🇦🇺🌏@customv2rayکانفیگهایبیشترعضوشو
-      - 🇬🇧🌏@customv2rayکانفیگهایبیشترعضوشو
-      - '@v2rayng_vpnnارسلان'
-      - '@VpnActive'
-      - کانالV_2rayNG@_1
-      - کانالV_2rayNG@_2
-      - 🌍(@Anty_Filter)_1
-      - 🌍(@Anty_Filter)_2
-      - '@beiten'
-      - '@c'
+      - 🇷🇺RU_97|20.19Mb
       - '@VMESSIRANسرور۱۹آذر_1'
-      - '@VMESSIRANسرور۱۹آذر_2'
-      - +🇸🇬+Singapore⚡️(@FastNetIR)
-      - 🌍(@Anty_Filter)_3
       - 🔰@Am1n_irسرور۲۰آذر
       - 🇩🇪@prrofile_purple_1
-      - 🌍(@Anty_Filter)_4
-      - 🇨🇦@prrofile_purple
-      - 🇨🇦@IraneAzad_Netکانالتلگرامما
-      - '@Gap_Proxy@Proxy_PJ🪐'
-      - کانفیگهایبیشتردر@Best_Program
-      - Vpnv2rayvmess
-      - VMESS22AZARFORIRANPEOPLETESTALLISP
+      - '@VMESSIRANسرور۱۹آذر_2'
       - 🇩🇪@prrofile_purple_2
-      - 🇸🇬@prrofile_purple
-      - '@VMESSIRANسرور۱۸آذر_1'
-      - '@VMESSIRANسرور۱۸آذر_2'
-      - '@VMESSIRANسرور۱۹آذر_3'
-      - 🇩🇪@prrofile_purple_3
-      - 🇩🇪@prrofile_purple_4
-      - telegram:@v2ray100_1
-      - telegram:@v2ray100_2
       - '@VMESSIRANسرور۲۰آذر_1'
-      - 🇮🇷@prrofile_purple
-      - سرورهایقویاپآزاد@app_azad_iran_1
-      - سرورهایقویاپآزاد@app_azad_iran_2
+      - سرورهایقویاپآزاد@app_azad_iran
       - '@VMESSIRANسرور۲۰آذر_2'
-      - v2cross.com_1
-      - v2cross.com_2
-      - v2cross.com_3
-      - v2cross.com_4
-      - 🇵🇱t.me/DarkVPNpro
-      - 🇮🇩+@prrofile_purple
-      - کانال+ما+@webclub_team
-      - کانالما@webclub_team
+      - 🇵🇱t.me/DarkVPNpro_1
+      - 🇩🇪@prrofile_purple_3
+      - 🔰@PewezaVpn
+      - 🇸🇬@prrofile_purple
+      - free7telegram:@falconsazi
+      - 🏴‍☠️
+      - vpnclub_7
+      - 🇲🇫t.me/DarkVPNpro_1
+      - 🇲🇫t.me/DarkVPNpro_2
+      - 🇵🇱t.me/DarkVPNpro_2
+      - 🇲🇫t.me/DarkVPNpro_3
+      - 🇲🇫t.me/DarkVPNpro_4
+      - 🇨🇳_CN_中国_1_5@1
+      - 🇯🇵_JP_日本_2_7@11
+      - 🇸🇬Lightsail-Singapore-1
+      - 🇸🇬Lightsail-Singapore-2
+      - 🇸🇬Lightsail-Singapore-3
+      - 🇸🇬AWS-Singapore-1
+      - 🇸🇬AWS-Singapore-2
+      - 🇸🇬AWS-Singapore-3
+      - 🇬🇧SpeedyPage-UK-1
+      - 🇬🇧SpeedyPage-UK-2
+      - 🇬🇧SpeedyPage-UK-3
+      - 🇬🇧SpeedyPage-UK-4
+      - 🇬🇧SpeedyPage-UK-5
+      - 🇭🇰AWS-Hongkong-1
+      - 🇭🇰AWS-Hongkong-2
+      - 🇭🇰AWS-Hongkong-3
+      - 🇰🇷AWS-Seoul-1
+      - 🇰🇷AWS-Seoul-2
+      - 🇯🇵AWS-Tokyo-1
+      - 🇯🇵AWS-Tokyo-2
+      - 🇯🇵AWS-Tokyo-3
+      - 🇺🇲BWG-LosAngeles-1
+      - 🇺🇲BWG-LosAngeles-2
+      - 🇺🇲BWG-LosAngeles-3
+      - 🇺🇲BWG-LosAngeles-4
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇸🇬+Lightsail-Singapore-1
-      - 🇸🇬+Lightsail-Singapore-2
-      - 🇸🇬+Lightsail-Singapore-3
-      - 🇸🇬+AWS-Singapore-1
-      - 🇸🇬+AWS-Singapore-2
-      - 🇸🇬+AWS-Singapore-3
-      - 🇬🇧+SpeedyPage-UK-1
-      - 🇬🇧+SpeedyPage-UK-2
-      - 🇬🇧+SpeedyPage-UK-3
-      - 🇬🇧+SpeedyPage-UK-4
-      - 🇬🇧+SpeedyPage-UK-5
-      - 🇭🇰+AWS-Hongkong-1
-      - 🇭🇰+AWS-Hongkong-2
-      - 🇭🇰+AWS-Hongkong-3
-      - 🇰🇷+AWS-Seoul-1
-      - 🇰🇷+AWS-Seoul-2
-      - 🇯🇵+AWS-Tokyo-1
-      - 🇯🇵+AWS-Tokyo-2
-      - 🇯🇵+AWS-Tokyo-3
-      - 🇺🇲+BWG-LosAngeles-1
-      - 🇺🇲+BWG-LosAngeles-2
-      - 🇺🇲+BWG-LosAngeles-3
-      - 🇺🇲+BWG-LosAngeles-4
-      - 11+|33.37Mb
-      - _12+|32.55Mb
-      - _13+|31.16Mb
-      - _14+|32.45Mb
-      - _17+|26.45Mb
-      - _18+|32.60Mb
-      - 20+|29.25Mb
-      - _21+|26.98Mb
-      - _23+|+8.82Mb
-      - 25+|32.13Mb
-      - _26+|32.38Mb
-      - _28+|151.75Mb
+      - 11|33.37Mb
+      - _12|32.55Mb
+      - _13|31.16Mb
+      - _14|32.45Mb
+      - _17|26.45Mb
+      - _18|32.60Mb
+      - 20|29.25Mb
+      - _21|26.98Mb
+      - _23|8.82Mb
+      - 25|32.13Mb
+      - _26|32.38Mb
+      - _28|151.75Mb
       - mianfeifq_120620228f77-420
       - mianfeifq_120620228f77-429
       - '@anty_filter'
@@ -262,95 +189,70 @@ proxy-groups:
       - 🇨🇦CA-196.247.59.156-15768
       - 🇨🇦CA-196.247.59.156-15777
       - 🇺🇸US-79.133.109.56-15762
-      - 🇷🇺+RU_97+|20.19Mb
-      - 🟢@v2rayng20:کانالاصلی🟢
-      - کانالتلگرام🚀@VpnRaya
-      - 🇦🇺🌏@customv2rayکانفیگهایبیشترعضوشو
-      - 🇬🇧🌏@customv2rayکانفیگهایبیشترعضوشو
-      - '@v2rayng_vpnnارسلان'
-      - '@VpnActive'
-      - کانالV_2rayNG@_1
-      - کانالV_2rayNG@_2
-      - 🌍(@Anty_Filter)_1
-      - 🌍(@Anty_Filter)_2
-      - '@beiten'
-      - '@c'
+      - 🇷🇺RU_97|20.19Mb
       - '@VMESSIRANسرور۱۹آذر_1'
-      - '@VMESSIRANسرور۱۹آذر_2'
-      - +🇸🇬+Singapore⚡️(@FastNetIR)
-      - 🌍(@Anty_Filter)_3
       - 🔰@Am1n_irسرور۲۰آذر
       - 🇩🇪@prrofile_purple_1
-      - 🌍(@Anty_Filter)_4
-      - 🇨🇦@prrofile_purple
-      - 🇨🇦@IraneAzad_Netکانالتلگرامما
-      - '@Gap_Proxy@Proxy_PJ🪐'
-      - کانفیگهایبیشتردر@Best_Program
-      - Vpnv2rayvmess
-      - VMESS22AZARFORIRANPEOPLETESTALLISP
+      - '@VMESSIRANسرور۱۹آذر_2'
       - 🇩🇪@prrofile_purple_2
-      - 🇸🇬@prrofile_purple
-      - '@VMESSIRANسرور۱۸آذر_1'
-      - '@VMESSIRANسرور۱۸آذر_2'
-      - '@VMESSIRANسرور۱۹آذر_3'
-      - 🇩🇪@prrofile_purple_3
-      - 🇩🇪@prrofile_purple_4
-      - telegram:@v2ray100_1
-      - telegram:@v2ray100_2
       - '@VMESSIRANسرور۲۰آذر_1'
-      - 🇮🇷@prrofile_purple
-      - سرورهایقویاپآزاد@app_azad_iran_1
-      - سرورهایقویاپآزاد@app_azad_iran_2
+      - سرورهایقویاپآزاد@app_azad_iran
       - '@VMESSIRANسرور۲۰آذر_2'
-      - v2cross.com_1
-      - v2cross.com_2
-      - v2cross.com_3
-      - v2cross.com_4
-      - 🇵🇱t.me/DarkVPNpro
-      - 🇮🇩+@prrofile_purple
-      - کانال+ما+@webclub_team
-      - کانالما@webclub_team
+      - 🇵🇱t.me/DarkVPNpro_1
+      - 🇩🇪@prrofile_purple_3
+      - 🔰@PewezaVpn
+      - 🇸🇬@prrofile_purple
+      - free7telegram:@falconsazi
+      - 🏴‍☠️
+      - vpnclub_7
+      - 🇲🇫t.me/DarkVPNpro_1
+      - 🇲🇫t.me/DarkVPNpro_2
+      - 🇵🇱t.me/DarkVPNpro_2
+      - 🇲🇫t.me/DarkVPNpro_3
+      - 🇲🇫t.me/DarkVPNpro_4
+      - 🇨🇳_CN_中国_1_5@1
+      - 🇯🇵_JP_日本_2_7@11
+      - 🇸🇬Lightsail-Singapore-1
+      - 🇸🇬Lightsail-Singapore-2
+      - 🇸🇬Lightsail-Singapore-3
+      - 🇸🇬AWS-Singapore-1
+      - 🇸🇬AWS-Singapore-2
+      - 🇸🇬AWS-Singapore-3
+      - 🇬🇧SpeedyPage-UK-1
+      - 🇬🇧SpeedyPage-UK-2
+      - 🇬🇧SpeedyPage-UK-3
+      - 🇬🇧SpeedyPage-UK-4
+      - 🇬🇧SpeedyPage-UK-5
+      - 🇭🇰AWS-Hongkong-1
+      - 🇭🇰AWS-Hongkong-2
+      - 🇭🇰AWS-Hongkong-3
+      - 🇰🇷AWS-Seoul-1
+      - 🇰🇷AWS-Seoul-2
+      - 🇯🇵AWS-Tokyo-1
+      - 🇯🇵AWS-Tokyo-2
+      - 🇯🇵AWS-Tokyo-3
+      - 🇺🇲BWG-LosAngeles-1
+      - 🇺🇲BWG-LosAngeles-2
+      - 🇺🇲BWG-LosAngeles-3
+      - 🇺🇲BWG-LosAngeles-4
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇸🇬+Lightsail-Singapore-1
-      - 🇸🇬+Lightsail-Singapore-2
-      - 🇸🇬+Lightsail-Singapore-3
-      - 🇸🇬+AWS-Singapore-1
-      - 🇸🇬+AWS-Singapore-2
-      - 🇸🇬+AWS-Singapore-3
-      - 🇬🇧+SpeedyPage-UK-1
-      - 🇬🇧+SpeedyPage-UK-2
-      - 🇬🇧+SpeedyPage-UK-3
-      - 🇬🇧+SpeedyPage-UK-4
-      - 🇬🇧+SpeedyPage-UK-5
-      - 🇭🇰+AWS-Hongkong-1
-      - 🇭🇰+AWS-Hongkong-2
-      - 🇭🇰+AWS-Hongkong-3
-      - 🇰🇷+AWS-Seoul-1
-      - 🇰🇷+AWS-Seoul-2
-      - 🇯🇵+AWS-Tokyo-1
-      - 🇯🇵+AWS-Tokyo-2
-      - 🇯🇵+AWS-Tokyo-3
-      - 🇺🇲+BWG-LosAngeles-1
-      - 🇺🇲+BWG-LosAngeles-2
-      - 🇺🇲+BWG-LosAngeles-3
-      - 🇺🇲+BWG-LosAngeles-4
-      - 11+|33.37Mb
-      - _12+|32.55Mb
-      - _13+|31.16Mb
-      - _14+|32.45Mb
-      - _17+|26.45Mb
-      - _18+|32.60Mb
-      - 20+|29.25Mb
-      - _21+|26.98Mb
-      - _23+|+8.82Mb
-      - 25+|32.13Mb
-      - _26+|32.38Mb
-      - _28+|151.75Mb
+      - 11|33.37Mb
+      - _12|32.55Mb
+      - _13|31.16Mb
+      - _14|32.45Mb
+      - _17|26.45Mb
+      - _18|32.60Mb
+      - 20|29.25Mb
+      - _21|26.98Mb
+      - _23|8.82Mb
+      - 25|32.13Mb
+      - _26|32.38Mb
+      - _28|151.75Mb
       - mianfeifq_120620228f77-420
       - mianfeifq_120620228f77-429
       - '@anty_filter'
@@ -363,94 +265,69 @@ proxy-groups:
       - 🇨🇦CA-196.247.59.156-15768
       - 🇨🇦CA-196.247.59.156-15777
       - 🇺🇸US-79.133.109.56-15762
-      - 🇷🇺+RU_97+|20.19Mb
-      - 🟢@v2rayng20:کانالاصلی🟢
-      - کانالتلگرام🚀@VpnRaya
-      - 🇦🇺🌏@customv2rayکانفیگهایبیشترعضوشو
-      - 🇬🇧🌏@customv2rayکانفیگهایبیشترعضوشو
-      - '@v2rayng_vpnnارسلان'
-      - '@VpnActive'
-      - کانالV_2rayNG@_1
-      - کانالV_2rayNG@_2
-      - 🌍(@Anty_Filter)_1
-      - 🌍(@Anty_Filter)_2
-      - '@beiten'
-      - '@c'
+      - 🇷🇺RU_97|20.19Mb
       - '@VMESSIRANسرور۱۹آذر_1'
-      - '@VMESSIRANسرور۱۹آذر_2'
-      - +🇸🇬+Singapore⚡️(@FastNetIR)
-      - 🌍(@Anty_Filter)_3
       - 🔰@Am1n_irسرور۲۰آذر
       - 🇩🇪@prrofile_purple_1
-      - 🌍(@Anty_Filter)_4
-      - 🇨🇦@prrofile_purple
-      - 🇨🇦@IraneAzad_Netکانالتلگرامما
-      - '@Gap_Proxy@Proxy_PJ🪐'
-      - کانفیگهایبیشتردر@Best_Program
-      - Vpnv2rayvmess
-      - VMESS22AZARFORIRANPEOPLETESTALLISP
+      - '@VMESSIRANسرور۱۹آذر_2'
       - 🇩🇪@prrofile_purple_2
-      - 🇸🇬@prrofile_purple
-      - '@VMESSIRANسرور۱۸آذر_1'
-      - '@VMESSIRANسرور۱۸آذر_2'
-      - '@VMESSIRANسرور۱۹آذر_3'
-      - 🇩🇪@prrofile_purple_3
-      - 🇩🇪@prrofile_purple_4
-      - telegram:@v2ray100_1
-      - telegram:@v2ray100_2
       - '@VMESSIRANسرور۲۰آذر_1'
-      - 🇮🇷@prrofile_purple
-      - سرورهایقویاپآزاد@app_azad_iran_1
-      - سرورهایقویاپآزاد@app_azad_iran_2
+      - سرورهایقویاپآزاد@app_azad_iran
       - '@VMESSIRANسرور۲۰آذر_2'
-      - v2cross.com_1
-      - v2cross.com_2
-      - v2cross.com_3
-      - v2cross.com_4
-      - 🇵🇱t.me/DarkVPNpro
-      - 🇮🇩+@prrofile_purple
-      - کانال+ما+@webclub_team
-      - کانالما@webclub_team
+      - 🇵🇱t.me/DarkVPNpro_1
+      - 🇩🇪@prrofile_purple_3
+      - 🔰@PewezaVpn
+      - 🇸🇬@prrofile_purple
+      - free7telegram:@falconsazi
+      - 🏴‍☠️
+      - vpnclub_7
+      - 🇲🇫t.me/DarkVPNpro_1
+      - 🇲🇫t.me/DarkVPNpro_2
+      - 🇵🇱t.me/DarkVPNpro_2
+      - 🇲🇫t.me/DarkVPNpro_3
+      - 🇲🇫t.me/DarkVPNpro_4
+      - 🇨🇳_CN_中国_1_5@1
+      - 🇯🇵_JP_日本_2_7@11
+      - 🇸🇬Lightsail-Singapore-1
+      - 🇸🇬Lightsail-Singapore-2
+      - 🇸🇬Lightsail-Singapore-3
+      - 🇸🇬AWS-Singapore-1
+      - 🇸🇬AWS-Singapore-2
+      - 🇸🇬AWS-Singapore-3
+      - 🇬🇧SpeedyPage-UK-1
+      - 🇬🇧SpeedyPage-UK-2
+      - 🇬🇧SpeedyPage-UK-3
+      - 🇬🇧SpeedyPage-UK-4
+      - 🇬🇧SpeedyPage-UK-5
+      - 🇭🇰AWS-Hongkong-1
+      - 🇭🇰AWS-Hongkong-2
+      - 🇭🇰AWS-Hongkong-3
+      - 🇰🇷AWS-Seoul-1
+      - 🇰🇷AWS-Seoul-2
+      - 🇯🇵AWS-Tokyo-1
+      - 🇯🇵AWS-Tokyo-2
+      - 🇯🇵AWS-Tokyo-3
+      - 🇺🇲BWG-LosAngeles-1
+      - 🇺🇲BWG-LosAngeles-2
+      - 🇺🇲BWG-LosAngeles-3
+      - 🇺🇲BWG-LosAngeles-4
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇸🇬+Lightsail-Singapore-1
-      - 🇸🇬+Lightsail-Singapore-2
-      - 🇸🇬+Lightsail-Singapore-3
-      - 🇸🇬+AWS-Singapore-1
-      - 🇸🇬+AWS-Singapore-2
-      - 🇸🇬+AWS-Singapore-3
-      - 🇬🇧+SpeedyPage-UK-1
-      - 🇬🇧+SpeedyPage-UK-2
-      - 🇬🇧+SpeedyPage-UK-3
-      - 🇬🇧+SpeedyPage-UK-4
-      - 🇬🇧+SpeedyPage-UK-5
-      - 🇭🇰+AWS-Hongkong-1
-      - 🇭🇰+AWS-Hongkong-2
-      - 🇭🇰+AWS-Hongkong-3
-      - 🇰🇷+AWS-Seoul-1
-      - 🇰🇷+AWS-Seoul-2
-      - 🇯🇵+AWS-Tokyo-1
-      - 🇯🇵+AWS-Tokyo-2
-      - 🇯🇵+AWS-Tokyo-3
-      - 🇺🇲+BWG-LosAngeles-1
-      - 🇺🇲+BWG-LosAngeles-2
-      - 🇺🇲+BWG-LosAngeles-3
-      - 🇺🇲+BWG-LosAngeles-4
-      - 11+|33.37Mb
-      - _12+|32.55Mb
-      - _13+|31.16Mb
-      - _14+|32.45Mb
-      - _17+|26.45Mb
-      - _18+|32.60Mb
-      - 20+|29.25Mb
-      - _21+|26.98Mb
-      - _23+|+8.82Mb
-      - 25+|32.13Mb
-      - _26+|32.38Mb
-      - _28+|151.75Mb
+      - 11|33.37Mb
+      - _12|32.55Mb
+      - _13|31.16Mb
+      - _14|32.45Mb
+      - _17|26.45Mb
+      - _18|32.60Mb
+      - 20|29.25Mb
+      - _21|26.98Mb
+      - _23|8.82Mb
+      - 25|32.13Mb
+      - _26|32.38Mb
+      - _28|151.75Mb
       - mianfeifq_120620228f77-420
       - mianfeifq_120620228f77-429
       - '@anty_filter'
@@ -463,94 +340,69 @@ proxy-groups:
       - 🇨🇦CA-196.247.59.156-15768
       - 🇨🇦CA-196.247.59.156-15777
       - 🇺🇸US-79.133.109.56-15762
-      - 🇷🇺+RU_97+|20.19Mb
-      - 🟢@v2rayng20:کانالاصلی🟢
-      - کانالتلگرام🚀@VpnRaya
-      - 🇦🇺🌏@customv2rayکانفیگهایبیشترعضوشو
-      - 🇬🇧🌏@customv2rayکانفیگهایبیشترعضوشو
-      - '@v2rayng_vpnnارسلان'
-      - '@VpnActive'
-      - کانالV_2rayNG@_1
-      - کانالV_2rayNG@_2
-      - 🌍(@Anty_Filter)_1
-      - 🌍(@Anty_Filter)_2
-      - '@beiten'
-      - '@c'
+      - 🇷🇺RU_97|20.19Mb
       - '@VMESSIRANسرور۱۹آذر_1'
-      - '@VMESSIRANسرور۱۹آذر_2'
-      - +🇸🇬+Singapore⚡️(@FastNetIR)
-      - 🌍(@Anty_Filter)_3
       - 🔰@Am1n_irسرور۲۰آذر
       - 🇩🇪@prrofile_purple_1
-      - 🌍(@Anty_Filter)_4
-      - 🇨🇦@prrofile_purple
-      - 🇨🇦@IraneAzad_Netکانالتلگرامما
-      - '@Gap_Proxy@Proxy_PJ🪐'
-      - کانفیگهایبیشتردر@Best_Program
-      - Vpnv2rayvmess
-      - VMESS22AZARFORIRANPEOPLETESTALLISP
+      - '@VMESSIRANسرور۱۹آذر_2'
       - 🇩🇪@prrofile_purple_2
-      - 🇸🇬@prrofile_purple
-      - '@VMESSIRANسرور۱۸آذر_1'
-      - '@VMESSIRANسرور۱۸آذر_2'
-      - '@VMESSIRANسرور۱۹آذر_3'
-      - 🇩🇪@prrofile_purple_3
-      - 🇩🇪@prrofile_purple_4
-      - telegram:@v2ray100_1
-      - telegram:@v2ray100_2
       - '@VMESSIRANسرور۲۰آذر_1'
-      - 🇮🇷@prrofile_purple
-      - سرورهایقویاپآزاد@app_azad_iran_1
-      - سرورهایقویاپآزاد@app_azad_iran_2
+      - سرورهایقویاپآزاد@app_azad_iran
       - '@VMESSIRANسرور۲۰آذر_2'
-      - v2cross.com_1
-      - v2cross.com_2
-      - v2cross.com_3
-      - v2cross.com_4
-      - 🇵🇱t.me/DarkVPNpro
-      - 🇮🇩+@prrofile_purple
-      - کانال+ما+@webclub_team
-      - کانالما@webclub_team
+      - 🇵🇱t.me/DarkVPNpro_1
+      - 🇩🇪@prrofile_purple_3
+      - 🔰@PewezaVpn
+      - 🇸🇬@prrofile_purple
+      - free7telegram:@falconsazi
+      - 🏴‍☠️
+      - vpnclub_7
+      - 🇲🇫t.me/DarkVPNpro_1
+      - 🇲🇫t.me/DarkVPNpro_2
+      - 🇵🇱t.me/DarkVPNpro_2
+      - 🇲🇫t.me/DarkVPNpro_3
+      - 🇲🇫t.me/DarkVPNpro_4
+      - 🇨🇳_CN_中国_1_5@1
+      - 🇯🇵_JP_日本_2_7@11
+      - 🇸🇬Lightsail-Singapore-1
+      - 🇸🇬Lightsail-Singapore-2
+      - 🇸🇬Lightsail-Singapore-3
+      - 🇸🇬AWS-Singapore-1
+      - 🇸🇬AWS-Singapore-2
+      - 🇸🇬AWS-Singapore-3
+      - 🇬🇧SpeedyPage-UK-1
+      - 🇬🇧SpeedyPage-UK-2
+      - 🇬🇧SpeedyPage-UK-3
+      - 🇬🇧SpeedyPage-UK-4
+      - 🇬🇧SpeedyPage-UK-5
+      - 🇭🇰AWS-Hongkong-1
+      - 🇭🇰AWS-Hongkong-2
+      - 🇭🇰AWS-Hongkong-3
+      - 🇰🇷AWS-Seoul-1
+      - 🇰🇷AWS-Seoul-2
+      - 🇯🇵AWS-Tokyo-1
+      - 🇯🇵AWS-Tokyo-2
+      - 🇯🇵AWS-Tokyo-3
+      - 🇺🇲BWG-LosAngeles-1
+      - 🇺🇲BWG-LosAngeles-2
+      - 🇺🇲BWG-LosAngeles-3
+      - 🇺🇲BWG-LosAngeles-4
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇸🇬+Lightsail-Singapore-1
-      - 🇸🇬+Lightsail-Singapore-2
-      - 🇸🇬+Lightsail-Singapore-3
-      - 🇸🇬+AWS-Singapore-1
-      - 🇸🇬+AWS-Singapore-2
-      - 🇸🇬+AWS-Singapore-3
-      - 🇬🇧+SpeedyPage-UK-1
-      - 🇬🇧+SpeedyPage-UK-2
-      - 🇬🇧+SpeedyPage-UK-3
-      - 🇬🇧+SpeedyPage-UK-4
-      - 🇬🇧+SpeedyPage-UK-5
-      - 🇭🇰+AWS-Hongkong-1
-      - 🇭🇰+AWS-Hongkong-2
-      - 🇭🇰+AWS-Hongkong-3
-      - 🇰🇷+AWS-Seoul-1
-      - 🇰🇷+AWS-Seoul-2
-      - 🇯🇵+AWS-Tokyo-1
-      - 🇯🇵+AWS-Tokyo-2
-      - 🇯🇵+AWS-Tokyo-3
-      - 🇺🇲+BWG-LosAngeles-1
-      - 🇺🇲+BWG-LosAngeles-2
-      - 🇺🇲+BWG-LosAngeles-3
-      - 🇺🇲+BWG-LosAngeles-4
-      - 11+|33.37Mb
-      - _12+|32.55Mb
-      - _13+|31.16Mb
-      - _14+|32.45Mb
-      - _17+|26.45Mb
-      - _18+|32.60Mb
-      - 20+|29.25Mb
-      - _21+|26.98Mb
-      - _23+|+8.82Mb
-      - 25+|32.13Mb
-      - _26+|32.38Mb
-      - _28+|151.75Mb
+      - 11|33.37Mb
+      - _12|32.55Mb
+      - _13|31.16Mb
+      - _14|32.45Mb
+      - _17|26.45Mb
+      - _18|32.60Mb
+      - 20|29.25Mb
+      - _21|26.98Mb
+      - _23|8.82Mb
+      - 25|32.13Mb
+      - _26|32.38Mb
+      - _28|151.75Mb
       - mianfeifq_120620228f77-420
       - mianfeifq_120620228f77-429
       - '@anty_filter'
@@ -563,94 +415,69 @@ proxy-groups:
       - 🇨🇦CA-196.247.59.156-15768
       - 🇨🇦CA-196.247.59.156-15777
       - 🇺🇸US-79.133.109.56-15762
-      - 🇷🇺+RU_97+|20.19Mb
-      - 🟢@v2rayng20:کانالاصلی🟢
-      - کانالتلگرام🚀@VpnRaya
-      - 🇦🇺🌏@customv2rayکانفیگهایبیشترعضوشو
-      - 🇬🇧🌏@customv2rayکانفیگهایبیشترعضوشو
-      - '@v2rayng_vpnnارسلان'
-      - '@VpnActive'
-      - کانالV_2rayNG@_1
-      - کانالV_2rayNG@_2
-      - 🌍(@Anty_Filter)_1
-      - 🌍(@Anty_Filter)_2
-      - '@beiten'
-      - '@c'
+      - 🇷🇺RU_97|20.19Mb
       - '@VMESSIRANسرور۱۹آذر_1'
-      - '@VMESSIRANسرور۱۹آذر_2'
-      - +🇸🇬+Singapore⚡️(@FastNetIR)
-      - 🌍(@Anty_Filter)_3
       - 🔰@Am1n_irسرور۲۰آذر
       - 🇩🇪@prrofile_purple_1
-      - 🌍(@Anty_Filter)_4
-      - 🇨🇦@prrofile_purple
-      - 🇨🇦@IraneAzad_Netکانالتلگرامما
-      - '@Gap_Proxy@Proxy_PJ🪐'
-      - کانفیگهایبیشتردر@Best_Program
-      - Vpnv2rayvmess
-      - VMESS22AZARFORIRANPEOPLETESTALLISP
+      - '@VMESSIRANسرور۱۹آذر_2'
       - 🇩🇪@prrofile_purple_2
-      - 🇸🇬@prrofile_purple
-      - '@VMESSIRANسرور۱۸آذر_1'
-      - '@VMESSIRANسرور۱۸آذر_2'
-      - '@VMESSIRANسرور۱۹آذر_3'
-      - 🇩🇪@prrofile_purple_3
-      - 🇩🇪@prrofile_purple_4
-      - telegram:@v2ray100_1
-      - telegram:@v2ray100_2
       - '@VMESSIRANسرور۲۰آذر_1'
-      - 🇮🇷@prrofile_purple
-      - سرورهایقویاپآزاد@app_azad_iran_1
-      - سرورهایقویاپآزاد@app_azad_iran_2
+      - سرورهایقویاپآزاد@app_azad_iran
       - '@VMESSIRANسرور۲۰آذر_2'
-      - v2cross.com_1
-      - v2cross.com_2
-      - v2cross.com_3
-      - v2cross.com_4
-      - 🇵🇱t.me/DarkVPNpro
-      - 🇮🇩+@prrofile_purple
-      - کانال+ما+@webclub_team
-      - کانالما@webclub_team
+      - 🇵🇱t.me/DarkVPNpro_1
+      - 🇩🇪@prrofile_purple_3
+      - 🔰@PewezaVpn
+      - 🇸🇬@prrofile_purple
+      - free7telegram:@falconsazi
+      - 🏴‍☠️
+      - vpnclub_7
+      - 🇲🇫t.me/DarkVPNpro_1
+      - 🇲🇫t.me/DarkVPNpro_2
+      - 🇵🇱t.me/DarkVPNpro_2
+      - 🇲🇫t.me/DarkVPNpro_3
+      - 🇲🇫t.me/DarkVPNpro_4
+      - 🇨🇳_CN_中国_1_5@1
+      - 🇯🇵_JP_日本_2_7@11
+      - 🇸🇬Lightsail-Singapore-1
+      - 🇸🇬Lightsail-Singapore-2
+      - 🇸🇬Lightsail-Singapore-3
+      - 🇸🇬AWS-Singapore-1
+      - 🇸🇬AWS-Singapore-2
+      - 🇸🇬AWS-Singapore-3
+      - 🇬🇧SpeedyPage-UK-1
+      - 🇬🇧SpeedyPage-UK-2
+      - 🇬🇧SpeedyPage-UK-3
+      - 🇬🇧SpeedyPage-UK-4
+      - 🇬🇧SpeedyPage-UK-5
+      - 🇭🇰AWS-Hongkong-1
+      - 🇭🇰AWS-Hongkong-2
+      - 🇭🇰AWS-Hongkong-3
+      - 🇰🇷AWS-Seoul-1
+      - 🇰🇷AWS-Seoul-2
+      - 🇯🇵AWS-Tokyo-1
+      - 🇯🇵AWS-Tokyo-2
+      - 🇯🇵AWS-Tokyo-3
+      - 🇺🇲BWG-LosAngeles-1
+      - 🇺🇲BWG-LosAngeles-2
+      - 🇺🇲BWG-LosAngeles-3
+      - 🇺🇲BWG-LosAngeles-4
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇸🇬+Lightsail-Singapore-1
-      - 🇸🇬+Lightsail-Singapore-2
-      - 🇸🇬+Lightsail-Singapore-3
-      - 🇸🇬+AWS-Singapore-1
-      - 🇸🇬+AWS-Singapore-2
-      - 🇸🇬+AWS-Singapore-3
-      - 🇬🇧+SpeedyPage-UK-1
-      - 🇬🇧+SpeedyPage-UK-2
-      - 🇬🇧+SpeedyPage-UK-3
-      - 🇬🇧+SpeedyPage-UK-4
-      - 🇬🇧+SpeedyPage-UK-5
-      - 🇭🇰+AWS-Hongkong-1
-      - 🇭🇰+AWS-Hongkong-2
-      - 🇭🇰+AWS-Hongkong-3
-      - 🇰🇷+AWS-Seoul-1
-      - 🇰🇷+AWS-Seoul-2
-      - 🇯🇵+AWS-Tokyo-1
-      - 🇯🇵+AWS-Tokyo-2
-      - 🇯🇵+AWS-Tokyo-3
-      - 🇺🇲+BWG-LosAngeles-1
-      - 🇺🇲+BWG-LosAngeles-2
-      - 🇺🇲+BWG-LosAngeles-3
-      - 🇺🇲+BWG-LosAngeles-4
-      - 11+|33.37Mb
-      - _12+|32.55Mb
-      - _13+|31.16Mb
-      - _14+|32.45Mb
-      - _17+|26.45Mb
-      - _18+|32.60Mb
-      - 20+|29.25Mb
-      - _21+|26.98Mb
-      - _23+|+8.82Mb
-      - 25+|32.13Mb
-      - _26+|32.38Mb
-      - _28+|151.75Mb
+      - 11|33.37Mb
+      - _12|32.55Mb
+      - _13|31.16Mb
+      - _14|32.45Mb
+      - _17|26.45Mb
+      - _18|32.60Mb
+      - 20|29.25Mb
+      - _21|26.98Mb
+      - _23|8.82Mb
+      - 25|32.13Mb
+      - _26|32.38Mb
+      - _28|151.75Mb
       - mianfeifq_120620228f77-420
       - mianfeifq_120620228f77-429
       - '@anty_filter'
@@ -663,54 +490,52 @@ proxy-groups:
       - 🇨🇦CA-196.247.59.156-15768
       - 🇨🇦CA-196.247.59.156-15777
       - 🇺🇸US-79.133.109.56-15762
-      - 🇷🇺+RU_97+|20.19Mb
-      - 🟢@v2rayng20:کانالاصلی🟢
-      - کانالتلگرام🚀@VpnRaya
-      - 🇦🇺🌏@customv2rayکانفیگهایبیشترعضوشو
-      - 🇬🇧🌏@customv2rayکانفیگهایبیشترعضوشو
-      - '@v2rayng_vpnnارسلان'
-      - '@VpnActive'
-      - کانالV_2rayNG@_1
-      - کانالV_2rayNG@_2
-      - 🌍(@Anty_Filter)_1
-      - 🌍(@Anty_Filter)_2
-      - '@beiten'
-      - '@c'
+      - 🇷🇺RU_97|20.19Mb
       - '@VMESSIRANسرور۱۹آذر_1'
-      - '@VMESSIRANسرور۱۹آذر_2'
-      - +🇸🇬+Singapore⚡️(@FastNetIR)
-      - 🌍(@Anty_Filter)_3
       - 🔰@Am1n_irسرور۲۰آذر
       - 🇩🇪@prrofile_purple_1
-      - 🌍(@Anty_Filter)_4
-      - 🇨🇦@prrofile_purple
-      - 🇨🇦@IraneAzad_Netکانالتلگرامما
-      - '@Gap_Proxy@Proxy_PJ🪐'
-      - کانفیگهایبیشتردر@Best_Program
-      - Vpnv2rayvmess
-      - VMESS22AZARFORIRANPEOPLETESTALLISP
+      - '@VMESSIRANسرور۱۹آذر_2'
       - 🇩🇪@prrofile_purple_2
-      - 🇸🇬@prrofile_purple
-      - '@VMESSIRANسرور۱۸آذر_1'
-      - '@VMESSIRANسرور۱۸آذر_2'
-      - '@VMESSIRANسرور۱۹آذر_3'
-      - 🇩🇪@prrofile_purple_3
-      - 🇩🇪@prrofile_purple_4
-      - telegram:@v2ray100_1
-      - telegram:@v2ray100_2
       - '@VMESSIRANسرور۲۰آذر_1'
-      - 🇮🇷@prrofile_purple
-      - سرورهایقویاپآزاد@app_azad_iran_1
-      - سرورهایقویاپآزاد@app_azad_iran_2
+      - سرورهایقویاپآزاد@app_azad_iran
       - '@VMESSIRANسرور۲۰آذر_2'
-      - v2cross.com_1
-      - v2cross.com_2
-      - v2cross.com_3
-      - v2cross.com_4
-      - 🇵🇱t.me/DarkVPNpro
-      - 🇮🇩+@prrofile_purple
-      - کانال+ما+@webclub_team
-      - کانالما@webclub_team
+      - 🇵🇱t.me/DarkVPNpro_1
+      - 🇩🇪@prrofile_purple_3
+      - 🔰@PewezaVpn
+      - 🇸🇬@prrofile_purple
+      - free7telegram:@falconsazi
+      - 🏴‍☠️
+      - vpnclub_7
+      - 🇲🇫t.me/DarkVPNpro_1
+      - 🇲🇫t.me/DarkVPNpro_2
+      - 🇵🇱t.me/DarkVPNpro_2
+      - 🇲🇫t.me/DarkVPNpro_3
+      - 🇲🇫t.me/DarkVPNpro_4
+      - 🇨🇳_CN_中国_1_5@1
+      - 🇯🇵_JP_日本_2_7@11
+      - 🇸🇬Lightsail-Singapore-1
+      - 🇸🇬Lightsail-Singapore-2
+      - 🇸🇬Lightsail-Singapore-3
+      - 🇸🇬AWS-Singapore-1
+      - 🇸🇬AWS-Singapore-2
+      - 🇸🇬AWS-Singapore-3
+      - 🇬🇧SpeedyPage-UK-1
+      - 🇬🇧SpeedyPage-UK-2
+      - 🇬🇧SpeedyPage-UK-3
+      - 🇬🇧SpeedyPage-UK-4
+      - 🇬🇧SpeedyPage-UK-5
+      - 🇭🇰AWS-Hongkong-1
+      - 🇭🇰AWS-Hongkong-2
+      - 🇭🇰AWS-Hongkong-3
+      - 🇰🇷AWS-Seoul-1
+      - 🇰🇷AWS-Seoul-2
+      - 🇯🇵AWS-Tokyo-1
+      - 🇯🇵AWS-Tokyo-2
+      - 🇯🇵AWS-Tokyo-3
+      - 🇺🇲BWG-LosAngeles-1
+      - 🇺🇲BWG-LosAngeles-2
+      - 🇺🇲BWG-LosAngeles-3
+      - 🇺🇲BWG-LosAngeles-4
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -733,41 +558,18 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇸🇬+Lightsail-Singapore-1
-      - 🇸🇬+Lightsail-Singapore-2
-      - 🇸🇬+Lightsail-Singapore-3
-      - 🇸🇬+AWS-Singapore-1
-      - 🇸🇬+AWS-Singapore-2
-      - 🇸🇬+AWS-Singapore-3
-      - 🇬🇧+SpeedyPage-UK-1
-      - 🇬🇧+SpeedyPage-UK-2
-      - 🇬🇧+SpeedyPage-UK-3
-      - 🇬🇧+SpeedyPage-UK-4
-      - 🇬🇧+SpeedyPage-UK-5
-      - 🇭🇰+AWS-Hongkong-1
-      - 🇭🇰+AWS-Hongkong-2
-      - 🇭🇰+AWS-Hongkong-3
-      - 🇰🇷+AWS-Seoul-1
-      - 🇰🇷+AWS-Seoul-2
-      - 🇯🇵+AWS-Tokyo-1
-      - 🇯🇵+AWS-Tokyo-2
-      - 🇯🇵+AWS-Tokyo-3
-      - 🇺🇲+BWG-LosAngeles-1
-      - 🇺🇲+BWG-LosAngeles-2
-      - 🇺🇲+BWG-LosAngeles-3
-      - 🇺🇲+BWG-LosAngeles-4
-      - 11+|33.37Mb
-      - _12+|32.55Mb
-      - _13+|31.16Mb
-      - _14+|32.45Mb
-      - _17+|26.45Mb
-      - _18+|32.60Mb
-      - 20+|29.25Mb
-      - _21+|26.98Mb
-      - _23+|+8.82Mb
-      - 25+|32.13Mb
-      - _26+|32.38Mb
-      - _28+|151.75Mb
+      - 11|33.37Mb
+      - _12|32.55Mb
+      - _13|31.16Mb
+      - _14|32.45Mb
+      - _17|26.45Mb
+      - _18|32.60Mb
+      - 20|29.25Mb
+      - _21|26.98Mb
+      - _23|8.82Mb
+      - 25|32.13Mb
+      - _26|32.38Mb
+      - _28|151.75Mb
       - mianfeifq_120620228f77-420
       - mianfeifq_120620228f77-429
       - '@anty_filter'
@@ -780,54 +582,52 @@ proxy-groups:
       - 🇨🇦CA-196.247.59.156-15768
       - 🇨🇦CA-196.247.59.156-15777
       - 🇺🇸US-79.133.109.56-15762
-      - 🇷🇺+RU_97+|20.19Mb
-      - 🟢@v2rayng20:کانالاصلی🟢
-      - کانالتلگرام🚀@VpnRaya
-      - 🇦🇺🌏@customv2rayکانفیگهایبیشترعضوشو
-      - 🇬🇧🌏@customv2rayکانفیگهایبیشترعضوشو
-      - '@v2rayng_vpnnارسلان'
-      - '@VpnActive'
-      - کانالV_2rayNG@_1
-      - کانالV_2rayNG@_2
-      - 🌍(@Anty_Filter)_1
-      - 🌍(@Anty_Filter)_2
-      - '@beiten'
-      - '@c'
+      - 🇷🇺RU_97|20.19Mb
       - '@VMESSIRANسرور۱۹آذر_1'
-      - '@VMESSIRANسرور۱۹آذر_2'
-      - +🇸🇬+Singapore⚡️(@FastNetIR)
-      - 🌍(@Anty_Filter)_3
       - 🔰@Am1n_irسرور۲۰آذر
       - 🇩🇪@prrofile_purple_1
-      - 🌍(@Anty_Filter)_4
-      - 🇨🇦@prrofile_purple
-      - 🇨🇦@IraneAzad_Netکانالتلگرامما
-      - '@Gap_Proxy@Proxy_PJ🪐'
-      - کانفیگهایبیشتردر@Best_Program
-      - Vpnv2rayvmess
-      - VMESS22AZARFORIRANPEOPLETESTALLISP
+      - '@VMESSIRANسرور۱۹آذر_2'
       - 🇩🇪@prrofile_purple_2
-      - 🇸🇬@prrofile_purple
-      - '@VMESSIRANسرور۱۸آذر_1'
-      - '@VMESSIRANسرور۱۸آذر_2'
-      - '@VMESSIRANسرور۱۹آذر_3'
-      - 🇩🇪@prrofile_purple_3
-      - 🇩🇪@prrofile_purple_4
-      - telegram:@v2ray100_1
-      - telegram:@v2ray100_2
       - '@VMESSIRANسرور۲۰آذر_1'
-      - 🇮🇷@prrofile_purple
-      - سرورهایقویاپآزاد@app_azad_iran_1
-      - سرورهایقویاپآزاد@app_azad_iran_2
+      - سرورهایقویاپآزاد@app_azad_iran
       - '@VMESSIRANسرور۲۰آذر_2'
-      - v2cross.com_1
-      - v2cross.com_2
-      - v2cross.com_3
-      - v2cross.com_4
-      - 🇵🇱t.me/DarkVPNpro
-      - 🇮🇩+@prrofile_purple
-      - کانال+ما+@webclub_team
-      - کانالما@webclub_team
+      - 🇵🇱t.me/DarkVPNpro_1
+      - 🇩🇪@prrofile_purple_3
+      - 🔰@PewezaVpn
+      - 🇸🇬@prrofile_purple
+      - free7telegram:@falconsazi
+      - 🏴‍☠️
+      - vpnclub_7
+      - 🇲🇫t.me/DarkVPNpro_1
+      - 🇲🇫t.me/DarkVPNpro_2
+      - 🇵🇱t.me/DarkVPNpro_2
+      - 🇲🇫t.me/DarkVPNpro_3
+      - 🇲🇫t.me/DarkVPNpro_4
+      - 🇨🇳_CN_中国_1_5@1
+      - 🇯🇵_JP_日本_2_7@11
+      - 🇸🇬Lightsail-Singapore-1
+      - 🇸🇬Lightsail-Singapore-2
+      - 🇸🇬Lightsail-Singapore-3
+      - 🇸🇬AWS-Singapore-1
+      - 🇸🇬AWS-Singapore-2
+      - 🇸🇬AWS-Singapore-3
+      - 🇬🇧SpeedyPage-UK-1
+      - 🇬🇧SpeedyPage-UK-2
+      - 🇬🇧SpeedyPage-UK-3
+      - 🇬🇧SpeedyPage-UK-4
+      - 🇬🇧SpeedyPage-UK-5
+      - 🇭🇰AWS-Hongkong-1
+      - 🇭🇰AWS-Hongkong-2
+      - 🇭🇰AWS-Hongkong-3
+      - 🇰🇷AWS-Seoul-1
+      - 🇰🇷AWS-Seoul-2
+      - 🇯🇵AWS-Tokyo-1
+      - 🇯🇵AWS-Tokyo-2
+      - 🇯🇵AWS-Tokyo-3
+      - 🇺🇲BWG-LosAngeles-1
+      - 🇺🇲BWG-LosAngeles-2
+      - 🇺🇲BWG-LosAngeles-3
+      - 🇺🇲BWG-LosAngeles-4
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

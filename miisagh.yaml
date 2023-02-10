@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：09-02-2023 17:19:04
+# 创建时间：10-02-2023 10:34:04
 # 使用模版：V2RaySE 默认模版
-# 节点数量：48
+# 节点数量：38
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -25,24 +25,16 @@ proxies:
   - {"name":"🇭🇰 香港 W13I | 海外直连 | 3x","type":"trojan","server":"185.74.222.113","port":22113,"udp":true,"password":"zPMyFcAyR4","sni":"$l12a.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰 香港 W57I | 海外直连 | 3x","type":"trojan","server":"185.244.208.57","port":16119,"udp":true,"password":"zPMyFcAyR4","sni":"$l19b.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬 新加坡 W51I | 海外直连、高配 | 2x","type":"trojan","server":"146.190.42.78","port":48186,"udp":true,"password":"zPMyFcAyR4","sni":"$l2d.ft3.us","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬 新加坡 W85 | 直连、高配 | 2x","type":"trojan","server":"167.172.71.185","port":10132,"udp":true,"password":"zPMyFcAyR4","sni":"$l14b.ft3.us","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬 新加坡 W96 | 直连、高配 | 2x","type":"trojan","server":"157.245.50.196","port":16126,"udp":true,"password":"zPMyFcAyR4","sni":"$l26a.ft3.us","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬 新加坡 W06 | 直连、新开机 | 2x","type":"trojan","server":"68.183.180.206","port":16129,"udp":true,"password":"zPMyFcAyR4","sni":"$l29a.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵 日本 W14 | 直连、高配 | 2x","type":"trojan","server":"139.162.78.214","port":16125,"udp":true,"password":"zPMyFcAyR4","sni":"$l25b.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬 日本 W13 | 直连、高配、新开机 | 2x","type":"trojan","server":"172.105.226.213","port":16116,"udp":true,"password":"zPMyFcAyR4","sni":"$l16b.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬 日本 W82 | 直连、高配、新开机 | 2x","type":"trojan","server":"172.105.213.82","port":16115,"udp":true,"password":"zPMyFcAyR4","sni":"$l15c.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰 香港 W13B | 苏港移动、ChatGPT | 3x","type":"trojan","server":"221.181.185.224","port":18410,"udp":true,"password":"zPMyFcAyR4","sni":"$z82b.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳 台湾 W52 | 直连、ChatGPT | 2x","type":"trojan","server":"165.154.253.152","port":16118,"udp":true,"password":"zPMyFcAyR4","sni":"$l18a.ft3.us","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸 美国 G82 | 直连、高配 | 2x","type":"trojan","server":"161.35.231.82","port":16124,"udp":true,"password":"zPMyFcAyR4","sni":"$l24a.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇸🇬 美国 G37 | 直连、使用人少、新开机 | 2x","type":"trojan","server":"137.184.190.237","port":16121,"udp":true,"password":"zPMyFcAyR4","sni":"$l21a.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸 美国 G17 | 直连、高配 | 2x","type":"trojan","server":"192.46.219.156","port":48385,"udp":true,"password":"zPMyFcAyR4","sni":"$l1f.ft3.us","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸 美国 G19 | 直连、高配 | 2x","type":"trojan","server":"24.199.113.247","port":10131,"udp":true,"password":"zPMyFcAyR4","sni":"$l13c.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸 美国 G29 | 沪美电信、ChatGPT | 3x","type":"trojan","server":"114.80.37.9","port":11013,"udp":true,"password":"zPMyFcAyR4","sni":"$z11c.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸 美国 G22 | 沪美电信、ChatGPT | 3x","type":"trojan","server":"114.80.37.9","port":11011,"udp":true,"password":"zPMyFcAyR4","sni":"$z11c.ft3.us","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇵🇭 菲律宾 B11 | 直连、ChatGPT | 2x","type":"trojan","server":"165.154.233.11","port":23311,"udp":true,"password":"zPMyFcAyR4","sni":"$l7a.ft3.us","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇦 乌克兰 B11C | 海外直连 | 2x","type":"trojan","server":"45.87.155.101","port":443,"udp":true,"password":"zPMyFcAyR4","sni":"$l4a.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇷🇺 俄罗斯 B75C | 海外直连 | 2x","type":"trojan","server":"45.144.30.175","port":443,"udp":true,"password":"zPMyFcAyR4","sni":"$l3a.ft3.us","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇩🇪 德国 B16C | 海外直连 | 2x","type":"trojan","server":"5.252.22.116","port":443,"udp":true,"password":"zPMyFcAyR4","sni":"$l13a.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"----- 账号信息 -----","type":"trojan","server":"185.74.222.113","port":22113,"udp":true,"password":"zPMyFcAyR4","sni":"$l12a.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"登录邮箱: smijguf@f.lm","type":"trojan","server":"185.74.222.113","port":22113,"udp":true,"password":"zPMyFcAyR4","sni":"$l12a.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"体验套餐: 剩余21小时29分钟","type":"trojan","server":"185.74.222.113","port":22113,"udp":true,"password":"zPMyFcAyR4","sni":"$l12a.ft3.us","skip-cert-verify":true,"network":"tcp"}
@@ -51,17 +43,9 @@ proxies:
   - {"name":"电报: https://t.me/falemon_group","type":"trojan","server":"185.74.222.113","port":22113,"udp":true,"password":"zPMyFcAyR4","sni":"$l12a.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"邮箱: contact@falemon.com","type":"trojan","server":"185.74.222.113","port":22113,"udp":true,"password":"zPMyFcAyR4","sni":"$l12a.ft3.us","skip-cert-verify":true,"network":"tcp"}
   - {"name":"官网: falm.cc","type":"trojan","server":"185.74.222.113","port":22113,"udp":true,"password":"zPMyFcAyR4","sni":"$l12a.ft3.us","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸 United States 05 TG:@nodpai","type":"vmess","server":"v2.linux.im","port":443,"cipher":"auto","uuid":"599a2a1f-dc4f-3378-b4dc-3923e599257b","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"bsi.ir","network":"ws","ws-opts":{"path":"/chinanet","headers":{"host":"v2.linux.im"}}}
-  - {"name":"🇺🇸 United States 08 TG:@nodpai","type":"trojan","server":"103.tuiyou66.top","port":561,"udp":true,"password":"3d81e6fb-c7f0-4791-af2e-82c93d149483","sni":"bmi.ir","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸 United States 09 TG:@nodpai","type":"trojan","server":"101.tuiyou66.top","port":9121,"udp":true,"password":"3d81e6fb-c7f0-4791-af2e-82c93d149483","sni":"hiweb.ir","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇭🇰 Hong Kong 01 TG:@nodpai","type":"trojan","server":"kaizen-hk-2.mielink-dns2.com","port":443,"udp":true,"password":"265f092f-418b-30c9-a479-4800fd44dd19mielink","sni":"soft98.ir","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰 Hong Kong 02 TG:@nodpai","type":"trojan","server":"kaizen-hk-1.mielink-dns2.com","port":443,"udp":true,"password":"265f092f-418b-30c9-a479-4800fd44dd19mielink","sni":"bki.ir","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼 Taiwan 02 TG:@nodpai","type":"trojan","server":"kaizen-tw-6.paolu.co","port":443,"udp":true,"password":"265f092f-418b-30c9-a479-4800fd44dd19mielink","sni":"bmi.ir","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼 Taiwan 03 TG:@nodpai","type":"trojan","server":"kaizen-tw-3.mielink-dns2.com","port":443,"udp":true,"password":"265f092f-418b-30c9-a479-4800fd44dd19mielink","sni":"hiweb.ir","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬 Singapore 01 TG:@nodpai","type":"vmess","server":"free-sg1.tencent.cfd","port":50328,"cipher":"auto","uuid":"d1860587-aa33-4b76-85cd-c191edecb338","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"free-sg1.tencent.cfd"}}}
-  - {"name":"🇰🇷 South Korea 02 TG:@nodpai","type":"vmess","server":"kr1.acyun.eu.org","port":35626,"cipher":"auto","uuid":"63639a72-f01e-46f4-a45c-91b5cd5e171b","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"apple.com"}}}
-  - {"name":"🇹🇷 Turkey 01 TG:@nodpai","type":"vmess","server":"152.89.193.225","port":80,"cipher":"auto","uuid":"8c557a51-80b9-49be-d74a-1450c3e2b77f","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 狮城01 深新","type":"vmess","server":"sz-sg.19991314.xyz","port":16216,"cipher":"auto","uuid":"215de31f-e0cc-4df7-8bff-b6a2494a45da","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"bmi.ir","network":"ws","ws-opts":{"path":""}}
   - {"name":"misagh","type":"vmess","server":"go.aidapp.sbs","port":443,"cipher":"auto","uuid":"1a4254b4-829c-4bf4-901b-bf8172c301fd","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hstr1675889106043.aidapp.sbs","network":"ws","ws-opts":{"path":"/aidapp.sbsvws","headers":{"host":"hstr1675889106043.aidapp.sbs"}}}
   - {"name":"🇸🇬①狮城 | 公益节点","type":"vmess","server":"sz-sg.19991314.xyz","port":16216,"cipher":"auto","uuid":"215de31f-e0cc-4df7-8bff-b6a2494a45da","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇸🇬②狮城 | 公益节点","type":"vmess","server":"sh-jp.19991314.xyz","port":55504,"cipher":"auto","uuid":"215de31f-e0cc-4df7-8bff-b6a2494a45da","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
@@ -69,6 +53,12 @@ proxies:
   - {"name":"🇯🇵④东京 | 公益节点","type":"vmess","server":"sh-jp.19991314.xyz","port":43629,"cipher":"auto","uuid":"215de31f-e0cc-4df7-8bff-b6a2494a45da","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸⑤美国 | 公益节点","type":"vmess","server":"sh-jp.19991314.xyz","port":28364,"cipher":"auto","uuid":"215de31f-e0cc-4df7-8bff-b6a2494a45da","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇮🇳⑥印度 | 公益节点","type":"vmess","server":"sz-sg.19991314.xyz","port":23718,"cipher":"auto","uuid":"215de31f-e0cc-4df7-8bff-b6a2494a45da","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇯🇵 aricke.com风车机场-东京1","type":"vmess","server":"jp.x5555.xyz","port":14131,"cipher":"auto","uuid":"a65e5b1c-0b37-45e5-f753-ab989978c358","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"jp.x5555.xyz","network":"tcp"}
+  - {"name":"🇯🇵 aricke.com风车机场-东京2","type":"vmess","server":"jp.x5555.xyz","port":14131,"cipher":"auto","uuid":"a65e5b1c-0b37-45e5-f753-ab989978c358","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"jp.x5555.xyz","network":"tcp"}
+  - {"name":"🇯🇵 aricke.com风车机场-大阪1","type":"vmess","server":"jp.x8888.xyz","port":33071,"cipher":"auto","uuid":"0142656c-f839-40d7-8f2b-6ee549edc865","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"jp.x8888.xyz","network":"tcp"}
+  - {"name":"🇯🇵 aricke.com风车机场-大阪2","type":"vmess","server":"jp.x8888.xyz","port":33071,"cipher":"auto","uuid":"0142656c-f839-40d7-8f2b-6ee549edc865","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"jp.x8888.xyz","network":"tcp"}
+  - {"name":"🇭🇰 aricke.com风车机场-香港1","type":"vmess","server":"hk.x7777.xyz","port":13161,"cipher":"auto","uuid":"21ac4e50-6f63-4161-a539-e2bb20b86d56","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hk.x7777.xyz","network":"tcp"}
+  - {"name":"🇭🇰 aricke.com风车机场-香港2","type":"vmess","server":"hk.x7777.xyz","port":13161,"cipher":"auto","uuid":"21ac4e50-6f63-4161-a539-e2bb20b86d56","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hk.x7777.xyz","network":"tcp"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -79,24 +69,16 @@ proxy-groups:
       - 🇭🇰 香港 W13I | 海外直连 | 3x
       - 🇭🇰 香港 W57I | 海外直连 | 3x
       - 🇸🇬 新加坡 W51I | 海外直连、高配 | 2x
-      - 🇸🇬 新加坡 W85 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W96 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W06 | 直连、新开机 | 2x
       - 🇯🇵 日本 W14 | 直连、高配 | 2x
       - 🇸🇬 日本 W13 | 直连、高配、新开机 | 2x
       - 🇸🇬 日本 W82 | 直连、高配、新开机 | 2x
       - 🇭🇰 香港 W13B | 苏港移动、ChatGPT | 3x
       - 🇨🇳 台湾 W52 | 直连、ChatGPT | 2x
-      - 🇺🇸 美国 G82 | 直连、高配 | 2x
       - 🇸🇬 美国 G37 | 直连、使用人少、新开机 | 2x
       - 🇺🇸 美国 G17 | 直连、高配 | 2x
-      - 🇺🇸 美国 G19 | 直连、高配 | 2x
       - 🇺🇸 美国 G29 | 沪美电信、ChatGPT | 3x
       - 🇺🇸 美国 G22 | 沪美电信、ChatGPT | 3x
-      - 🇵🇭 菲律宾 B11 | 直连、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11C | 海外直连 | 2x
       - 🇷🇺 俄罗斯 B75C | 海外直连 | 2x
-      - 🇩🇪 德国 B16C | 海外直连 | 2x
       - '----- 账号信息 -----'
       - '登录邮箱: smijguf@f.lm'
       - '体验套餐: 剩余21小时29分钟'
@@ -105,17 +87,9 @@ proxy-groups:
       - '电报: https://t.me/falemon_group'
       - '邮箱: contact@falemon.com'
       - '官网: falm.cc'
-      - 🇺🇸 United States 05 TG:@nodpai
-      - 🇺🇸 United States 08 TG:@nodpai
-      - 🇺🇸 United States 09 TG:@nodpai
-      - 🇭🇰 Hong Kong 01 TG:@nodpai
       - 🇭🇰 Hong Kong 02 TG:@nodpai
       - 🇹🇼 Taiwan 02 TG:@nodpai
       - 🇹🇼 Taiwan 03 TG:@nodpai
-      - 🇸🇬 Singapore 01 TG:@nodpai
-      - 🇰🇷 South Korea 02 TG:@nodpai
-      - 🇹🇷 Turkey 01 TG:@nodpai
-      - 🇸🇬 狮城01 深新
       - misagh
       - 🇸🇬①狮城 | 公益节点
       - 🇸🇬②狮城 | 公益节点
@@ -123,6 +97,12 @@ proxy-groups:
       - 🇯🇵④东京 | 公益节点
       - 🇺🇸⑤美国 | 公益节点
       - 🇮🇳⑥印度 | 公益节点
+      - 🇯🇵 aricke.com风车机场-东京1
+      - 🇯🇵 aricke.com风车机场-东京2
+      - 🇯🇵 aricke.com风车机场-大阪1
+      - 🇯🇵 aricke.com风车机场-大阪2
+      - 🇭🇰 aricke.com风车机场-香港1
+      - 🇭🇰 aricke.com风车机场-香港2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -133,24 +113,16 @@ proxy-groups:
       - 🇭🇰 香港 W13I | 海外直连 | 3x
       - 🇭🇰 香港 W57I | 海外直连 | 3x
       - 🇸🇬 新加坡 W51I | 海外直连、高配 | 2x
-      - 🇸🇬 新加坡 W85 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W96 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W06 | 直连、新开机 | 2x
       - 🇯🇵 日本 W14 | 直连、高配 | 2x
       - 🇸🇬 日本 W13 | 直连、高配、新开机 | 2x
       - 🇸🇬 日本 W82 | 直连、高配、新开机 | 2x
       - 🇭🇰 香港 W13B | 苏港移动、ChatGPT | 3x
       - 🇨🇳 台湾 W52 | 直连、ChatGPT | 2x
-      - 🇺🇸 美国 G82 | 直连、高配 | 2x
       - 🇸🇬 美国 G37 | 直连、使用人少、新开机 | 2x
       - 🇺🇸 美国 G17 | 直连、高配 | 2x
-      - 🇺🇸 美国 G19 | 直连、高配 | 2x
       - 🇺🇸 美国 G29 | 沪美电信、ChatGPT | 3x
       - 🇺🇸 美国 G22 | 沪美电信、ChatGPT | 3x
-      - 🇵🇭 菲律宾 B11 | 直连、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11C | 海外直连 | 2x
       - 🇷🇺 俄罗斯 B75C | 海外直连 | 2x
-      - 🇩🇪 德国 B16C | 海外直连 | 2x
       - '----- 账号信息 -----'
       - '登录邮箱: smijguf@f.lm'
       - '体验套餐: 剩余21小时29分钟'
@@ -159,17 +131,9 @@ proxy-groups:
       - '电报: https://t.me/falemon_group'
       - '邮箱: contact@falemon.com'
       - '官网: falm.cc'
-      - 🇺🇸 United States 05 TG:@nodpai
-      - 🇺🇸 United States 08 TG:@nodpai
-      - 🇺🇸 United States 09 TG:@nodpai
-      - 🇭🇰 Hong Kong 01 TG:@nodpai
       - 🇭🇰 Hong Kong 02 TG:@nodpai
       - 🇹🇼 Taiwan 02 TG:@nodpai
       - 🇹🇼 Taiwan 03 TG:@nodpai
-      - 🇸🇬 Singapore 01 TG:@nodpai
-      - 🇰🇷 South Korea 02 TG:@nodpai
-      - 🇹🇷 Turkey 01 TG:@nodpai
-      - 🇸🇬 狮城01 深新
       - misagh
       - 🇸🇬①狮城 | 公益节点
       - 🇸🇬②狮城 | 公益节点
@@ -177,6 +141,12 @@ proxy-groups:
       - 🇯🇵④东京 | 公益节点
       - 🇺🇸⑤美国 | 公益节点
       - 🇮🇳⑥印度 | 公益节点
+      - 🇯🇵 aricke.com风车机场-东京1
+      - 🇯🇵 aricke.com风车机场-东京2
+      - 🇯🇵 aricke.com风车机场-大阪1
+      - 🇯🇵 aricke.com风车机场-大阪2
+      - 🇭🇰 aricke.com风车机场-香港1
+      - 🇭🇰 aricke.com风车机场-香港2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -187,24 +157,16 @@ proxy-groups:
       - 🇭🇰 香港 W13I | 海外直连 | 3x
       - 🇭🇰 香港 W57I | 海外直连 | 3x
       - 🇸🇬 新加坡 W51I | 海外直连、高配 | 2x
-      - 🇸🇬 新加坡 W85 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W96 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W06 | 直连、新开机 | 2x
       - 🇯🇵 日本 W14 | 直连、高配 | 2x
       - 🇸🇬 日本 W13 | 直连、高配、新开机 | 2x
       - 🇸🇬 日本 W82 | 直连、高配、新开机 | 2x
       - 🇭🇰 香港 W13B | 苏港移动、ChatGPT | 3x
       - 🇨🇳 台湾 W52 | 直连、ChatGPT | 2x
-      - 🇺🇸 美国 G82 | 直连、高配 | 2x
       - 🇸🇬 美国 G37 | 直连、使用人少、新开机 | 2x
       - 🇺🇸 美国 G17 | 直连、高配 | 2x
-      - 🇺🇸 美国 G19 | 直连、高配 | 2x
       - 🇺🇸 美国 G29 | 沪美电信、ChatGPT | 3x
       - 🇺🇸 美国 G22 | 沪美电信、ChatGPT | 3x
-      - 🇵🇭 菲律宾 B11 | 直连、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11C | 海外直连 | 2x
       - 🇷🇺 俄罗斯 B75C | 海外直连 | 2x
-      - 🇩🇪 德国 B16C | 海外直连 | 2x
       - '----- 账号信息 -----'
       - '登录邮箱: smijguf@f.lm'
       - '体验套餐: 剩余21小时29分钟'
@@ -213,17 +175,9 @@ proxy-groups:
       - '电报: https://t.me/falemon_group'
       - '邮箱: contact@falemon.com'
       - '官网: falm.cc'
-      - 🇺🇸 United States 05 TG:@nodpai
-      - 🇺🇸 United States 08 TG:@nodpai
-      - 🇺🇸 United States 09 TG:@nodpai
-      - 🇭🇰 Hong Kong 01 TG:@nodpai
       - 🇭🇰 Hong Kong 02 TG:@nodpai
       - 🇹🇼 Taiwan 02 TG:@nodpai
       - 🇹🇼 Taiwan 03 TG:@nodpai
-      - 🇸🇬 Singapore 01 TG:@nodpai
-      - 🇰🇷 South Korea 02 TG:@nodpai
-      - 🇹🇷 Turkey 01 TG:@nodpai
-      - 🇸🇬 狮城01 深新
       - misagh
       - 🇸🇬①狮城 | 公益节点
       - 🇸🇬②狮城 | 公益节点
@@ -231,6 +185,12 @@ proxy-groups:
       - 🇯🇵④东京 | 公益节点
       - 🇺🇸⑤美国 | 公益节点
       - 🇮🇳⑥印度 | 公益节点
+      - 🇯🇵 aricke.com风车机场-东京1
+      - 🇯🇵 aricke.com风车机场-东京2
+      - 🇯🇵 aricke.com风车机场-大阪1
+      - 🇯🇵 aricke.com风车机场-大阪2
+      - 🇭🇰 aricke.com风车机场-香港1
+      - 🇭🇰 aricke.com风车机场-香港2
   - name: 📲 电报信息
     type: select
     proxies:
@@ -240,24 +200,16 @@ proxy-groups:
       - 🇭🇰 香港 W13I | 海外直连 | 3x
       - 🇭🇰 香港 W57I | 海外直连 | 3x
       - 🇸🇬 新加坡 W51I | 海外直连、高配 | 2x
-      - 🇸🇬 新加坡 W85 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W96 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W06 | 直连、新开机 | 2x
       - 🇯🇵 日本 W14 | 直连、高配 | 2x
       - 🇸🇬 日本 W13 | 直连、高配、新开机 | 2x
       - 🇸🇬 日本 W82 | 直连、高配、新开机 | 2x
       - 🇭🇰 香港 W13B | 苏港移动、ChatGPT | 3x
       - 🇨🇳 台湾 W52 | 直连、ChatGPT | 2x
-      - 🇺🇸 美国 G82 | 直连、高配 | 2x
       - 🇸🇬 美国 G37 | 直连、使用人少、新开机 | 2x
       - 🇺🇸 美国 G17 | 直连、高配 | 2x
-      - 🇺🇸 美国 G19 | 直连、高配 | 2x
       - 🇺🇸 美国 G29 | 沪美电信、ChatGPT | 3x
       - 🇺🇸 美国 G22 | 沪美电信、ChatGPT | 3x
-      - 🇵🇭 菲律宾 B11 | 直连、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11C | 海外直连 | 2x
       - 🇷🇺 俄罗斯 B75C | 海外直连 | 2x
-      - 🇩🇪 德国 B16C | 海外直连 | 2x
       - '----- 账号信息 -----'
       - '登录邮箱: smijguf@f.lm'
       - '体验套餐: 剩余21小时29分钟'
@@ -266,17 +218,9 @@ proxy-groups:
       - '电报: https://t.me/falemon_group'
       - '邮箱: contact@falemon.com'
       - '官网: falm.cc'
-      - 🇺🇸 United States 05 TG:@nodpai
-      - 🇺🇸 United States 08 TG:@nodpai
-      - 🇺🇸 United States 09 TG:@nodpai
-      - 🇭🇰 Hong Kong 01 TG:@nodpai
       - 🇭🇰 Hong Kong 02 TG:@nodpai
       - 🇹🇼 Taiwan 02 TG:@nodpai
       - 🇹🇼 Taiwan 03 TG:@nodpai
-      - 🇸🇬 Singapore 01 TG:@nodpai
-      - 🇰🇷 South Korea 02 TG:@nodpai
-      - 🇹🇷 Turkey 01 TG:@nodpai
-      - 🇸🇬 狮城01 深新
       - misagh
       - 🇸🇬①狮城 | 公益节点
       - 🇸🇬②狮城 | 公益节点
@@ -284,6 +228,12 @@ proxy-groups:
       - 🇯🇵④东京 | 公益节点
       - 🇺🇸⑤美国 | 公益节点
       - 🇮🇳⑥印度 | 公益节点
+      - 🇯🇵 aricke.com风车机场-东京1
+      - 🇯🇵 aricke.com风车机场-东京2
+      - 🇯🇵 aricke.com风车机场-大阪1
+      - 🇯🇵 aricke.com风车机场-大阪2
+      - 🇭🇰 aricke.com风车机场-香港1
+      - 🇭🇰 aricke.com风车机场-香港2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -293,24 +243,16 @@ proxy-groups:
       - 🇭🇰 香港 W13I | 海外直连 | 3x
       - 🇭🇰 香港 W57I | 海外直连 | 3x
       - 🇸🇬 新加坡 W51I | 海外直连、高配 | 2x
-      - 🇸🇬 新加坡 W85 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W96 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W06 | 直连、新开机 | 2x
       - 🇯🇵 日本 W14 | 直连、高配 | 2x
       - 🇸🇬 日本 W13 | 直连、高配、新开机 | 2x
       - 🇸🇬 日本 W82 | 直连、高配、新开机 | 2x
       - 🇭🇰 香港 W13B | 苏港移动、ChatGPT | 3x
       - 🇨🇳 台湾 W52 | 直连、ChatGPT | 2x
-      - 🇺🇸 美国 G82 | 直连、高配 | 2x
       - 🇸🇬 美国 G37 | 直连、使用人少、新开机 | 2x
       - 🇺🇸 美国 G17 | 直连、高配 | 2x
-      - 🇺🇸 美国 G19 | 直连、高配 | 2x
       - 🇺🇸 美国 G29 | 沪美电信、ChatGPT | 3x
       - 🇺🇸 美国 G22 | 沪美电信、ChatGPT | 3x
-      - 🇵🇭 菲律宾 B11 | 直连、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11C | 海外直连 | 2x
       - 🇷🇺 俄罗斯 B75C | 海外直连 | 2x
-      - 🇩🇪 德国 B16C | 海外直连 | 2x
       - '----- 账号信息 -----'
       - '登录邮箱: smijguf@f.lm'
       - '体验套餐: 剩余21小时29分钟'
@@ -319,17 +261,9 @@ proxy-groups:
       - '电报: https://t.me/falemon_group'
       - '邮箱: contact@falemon.com'
       - '官网: falm.cc'
-      - 🇺🇸 United States 05 TG:@nodpai
-      - 🇺🇸 United States 08 TG:@nodpai
-      - 🇺🇸 United States 09 TG:@nodpai
-      - 🇭🇰 Hong Kong 01 TG:@nodpai
       - 🇭🇰 Hong Kong 02 TG:@nodpai
       - 🇹🇼 Taiwan 02 TG:@nodpai
       - 🇹🇼 Taiwan 03 TG:@nodpai
-      - 🇸🇬 Singapore 01 TG:@nodpai
-      - 🇰🇷 South Korea 02 TG:@nodpai
-      - 🇹🇷 Turkey 01 TG:@nodpai
-      - 🇸🇬 狮城01 深新
       - misagh
       - 🇸🇬①狮城 | 公益节点
       - 🇸🇬②狮城 | 公益节点
@@ -337,6 +271,12 @@ proxy-groups:
       - 🇯🇵④东京 | 公益节点
       - 🇺🇸⑤美国 | 公益节点
       - 🇮🇳⑥印度 | 公益节点
+      - 🇯🇵 aricke.com风车机场-东京1
+      - 🇯🇵 aricke.com风车机场-东京2
+      - 🇯🇵 aricke.com风车机场-大阪1
+      - 🇯🇵 aricke.com风车机场-大阪2
+      - 🇭🇰 aricke.com风车机场-香港1
+      - 🇭🇰 aricke.com风车机场-香港2
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -346,24 +286,16 @@ proxy-groups:
       - 🇭🇰 香港 W13I | 海外直连 | 3x
       - 🇭🇰 香港 W57I | 海外直连 | 3x
       - 🇸🇬 新加坡 W51I | 海外直连、高配 | 2x
-      - 🇸🇬 新加坡 W85 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W96 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W06 | 直连、新开机 | 2x
       - 🇯🇵 日本 W14 | 直连、高配 | 2x
       - 🇸🇬 日本 W13 | 直连、高配、新开机 | 2x
       - 🇸🇬 日本 W82 | 直连、高配、新开机 | 2x
       - 🇭🇰 香港 W13B | 苏港移动、ChatGPT | 3x
       - 🇨🇳 台湾 W52 | 直连、ChatGPT | 2x
-      - 🇺🇸 美国 G82 | 直连、高配 | 2x
       - 🇸🇬 美国 G37 | 直连、使用人少、新开机 | 2x
       - 🇺🇸 美国 G17 | 直连、高配 | 2x
-      - 🇺🇸 美国 G19 | 直连、高配 | 2x
       - 🇺🇸 美国 G29 | 沪美电信、ChatGPT | 3x
       - 🇺🇸 美国 G22 | 沪美电信、ChatGPT | 3x
-      - 🇵🇭 菲律宾 B11 | 直连、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11C | 海外直连 | 2x
       - 🇷🇺 俄罗斯 B75C | 海外直连 | 2x
-      - 🇩🇪 德国 B16C | 海外直连 | 2x
       - '----- 账号信息 -----'
       - '登录邮箱: smijguf@f.lm'
       - '体验套餐: 剩余21小时29分钟'
@@ -372,17 +304,9 @@ proxy-groups:
       - '电报: https://t.me/falemon_group'
       - '邮箱: contact@falemon.com'
       - '官网: falm.cc'
-      - 🇺🇸 United States 05 TG:@nodpai
-      - 🇺🇸 United States 08 TG:@nodpai
-      - 🇺🇸 United States 09 TG:@nodpai
-      - 🇭🇰 Hong Kong 01 TG:@nodpai
       - 🇭🇰 Hong Kong 02 TG:@nodpai
       - 🇹🇼 Taiwan 02 TG:@nodpai
       - 🇹🇼 Taiwan 03 TG:@nodpai
-      - 🇸🇬 Singapore 01 TG:@nodpai
-      - 🇰🇷 South Korea 02 TG:@nodpai
-      - 🇹🇷 Turkey 01 TG:@nodpai
-      - 🇸🇬 狮城01 深新
       - misagh
       - 🇸🇬①狮城 | 公益节点
       - 🇸🇬②狮城 | 公益节点
@@ -390,6 +314,12 @@ proxy-groups:
       - 🇯🇵④东京 | 公益节点
       - 🇺🇸⑤美国 | 公益节点
       - 🇮🇳⑥印度 | 公益节点
+      - 🇯🇵 aricke.com风车机场-东京1
+      - 🇯🇵 aricke.com风车机场-东京2
+      - 🇯🇵 aricke.com风车机场-大阪1
+      - 🇯🇵 aricke.com风车机场-大阪2
+      - 🇭🇰 aricke.com风车机场-香港1
+      - 🇭🇰 aricke.com风车机场-香港2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -416,24 +346,16 @@ proxy-groups:
       - 🇭🇰 香港 W13I | 海外直连 | 3x
       - 🇭🇰 香港 W57I | 海外直连 | 3x
       - 🇸🇬 新加坡 W51I | 海外直连、高配 | 2x
-      - 🇸🇬 新加坡 W85 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W96 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W06 | 直连、新开机 | 2x
       - 🇯🇵 日本 W14 | 直连、高配 | 2x
       - 🇸🇬 日本 W13 | 直连、高配、新开机 | 2x
       - 🇸🇬 日本 W82 | 直连、高配、新开机 | 2x
       - 🇭🇰 香港 W13B | 苏港移动、ChatGPT | 3x
       - 🇨🇳 台湾 W52 | 直连、ChatGPT | 2x
-      - 🇺🇸 美国 G82 | 直连、高配 | 2x
       - 🇸🇬 美国 G37 | 直连、使用人少、新开机 | 2x
       - 🇺🇸 美国 G17 | 直连、高配 | 2x
-      - 🇺🇸 美国 G19 | 直连、高配 | 2x
       - 🇺🇸 美国 G29 | 沪美电信、ChatGPT | 3x
       - 🇺🇸 美国 G22 | 沪美电信、ChatGPT | 3x
-      - 🇵🇭 菲律宾 B11 | 直连、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11C | 海外直连 | 2x
       - 🇷🇺 俄罗斯 B75C | 海外直连 | 2x
-      - 🇩🇪 德国 B16C | 海外直连 | 2x
       - '----- 账号信息 -----'
       - '登录邮箱: smijguf@f.lm'
       - '体验套餐: 剩余21小时29分钟'
@@ -442,17 +364,9 @@ proxy-groups:
       - '电报: https://t.me/falemon_group'
       - '邮箱: contact@falemon.com'
       - '官网: falm.cc'
-      - 🇺🇸 United States 05 TG:@nodpai
-      - 🇺🇸 United States 08 TG:@nodpai
-      - 🇺🇸 United States 09 TG:@nodpai
-      - 🇭🇰 Hong Kong 01 TG:@nodpai
       - 🇭🇰 Hong Kong 02 TG:@nodpai
       - 🇹🇼 Taiwan 02 TG:@nodpai
       - 🇹🇼 Taiwan 03 TG:@nodpai
-      - 🇸🇬 Singapore 01 TG:@nodpai
-      - 🇰🇷 South Korea 02 TG:@nodpai
-      - 🇹🇷 Turkey 01 TG:@nodpai
-      - 🇸🇬 狮城01 深新
       - misagh
       - 🇸🇬①狮城 | 公益节点
       - 🇸🇬②狮城 | 公益节点
@@ -460,6 +374,12 @@ proxy-groups:
       - 🇯🇵④东京 | 公益节点
       - 🇺🇸⑤美国 | 公益节点
       - 🇮🇳⑥印度 | 公益节点
+      - 🇯🇵 aricke.com风车机场-东京1
+      - 🇯🇵 aricke.com风车机场-东京2
+      - 🇯🇵 aricke.com风车机场-大阪1
+      - 🇯🇵 aricke.com风车机场-大阪2
+      - 🇭🇰 aricke.com风车机场-香港1
+      - 🇭🇰 aricke.com风车机场-香港2
 
 rules:
 # 本地/局域网地址

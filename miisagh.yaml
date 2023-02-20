@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：20-02-2023 23:55:46
+# 创建时间：21-02-2023 00:10:48
 # 使用模版：V2RaySE 默认模版
-# 节点数量：181
+# 节点数量：165
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -186,21 +186,6 @@ proxies:
   - {"name":"🇯🇵东京 | 公益节点","type":"vmess","server":"dj.svip8.cn","port":10000,"cipher":"auto","uuid":"215de31f-e0cc-4df7-8bff-b6a2494a45da","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇯🇵备用 | 公益节点","type":"vmess","server":"fz-dj.svip8.cn","port":12345,"cipher":"auto","uuid":"215de31f-e0cc-4df7-8bff-b6a2494a45da","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇸🇬备用 | 公益节点","type":"vmess","server":"fz-sc.svip8.cn","port":12345,"cipher":"auto","uuid":"215de31f-e0cc-4df7-8bff-b6a2494a45da","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"𝙋𝙇₁｜波兰-Vc［CDN］","type":"vmess","server":"vc-pl1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"vc-pl1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"vc-pl1.sudoxin.tk"}}}
-  - {"name":"𝙁𝙍₁｜法国-Woiden［CDN］","type":"vmess","server":"woiden-fr1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"woiden-fr1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"woiden-fr1.sudoxin.tk"}}}
-  - {"name":"𝘿𝙀₂｜德国-Vc［CDN］","type":"vmess","server":"vc-de1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"vc-de1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"vc-de1.sudoxin.tk"}}}
-  - {"name":"𝘿𝙀₁｜德国-Woiden［CDN］","type":"vmess","server":"woiden-de1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"woiden-de1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"woiden-de1.sudoxin.tk"}}}
-  - {"name":"𝙐𝙆₂｜英国-Vc［CDN］","type":"vmess","server":"vc-uk1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"vc-uk1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"vc-uk1.sudoxin.tk"}}}
-  - {"name":"𝙐𝙆₁｜英国-Woiden［CDN］","type":"vmess","server":"woiden-uk1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"woiden-uk1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"woiden-uk1.sudoxin.tk"}}}
-  - {"name":"𝙐𝙎₅｜美国-Vc［CDN］","type":"vmess","server":"vc-us1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"vc-us1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"vc-us1.sudoxin.tk"}}}
-  - {"name":"𝙐𝙎₄｜美国-Hax［CDN］","type":"vmess","server":"hax-us4.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hax-us4.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"hax-us4.sudoxin.tk"}}}
-  - {"name":"𝙐𝙎₃｜美国-Hax［CDN］","type":"vmess","server":"hax-us3.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hax-us3.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"hax-us3.sudoxin.tk"}}}
-  - {"name":"𝙐𝙎₂｜美国-Hax［CDN］","type":"vmess","server":"hax-us2.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hax-us2.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"hax-us2.sudoxin.tk"}}}
-  - {"name":"𝙐𝙎₁｜美国-Hax［CDN］","type":"vmess","server":"hax-us1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hax-us1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"hax-us1.sudoxin.tk"}}}
-  - {"name":"https://dy.sudoxin.tk/base64","type":"vmess","server":"hax-us1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hax-us1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"hax-us1.sudoxin.tk"}}}
-  - {"name":"如全部超时请更新订阅","type":"vmess","server":"hax-us1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hax-us1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"hax-us1.sudoxin.tk"}}}
-  - {"name":"想要更好的体验请优选ip","type":"vmess","server":"hax-us1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hax-us1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"hax-us1.sudoxin.tk"}}}
-  - {"name":"tg关注@𝙎𝙐𝘿𝙊𝙓𝙄𝙉","type":"vmess","server":"hax-us1.sudoxin.tk","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hax-us1.sudoxin.tk","network":"ws","ws-opts":{"path":"/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"hax-us1.sudoxin.tk"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -373,22 +358,6 @@ proxy-groups:
       - 🇯🇵东京 | 公益节点
       - 🇯🇵备用 | 公益节点
       - 🇸🇬备用 | 公益节点
-      - 𝙋𝙇₁｜波兰-Vc［CDN］
-      - 𝙁𝙍₁｜法国-Woiden［CDN］
-      - 𝘿𝙀₂｜德国-Vc［CDN］
-      - 𝘿𝙀₁｜德国-Woiden［CDN］
-      - 𝙐𝙆₂｜英国-Vc［CDN］
-      - 𝙐𝙆₁｜英国-Woiden［CDN］
-      - 𝙐𝙎₅｜美国-Vc［CDN］
-      - 𝙐𝙎₄｜美国-Hax［CDN］
-      - 𝙐𝙎₃｜美国-Hax［CDN］
-      - 𝙐𝙎₂｜美国-Hax［CDN］
-      - 𝙐𝙎₁｜美国-Hax［CDN］
-      - 𝙆𝙍₁｜首尔-Oracle［且用且珍惜］
-      - https://dy.sudoxin.tk/base64
-      - 如全部超时请更新订阅
-      - 想要更好的体验请优选ip
-      - tg关注@𝙎𝙐𝘿𝙊𝙓𝙄𝙉
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -561,22 +530,6 @@ proxy-groups:
       - 🇯🇵东京 | 公益节点
       - 🇯🇵备用 | 公益节点
       - 🇸🇬备用 | 公益节点
-      - 𝙋𝙇₁｜波兰-Vc［CDN］
-      - 𝙁𝙍₁｜法国-Woiden［CDN］
-      - 𝘿𝙀₂｜德国-Vc［CDN］
-      - 𝘿𝙀₁｜德国-Woiden［CDN］
-      - 𝙐𝙆₂｜英国-Vc［CDN］
-      - 𝙐𝙆₁｜英国-Woiden［CDN］
-      - 𝙐𝙎₅｜美国-Vc［CDN］
-      - 𝙐𝙎₄｜美国-Hax［CDN］
-      - 𝙐𝙎₃｜美国-Hax［CDN］
-      - 𝙐𝙎₂｜美国-Hax［CDN］
-      - 𝙐𝙎₁｜美国-Hax［CDN］
-      - 𝙆𝙍₁｜首尔-Oracle［且用且珍惜］
-      - https://dy.sudoxin.tk/base64
-      - 如全部超时请更新订阅
-      - 想要更好的体验请优选ip
-      - tg关注@𝙎𝙐𝘿𝙊𝙓𝙄𝙉
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -749,22 +702,6 @@ proxy-groups:
       - 🇯🇵东京 | 公益节点
       - 🇯🇵备用 | 公益节点
       - 🇸🇬备用 | 公益节点
-      - 𝙋𝙇₁｜波兰-Vc［CDN］
-      - 𝙁𝙍₁｜法国-Woiden［CDN］
-      - 𝘿𝙀₂｜德国-Vc［CDN］
-      - 𝘿𝙀₁｜德国-Woiden［CDN］
-      - 𝙐𝙆₂｜英国-Vc［CDN］
-      - 𝙐𝙆₁｜英国-Woiden［CDN］
-      - 𝙐𝙎₅｜美国-Vc［CDN］
-      - 𝙐𝙎₄｜美国-Hax［CDN］
-      - 𝙐𝙎₃｜美国-Hax［CDN］
-      - 𝙐𝙎₂｜美国-Hax［CDN］
-      - 𝙐𝙎₁｜美国-Hax［CDN］
-      - 𝙆𝙍₁｜首尔-Oracle［且用且珍惜］
-      - https://dy.sudoxin.tk/base64
-      - 如全部超时请更新订阅
-      - 想要更好的体验请优选ip
-      - tg关注@𝙎𝙐𝘿𝙊𝙓𝙄𝙉
   - name: 📲 电报信息
     type: select
     proxies:
@@ -936,22 +873,6 @@ proxy-groups:
       - 🇯🇵东京 | 公益节点
       - 🇯🇵备用 | 公益节点
       - 🇸🇬备用 | 公益节点
-      - 𝙋𝙇₁｜波兰-Vc［CDN］
-      - 𝙁𝙍₁｜法国-Woiden［CDN］
-      - 𝘿𝙀₂｜德国-Vc［CDN］
-      - 𝘿𝙀₁｜德国-Woiden［CDN］
-      - 𝙐𝙆₂｜英国-Vc［CDN］
-      - 𝙐𝙆₁｜英国-Woiden［CDN］
-      - 𝙐𝙎₅｜美国-Vc［CDN］
-      - 𝙐𝙎₄｜美国-Hax［CDN］
-      - 𝙐𝙎₃｜美国-Hax［CDN］
-      - 𝙐𝙎₂｜美国-Hax［CDN］
-      - 𝙐𝙎₁｜美国-Hax［CDN］
-      - 𝙆𝙍₁｜首尔-Oracle［且用且珍惜］
-      - https://dy.sudoxin.tk/base64
-      - 如全部超时请更新订阅
-      - 想要更好的体验请优选ip
-      - tg关注@𝙎𝙐𝘿𝙊𝙓𝙄𝙉
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -1123,22 +1044,6 @@ proxy-groups:
       - 🇯🇵东京 | 公益节点
       - 🇯🇵备用 | 公益节点
       - 🇸🇬备用 | 公益节点
-      - 𝙋𝙇₁｜波兰-Vc［CDN］
-      - 𝙁𝙍₁｜法国-Woiden［CDN］
-      - 𝘿𝙀₂｜德国-Vc［CDN］
-      - 𝘿𝙀₁｜德国-Woiden［CDN］
-      - 𝙐𝙆₂｜英国-Vc［CDN］
-      - 𝙐𝙆₁｜英国-Woiden［CDN］
-      - 𝙐𝙎₅｜美国-Vc［CDN］
-      - 𝙐𝙎₄｜美国-Hax［CDN］
-      - 𝙐𝙎₃｜美国-Hax［CDN］
-      - 𝙐𝙎₂｜美国-Hax［CDN］
-      - 𝙐𝙎₁｜美国-Hax［CDN］
-      - 𝙆𝙍₁｜首尔-Oracle［且用且珍惜］
-      - https://dy.sudoxin.tk/base64
-      - 如全部超时请更新订阅
-      - 想要更好的体验请优选ip
-      - tg关注@𝙎𝙐𝘿𝙊𝙓𝙄𝙉
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -1310,22 +1215,6 @@ proxy-groups:
       - 🇯🇵东京 | 公益节点
       - 🇯🇵备用 | 公益节点
       - 🇸🇬备用 | 公益节点
-      - 𝙋𝙇₁｜波兰-Vc［CDN］
-      - 𝙁𝙍₁｜法国-Woiden［CDN］
-      - 𝘿𝙀₂｜德国-Vc［CDN］
-      - 𝘿𝙀₁｜德国-Woiden［CDN］
-      - 𝙐𝙆₂｜英国-Vc［CDN］
-      - 𝙐𝙆₁｜英国-Woiden［CDN］
-      - 𝙐𝙎₅｜美国-Vc［CDN］
-      - 𝙐𝙎₄｜美国-Hax［CDN］
-      - 𝙐𝙎₃｜美国-Hax［CDN］
-      - 𝙐𝙎₂｜美国-Hax［CDN］
-      - 𝙐𝙎₁｜美国-Hax［CDN］
-      - 𝙆𝙍₁｜首尔-Oracle［且用且珍惜］
-      - https://dy.sudoxin.tk/base64
-      - 如全部超时请更新订阅
-      - 想要更好的体验请优选ip
-      - tg关注@𝙎𝙐𝘿𝙊𝙓𝙄𝙉
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1514,22 +1403,6 @@ proxy-groups:
       - 🇯🇵东京 | 公益节点
       - 🇯🇵备用 | 公益节点
       - 🇸🇬备用 | 公益节点
-      - 𝙋𝙇₁｜波兰-Vc［CDN］
-      - 𝙁𝙍₁｜法国-Woiden［CDN］
-      - 𝘿𝙀₂｜德国-Vc［CDN］
-      - 𝘿𝙀₁｜德国-Woiden［CDN］
-      - 𝙐𝙆₂｜英国-Vc［CDN］
-      - 𝙐𝙆₁｜英国-Woiden［CDN］
-      - 𝙐𝙎₅｜美国-Vc［CDN］
-      - 𝙐𝙎₄｜美国-Hax［CDN］
-      - 𝙐𝙎₃｜美国-Hax［CDN］
-      - 𝙐𝙎₂｜美国-Hax［CDN］
-      - 𝙐𝙎₁｜美国-Hax［CDN］
-      - 𝙆𝙍₁｜首尔-Oracle［且用且珍惜］
-      - https://dy.sudoxin.tk/base64
-      - 如全部超时请更新订阅
-      - 想要更好的体验请优选ip
-      - tg关注@𝙎𝙐𝘿𝙊𝙓𝙄𝙉
 
 rules:
 # 本地/局域网地址

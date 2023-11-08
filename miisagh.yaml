@@ -104,7 +104,7 @@ proxy-providers:
     url: "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml"
     intervhal: 86400
     al: 86400
-    path: ./providers/airports.yaml
+    path: ./providers/filtershekan.yaml
     health-check:
       enable: true
       interval: 3600
@@ -117,7 +117,7 @@ proxy-providers:
     type: http
     url: "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml"
     interval: 86400
-    path: ./providers/aggregator.yaml
+    path: ./providers/agg.yaml
     health-check:
       enable: true
       interval: 3600

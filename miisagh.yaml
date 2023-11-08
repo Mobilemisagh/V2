@@ -101,7 +101,7 @@ proxy-providers:
 
   airports:
     type: http
-    url: "https://yebekhe.link/api/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fmix&type=meta&process=full"
+    url: "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml"
     intervhal: 86400
     al: 86400
     path: ./providers/airports.yaml
@@ -115,7 +115,7 @@ proxy-providers:
 
   aggregator:
     type: http
-    url: "https://yebekhe.link/api/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fmix&type=meta&process=full"
+    url: "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml"
     interval: 86400
     path: ./providers/aggregator.yaml
     health-check:

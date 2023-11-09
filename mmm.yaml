@@ -210,41 +210,35 @@ proxy-providers:
       #url: "https://detectportal.firefox.com/success.txt"
 
 rule-providers:
-
-  applications:
-    type: http
-    behavior: classical
-    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/applications.txt"
-    path: ./ruleset/applications.yaml
-    interval: 604800
-
-  iran_other:
-    type: http
-    format: text
-    behavior: domain
-    url: "https://github.com/bootmortis/iran-hosted-domains/releases/latest/download/clash_rules_other.txt"
-    path: ./ruleset/iran_other.txt
-    interval: 604800
-
-  iran_ads:
-    type: http
-    format: text
-    behavior: domain
-    url: "https://github.com/MasterKia/iran-hosted-domains/releases/latest/download/clash_rules_ads.txt"
-    path: ./ruleset/iran_ads.txt
-    interval: 604800
-
+  ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
+  ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
+  ircidr: {type: http, format: text, behavior: ipcidr, path: ./ruleset/ircidr.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ircidr.txt, interval: 86400}
+  private: {type: http, format: text, behavior: ipcidr, path: ./ruleset/private.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/private.txt, interval: 86400}
+  apps: {type: http, format: text, behavior: domain, path: ./ruleset/apps.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/apps.txt, interval: 86400}
+  malware: {type: http, format: text, behavior: domain, path: ./ruleset/malware.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/malware.txt, interval: 86400}
+  phishing: {type: http, format: text, behavior: domain, path: ./ruleset/phishing.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/phishing.txt, interval: 86400}
+  cryptominers: {type: http, format: text, behavior: domain, path: ./ruleset/cryptominers.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/cryptominers.txt, interval: 86400}
 rules:
-  - GEOSITE,category-ads-all,REJECT ## Rejects advertisements.
-  - GEOSITE,win-spy,REJECT ## Rejects MS Windows analytics and spying.
-  - RULE-SET,iran_ads,REJECT ## Rejects Persian ads. [PersianBlocker](https://github.com/MasterKia/PersianBlocker) (License: AGPLv3)
-  - GEOSITE,category-ir,DIRECT ## -\
-  - DOMAIN-SUFFIX,ir,DIRECT ## -----> Check "provider-meta-cn.yml" for China's config.
-  - RULE-SET,iran_other,DIRECT ## -/ [Bootmortis/iran-hosted-domains](https://github.com/bootmortis/iran-hosted-domains) (License: MIT)
-  - GEOIP,IR,DIRECT ## -----------/
-  - GEOSITE,category-games,DIRECT ## Online gaming
-  - GEOIP,private,DIRECT ## Loopback and LAN IPs
-  - RULE-SET,applications,DIRECT ## P2P software e.g. BitTorrent.
-  - DOMAIN,yacd.metacubex.one,DIRECT ## Yet Another Clash Dashbord for Clash.Meta
-  - DOMAIN,clash.metacubex.one,DIRECT ## Razord
-  - MATCH,global
+  - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
+  - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
+  - IP-CIDR,28.0.0.1/8,DIRECT,no-resolve
+  - IP-CIDR6,::1/128,DIRECT,no-resolve
+  - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,ip6-localhost,DIRECT
+  - DOMAIN-SUFFIX,ip6-loopback,DIRECT
+  - DOMAIN-SUFFIX,lan,DIRECT
+  - DOMAIN-SUFFIX,localhost,DIRECT
+  - DOMAIN-SUFFIX,ir,DIRECT
+  - DOMAIN,clash.razord.top,DIRECT
+  - DOMAIN,yacd.haishan.me,DIRECT
+  - DOMAIN,yacd.metacubex.one,DIRECT
+  - DOMAIN,clash.metacubex.one,DIRECT
+  - RULE-SET,ads,REJECT
+  - RULE-SET,malware,REJECT
+  - RULE-SET,phishing,REJECT
+  - RULE-SET,cryptominers,REJECT
+  - RULE-SET,private,DIRECT
+  - RULE-SET,apps,DIRECT
+  - RULE-SET,ir,DIRECT
+  - RULE-SET,ircidr,DIRECT
+  - MATCH,MANUAL

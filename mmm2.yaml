@@ -187,7 +187,7 @@ proxy-providers:
     url: "https://sub.bonds.id/sub2?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoroushmirzaei%2Ftelegram-configs-collector%2Fmain%2Fsplitted%2Fmixed&insert=false&config=base%2Fdatabase%2Fconfig%2Fcustom%2Fgroups%2Furltest_fake.ini&emoji=false&list=false&udp=true&tfo=false&expand=false&scv=true&fdn=false&sort=false&new_name=true"
     intervhal: 86400
     al: 86400
-    path: ./providers/filtershekan3.yaml
+    path: ./providers/filtershekan4.yaml
     health-check:
       enable: true
       interval: 3600
@@ -200,7 +200,7 @@ proxy-providers:
     type: http
     url: "https://sub.bonds.id/sub2?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoroushmirzaei%2Ftelegram-configs-collector%2Fmain%2Fsplitted%2Fmixed&insert=false&config=base%2Fdatabase%2Fconfig%2Fcustom%2Fgroups%2Furltest_fake.ini&emoji=false&list=false&udp=true&tfo=false&expand=false&scv=true&fdn=false&sort=false&new_name=true"
     interval: 86400
-    path: ./providers/agg3.yaml
+    path: ./providers/agg4.yaml
     health-check:
       enable: true
       interval: 3600

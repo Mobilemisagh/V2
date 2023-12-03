@@ -176,7 +176,7 @@ proxy-providers:
     #path: ./providers/local.yaml ## << Put your custom servers here. Clash.Meta also accepts ss://, vmess://, trojan:// and other URLs.
     #health-check:
       #enable: true
-      #interval: 3600
+      #interval: 600
       #lazy: true
       #url: "https://cp.cloudflare.com"
       ##url: "https://cdn.jsdelivr.net"
@@ -190,7 +190,7 @@ proxy-providers:
     path: ./providers/filtershekan4.yaml
     health-check:
       enable: true
-      interval: 3600
+      interval: 600
       lazy: true
       url: "http://clients3.google.com/generate_204"
       #url: "https://cdn.jsdelivr.net"
@@ -203,7 +203,7 @@ proxy-providers:
     path: ./providers/agg4.yaml
     health-check:
       enable: true
-      interval: 3600
+      interval: 600
       lazy: true
       url: "http://clients3.google.com/generate_204"
       #url: "https://cdn.jsdelivr.net"

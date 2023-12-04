@@ -109,7 +109,7 @@ proxy-providers:
       enable: true
       interval: 3600
       lazy: true
-      url: "https://cp.cloudflare.com"
+      url: "http://clients3.google.com/generate_204"
       #url: "https://cdn.jsdelivr.net"
       #url: "https://detectportal.firefox.com/success.txt"
 
@@ -122,7 +122,7 @@ proxy-providers:
       enable: true
       interval: 3600
       lazy: true
-      url: "https://cp.cloudflare.com"
+      url: "http://clients3.google.com/generate_204"
       #url: "https://cdn.jsdelivr.net"
       #url: "https://detectportal.firefox.com/success.txt"
 

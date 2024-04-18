@@ -1,6 +1,6 @@
 // کانفیگ وارپ برای کلاینت هیدیفای، آی‌پی و پورت جدید هر دوازده ساعت جنریت میشه
 // اگر میخواستید آی‌پی ایران باشه داخل برنامه در قسمت پروکسی بذارید روی حالت اتومات بمونه، اگه آی‌پی غیر ایران خواستید کانفیگ «آی ست فایر» رو انتخاب کنید، رندوم از بین آلمان و سوئد انتخاب میشه.
-//profile-title: base64: TW9iaWxlTWlzYWdo
+//profile-title: MisaghMobile
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=30
 //support-url:  https://t.me/tcpnet_m

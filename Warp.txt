@@ -8,8 +8,8 @@
                 "2606:4700:110:87fd:d3bc:b060:fc17:171d/128"
             ],
             "private_key": "uJtgRaI5I1ceLnbOfOUNATP/rGmwlT+8kmbAU11laWc=",
-            "server": "Zula.ir",
-            "server_port": 988,
+            "server": "162.159.192.229",
+            "server_port": 1070,
             "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
             "reserved": [
        163, 59, 32
@@ -26,7 +26,7 @@
                 "2606:4700:110:8d34:65ad:a0c4:a92:f790/128"
             ],
             "private_key": "SMFNeDOHhBHlzt+HD1902OKCJ2cuePDMAAOPGAtMI1E=",
-            "server": "Zula.ir",
+            "server": "162.159.192.127",
             "server_port": 1070,
             "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
             "reserved": [

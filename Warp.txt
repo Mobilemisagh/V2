@@ -15,7 +15,7 @@
        163, 59, 32
       ],
             "mtu": 1280,
-            "fake_packets": "5-10"
+            "fake_packets": "1-100"
         },
         {
             "type": "wireguard",
@@ -33,7 +33,7 @@
        146, 99, 76
       ],
             "mtu": 1280,
-            "fake_packets": "5-10"
+            "fake_packets": "1-100"
         }
     ]
 }

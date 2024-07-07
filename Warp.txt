@@ -8,14 +8,14 @@
                 "2606:4700:110:87fd:d3bc:b060:fc17:171d/128"
             ],
             "private_key": "uJtgRaI5I1ceLnbOfOUNATP/rGmwlT+8kmbAU11laWc=",
-            "server": "162.159.192.12",
+            "server": "188.114.97.70",
             "server_port": 1387,
             "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
             "reserved": [
        163, 59, 32
       ],
             "mtu": 1280,
-            "fake_packets": "1-100"
+            "fake_packets": "1-50"
         },
         {
             "type": "wireguard",
@@ -26,14 +26,14 @@
                 "2606:4700:110:8d34:65ad:a0c4:a92:f790/128"
             ],
             "private_key": "SMFNeDOHhBHlzt+HD1902OKCJ2cuePDMAAOPGAtMI1E=",
-            "server": "162.159.192.12",
+            "server": "188.114.97.70",
             "server_port": 1387,
             "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
             "reserved": [
        146, 99, 76
       ],
             "mtu": 1280,
-            "fake_packets": "1-100"
+            "fake_packets": "1-50"
         }
     ]
 }

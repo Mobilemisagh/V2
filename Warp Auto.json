@@ -1,39 +1,5 @@
+//profile-title: base64:4paRTeKWkWnilpFz4paRYeKWkWfilpFo4paR
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 {
-    "outbounds": [
-        {
-            "type": "wireguard",
-            "tag": "Warp-IR",
-            "local_address": [
-                "172.16.0.2/32",
-                "2606:4700:110:87fd:d3bc:b060:fc17:171d/128"
-            ],
-            "private_key": "uJtgRaI5I1ceLnbOfOUNATP/rGmwlT+8kmbAU11laWc=",
-            "server": "engage.cloudflareclient.com",
-            "server_port": 2408,
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-       163, 59, 32
-      ],
-            "mtu": 1280,
-            "fake_packets": "5-10"
-        },
-        {
-            "type": "wireguard",
-            "tag": "Warp-Main",
-            "detour": "Warp-IR",
-            "local_address": [
-                "172.16.0.2/32",
-                "2606:4700:110:8d34:65ad:a0c4:a92:f790/128"
-            ],
-            "private_key": "SMFNeDOHhBHlzt+HD1902OKCJ2cuePDMAAOPGAtMI1E=",
-            "server": "engage.cloudflareclient.com",
-            "server_port": 2408,
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-       146, 99, 76
-      ],
-            "mtu": 1280,
-            "fake_packets": "5-10"
-        }
-    ]
-}
+warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Misagh🇮🇷&&detour=warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Misagh🇩🇪

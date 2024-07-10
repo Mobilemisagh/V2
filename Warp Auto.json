@@ -2,4 +2,4 @@
 //profile-update-interval: 24
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 {
-warp://auto?ifp=10-30&ifps=2-8&ifpd=10-30#Misagh🇮🇷&&detour=warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Misagh🇩🇪
+warp://auto?ifp=10-30&ifps=2-8&ifpd=10-30#Misagh🇮🇷&&detour=warp://auto?ifp=10-30&ifps=2-8&ifpd=10-30#Misagh🇩🇪

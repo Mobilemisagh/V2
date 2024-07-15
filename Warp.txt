@@ -129,9 +129,9 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "QDA0",
       "mtu": 1330,
-      "fake_packets": "10-30",
-      "fake_packets_size": "2-8",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "80-150",
+      "fake_packets_size": "80-150",
+      "fake_packets_delay": "20-25"
     },
     {
       "type": "wireguard",
@@ -161,8 +161,8 @@
       "tag": "direct-fragment",
       "tls_fragment": {
         "enabled": true,
-        "size": "10-30",
-        "sleep": "2-8"
+        "size": "80-150",
+        "sleep": "80-150"
       }
     },
     {

@@ -124,11 +124,11 @@
         "2606:4700:110:88b1:aa2b:4e27:3e48:c0d4/128"
       ],
       "private_key": "ULt2a7M1P0Kw0LatvgZK7Uh8hOVEqzpcGAaRULltV2w=",
-      "server": "zula.ir",
-      "server_port": 908,
+      "server": "engage.cloudflareclient.com",
+      "server_port": 2408,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "QDA0",
-      "mtu": 1300,
+      "mtu": 1420,
       "fake_packets": "80-150",
       "fake_packets_size": "80-150",
       "fake_packets_delay": "20-25"
@@ -142,11 +142,11 @@
         "2606:4700:110:8728:a4ca:aea1:50dc:6ec3/128"
       ],
       "private_key": "iDI+3PVJw6CE5xwT7cw+e/8O+mV+Sz6SesVopC8n0Fw=",
-      "server": "zula.ir",
-      "server_port": 1070,
+      "server": "engage.cloudflareclient.com",
+      "server_port": 2408,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "kcD7",
-      "mtu": 1200
+      "mtu": 1300
     },
     {
       "type": "dns",

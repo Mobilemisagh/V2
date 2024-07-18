@@ -228,7 +228,7 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "ysbp",
       "mtu": 1330,
-      "fake_packets": "10-15p",
+      "fake_packets": "10-150",
       "fake_packets_size": "25-30",
       "fake_packets_delay": "10-150",
       "fake_packets_mode": "m4"

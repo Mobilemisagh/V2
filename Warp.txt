@@ -1,4 +1,4 @@
-8{
+{
   "log": {
     "level": "warn",
     "output": "box.log",

@@ -317,7 +317,7 @@
       "type": "direct",
       "tag": "direct-fragment",
       "tls_fragment": {
-        "enabled": true,
+        "enabled": false,
         "size": "10-30",
         "sleep": "20-25"
       }

@@ -211,8 +211,8 @@
       "reserved": "hBJs",
       "mtu": 1330,
       "fake_packets": "10-150",
-      "fake_packets_size": "10-150",
-      "fake_packets_delay": "25-30",
+      "fake_packets_size": "25-30",
+      "fake_packets_delay": "10-150",
       "fake_packets_mode": "m3"
     },
     {

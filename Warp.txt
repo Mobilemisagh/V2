@@ -4,7 +4,6 @@ warp://t1MB2d30-x7iGB401-G24nS6D5/?ifp=25-30#misagh4
 warp://6gq9CB84-081D5GrF-n3Zg407D/?ifp=25-30#misagh6
 warp://8evtQ024-8BLg0G35-h1v5P2F3/?ifp=25-30#misagh7
 warp://vm20sG16-4It0d3j1-6QM1Y8b3/?ifp=25-30#misagh8
-warp://7bh85qk3-4BI7J12O-v762lgR3/?ifp=25-30#misagh10
 warp://6ybk8B14-O4M87VJ1-6PJF14C2/?ifp=25-30#misagh11
 warp://3wVq58p7-D93Ko84P-L1U7t3c9/?ifp=25-30#misagh12
 warp://N1869cRJ-R2U19q5m-71UY3R6I/?ifp=25-30#misagh13

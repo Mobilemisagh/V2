@@ -152,9 +152,9 @@
       "reserved": "05Pf",
       "mtu": 1280,
       "fake_packets_mode": "m1",
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "8-15",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
     },
     {
       "type": "wireguard",
@@ -171,9 +171,9 @@
       "reserved": "idBT",
       "mtu": 1280,
       "fake_packets_mode": "m2",
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "8-15",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
     },
     {
       "type": "wireguard",
@@ -190,9 +190,9 @@
       "reserved": "lcKa",
       "mtu": 1280,
        "fake_packets_mode": "m3",
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "8-15",
+      "fake_packets_size": "40-1p0",
+      "fake_packets_delay": "20-250"
     },
     {
       "type": "wireguard",
@@ -209,9 +209,9 @@
       "reserved": "RG/l",
       "mtu": 1280,
       "fake_packets_mode": "m4",
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "8-15",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
     },
     {
       "type": "wireguard",
@@ -228,9 +228,9 @@
       "reserved": "Cd2T",
       "mtu": 1280,
        "fake_packets_mode": "m5",
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "8-15",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
     },
     {
       "type": "wireguard",
@@ -247,9 +247,9 @@
       "reserved": "c9vC",
       "mtu": 1280,
        "fake_packets_mode": "m6",
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "8-15",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
     },
     {
       "type": "wireguard",
@@ -266,9 +266,9 @@
       "reserved": "gebS",
       "mtu": 1280,
       "fake_packets_mode": "h_30",
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "8-15",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
     },
     {
       "type": "wireguard",
@@ -285,9 +285,9 @@
       "reserved": "nA6q",
       "mtu": 1280,
       "fake_packets_mode": "g_10_20_30",
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "8-15",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
     },
  {
       "type": "wireguard",
@@ -304,9 +304,9 @@
       "reserved": "nA6q",
       "mtu": 1280,
       "fake_packets_mode": "g_30_40_50",
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "8-15",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
     },
  {
       "type": "wireguard",
@@ -323,9 +323,9 @@
       "reserved": "c9vC",
       "mtu": 1280,
       "fake_packets_mode": "h_50",
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
+      "fake_packets": "8-15",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
     },
     {
       "type": "dns",

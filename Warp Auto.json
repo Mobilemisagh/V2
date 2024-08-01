@@ -2,4 +2,4 @@
 //profile-update-interval: 24
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 {
-warp://auto/?ifp=25-30#🇮🇷&&detour=warp://auto?ifp=25-30#🇩🇪
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4

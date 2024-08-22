@@ -3,7 +3,8 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
-
+hy2://5VXXwDddXP@kevin.iserver.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40KevinZakarian-iVPN.Pro#misaghmobile
+hy2://jzgkQlKoR3@kevin.iserver.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40KevinZakarian-iVPN.Pro#misaghmobile
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@parsvds.com:443/?type=ws&encryption=none&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&path=%2FXV2ry2%3Fed%3D512&security=tls&sni=pages.dev#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60%20%285%29
 vless://20da741e-a156-455c-9650-478bc92fdaa9@api.speedtest.net:443/?type=ws&encryption=none&host=coo9youcatrsev.com&path=%2F%3Fed%3D443&security=tls&sni=api.speedtest.net&alpn=http%2F1.1&fp=firefox#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60%20%2833%29
 vless://20da741e-a156-455c-9650-478bc92fdaa9@coo9-netherland-mtn.holabpql.ir:12345/?encryption=none&host=uplod.ir&type=tcp&headerType=http#%5B%F0%9F%87%B3%F0%9F%87%B1%5Dt.me%2FConfigsHub%60

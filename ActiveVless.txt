@@ -83,4 +83,7 @@ vless://33b785b4-9470-45fe-8f3f-f743dc25ca14@172.67.138.69:8080/?type=ws&encrypt
 vless://429a2672-eda2-45ab-aa66-33ea0bca8118@66.235.200.120:8080/?type=ws&encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%F0%9F%86%94vmessorg%20%F0%9F%94%93%20VL-WS-N%2FA%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms%20%281%29
 vless://429a2672-eda2-45ab-aa66-33ea0bca8118@66.235.200.23:8080/?type=ws&encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%F0%9F%86%94vmessorg%20%F0%9F%94%93%20VL-WS-N%2FA%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms%20%282%29
 vless://ae3a4afb-36f5-5445-96ab-ea37759a5843@172.67.171.48:80/?type=ws&encryption=none&host=Pt1.vless.site.&path=%2Fvless#skyvpn
-
+hy2://0cce6c6f-29c8-4213-a1d8-259de6f6d100@140.238.253.128:51000/?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%AE%F0%9F%87%B3
+hy2://0cce6c6f-29c8-4213-a1d8-259de6f6d100@140.245.27.220:51000/?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%AE%F0%9F%87%B3%20%281%29
+hy2://0cce6c6f-29c8-4213-a1d8-259de6f6d100@192.9.165.40:51000/?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%A6%F0%9F%87%BA
+hy2://0cce6c6f-29c8-4213-a1d8-259de6f6d100@129.154.53.232:51000/?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%B0%F0%9F%87%B7

@@ -176,7 +176,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "Telegram : @VpnMaan :)",
+  "remarks": "Misagh",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [

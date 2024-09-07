@@ -1,13 +1,16 @@
 {
   "dns": {
-    "hosts": {},
+    "queryStrategy": "UseIP",
     "servers": [
-      "https://1.1.1.1/dns-query"
-    ]
+     {
+        "address": "8.8.8.8",
+        "skipFallback": false
+      }
+    ],
+    "tag": "dns_out"
   },
   "inbounds": [
     {
-      "listen": "127.0.0.1",
       "port": 10808,
       "protocol": "socks",
       "settings": {
@@ -18,14 +21,14 @@
       "sniffing": {
         "destOverride": [
           "http",
-          "tls"
+          "tls",
+          "fakedns"
         ],
         "enabled": true
       },
       "tag": "socks"
     },
     {
-      "listen": "127.0.0.1",
       "port": 10809,
       "protocol": "http",
       "settings": {
@@ -39,117 +42,50 @@
   },
   "outbounds": [
     {
-      "protocol": "shadowsocks",
-      "settings": {
-        "servers": [
-          {
-            "address": "104.16.61.8",
-            "port": 80,
-            "method": "aes-128-gcm",
-            "password": "ItTwXze5SrUMxkiA33j0abkbhWD4fXgyZcg3v",
-            "uot": false
-          }
-        ]
-      },
+      "protocol": "vless",
+      "tag": "proxy",
       "streamSettings": {
-        "network": "tcp",
-        "security": "",
-        "tcpSettings": {
-          "header": {
-            "request": {
-              "headers": {
-                "Host ": [
-                  "speed.cloudflare.com\r\nHost: ch1.defineorange.info\r\nHost: speed.cloudflare.com\r\nUpgrade: websocket"
-                ]
-              },
-              "method": "POST",
-              "path": [
-                "/t2"
-              ],
-              "version": "1.1"
-            },
-            "type": "http"
-          }
+        "network": "ws",
+        "security": "none",
+        "sockopt": {
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 100,
+          "tcpMptcp": true,
+          "tcpNoDelay": true
+        },
+        "wsSettings": {
+          "headers": {},
+          "host": "194.127.178.11",
+          "path": "/speedtest.net"
         }
       },
-      "tag": "tout"
-    },
-    {
       "mux": {
         "enabled": true,
-        "concurrency": -1,
+        "concurrency": 8,
         "xudpConcurrency": 16,
         "xudpProxyUDP443": "reject"
       },
-      "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "104.16.61.8",
-            "port": 80,
+            "address": "194.127.178.11",
+            "port": 13332,
             "users": [
               {
                 "encryption": "none",
-                "flow": "xtls-rprx-vision",
-                "id": "76676ebe-bd80-c27e-b589-d10e3a0bbf7e",
-                "level": 0
+                "id": "e685e175-98ec-4608-bb3c-19f62a1dd2fc",
+                "level": 8
               }
             ]
           }
         ]
-      },
-      "streamSettings": {
-        "sockopt": {
-          "dialerProxy": "header",
-          "tcpNoDelay": true
-        },
-        "network": "tcp",
-        "realitySettings": {
-          "fingerprint": "chrome",
-          "publicKey": "kTTmsXBeqCZZqzvvyvwZ5n7Bd1_8jYB7YpdWiF8emA0",
-          "serverName": "www.speedtest.net",
-          "shortId": "cf8211caf0",
-          "spiderX": "/"
-        },
-        "security": "reality"
-      },
-      "tag": "uout"
+      }
     },
     {
       "protocol": "freedom",
-      "settings": {},
-      "streamSettings": {
-        "network": "tcp",
-        "tcpSettings": {
-          "header": {
-            "request": {
-              "headers": {
-                "Host ": [
-                  "speed.cloudflare.com\r\nHost: nl2.defineorange.info\r\nHost: speed.cloudflare.com\r\nUpgrade: websocket"
-                ]
-              },
-              "method": "POST",
-              "path": [
-                "/time"
-              ],
-              "version": "1.1"
-            },
-            "type": "http"
-          }
-        }
-      },
-      "tag": "header"
-    },
-    {
-      "protocol": "dns",
       "settings": {
-        "nonIPQuery": "skip"
+        "domainStrategy": "UseIP"
       },
-      "tag": "dout"
-    },
-    {
-      "protocol": "freedom",
-      "settings": {},
       "tag": "direct"
     },
     {
@@ -160,6 +96,36 @@
         }
       },
       "tag": "block"
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "fragment": {
+          "packets": "1-1",
+          "length": "1-3",
+          "interval": "1-5"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpKeepAliveIdle": 100,
+          "tcpMptcp": true,
+          "tcpNoDelay": true
+        }
+      }
+    },
+    {
+      "tag": "noise",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "noise": {
+          "packet": "rand:5-10",
+          "delay": "10-20"
+        }
+      }
     }
   ],
   "policy": {
@@ -172,23 +138,36 @@
       }
     },
     "system": {
-      "statsOutboundUplink": true,
-      "statsOutboundDownlink": true
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
     }
   },
   "remarks": "Misagh",
   "routing": {
-    "domainStrategy": "IPIfNonMatch",
+    "domainStrategy": "AsIs",
     "rules": [
       {
-        "port": "53",
-        "network": "udp",
-        "outboundTag": "dout",
+        "domain": [
+          "geosite:category-ir",
+          "geosite:cn"
+        ],
+        "enabled": true,
+        "outboundTag": "direct",
         "type": "field"
       },
       {
-        "network": "udp",
-        "outboundTag": "uout",
+        "enabled": true,
+        "ip": [
+          "geoip:private",
+          "geoip:ir",
+          "geoip:cn"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "network": "tcp,udp",
+        "outboundTag": "proxy",
         "type": "field"
       }
     ]

@@ -3,6 +3,9 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
+hy2://%40azadi_az_inja_migzare@a2.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi1
+hy2://%40azadi_az_inja_migzare@a1.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi2
+hy2://%40azadi_az_inja_migzare@a3.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi3
 vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@speedtest.net:443/?type=ws&encryption=none&host=tody.ir.&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%9B%9C%F0%9F%87%BA%F0%9F%87%B8United%20States%60%20%282%29
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.139.111:2096/?type=ws&encryption=none&host=967a6F20.hoSSeinPool.PAGEs.Dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=967A6f20.HosSeINpOOl.pagEs.deV&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%9B%9C%F0%9F%87%A8%F0%9F%87%A6Canada%60%20%289%29
 vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443/?type=ws&encryption=none&host=tody.ir.&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%9B%9C%F0%9F%87%BA%F0%9F%87%B8United%20States%60%20%283%29

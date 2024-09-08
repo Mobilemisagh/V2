@@ -4,6 +4,8 @@
 
 
 
+hy2://j2O1P5i98V@194.127.178.11:33513/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=JNKBJHDTRseryuhKLKLJIGYUsertrfyuhJJHGYUSEDJHhgfDDDsdWe#misaghmobile
+hy2://j2O1P5i98V@194.127.178.11:47328/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=jhjhYUUHhGHYUuuiUIYUYUYUuiYUYUHYUu#misaghmobile
 vless://264cdb58-370f-4b2e-b0b3-8b6842054113@151.101.194.219:443/?type=ws&encryption=none&host=tody.ir.&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%86%94%40v2ray_configs_pool%60%20%282%29
 vless://264cdb58-370f-4b2e-b0b3-8b6842054113@speedtest.net:443/?type=ws&encryption=none&host=tody.ir.&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%86%94%40v2ray_configs_pool%60%20%283%29
 vless://c11abd11-288f-4a36-84c3-4ad0584f533c@193.151.143.96:443/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#%F0%9F%86%94%40v2ray_configs_pool%60%20%284%29

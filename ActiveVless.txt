@@ -3,6 +3,23 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
+hy2://3725816f-1464-450f-a2ce-dfcd81e28eaf@192.9.165.40:51000/?insecure=1&sni=cn.cremedelamer.com
+hy2://3725816f-1464-450f-a2ce-dfcd81e28eaf@192.9.179.140:51000/?insecure=1&sni=cn.cremedelamer.com
+hy2://3725816f-1464-450f-a2ce-dfcd81e28eaf@144.22.197.28:51000/?insecure=1&sni=cn.cremedelamer.com
+hy2://3725816f-1464-450f-a2ce-dfcd81e28eaf@168.75.68.172:51000/?insecure=1&sni=cn.cremedelamer.com
+hy2://0ad98ce1-4d07-491a-93b8-795f92ff4753@br2.wish.ml:30102/?insecure=1
+hy2://ae9e89ee-bad8-4638-b776-819ce123e45f@br2.wish.ml:30102/?insecure=1
+hy2://ae9e89ee-bad8-4638-b776-819ce123e45f@br3.wish.ml:30102/?insecure=1
+hy2://0ad98ce1-4d07-491a-93b8-795f92ff4753@hk6.wish.ml:30102/?insecure=1
+hy2://3725816f-1464-450f-a2ce-dfcd81e28eaf@140.245.27.220:51000/?insecure=1&sni=cn.cremedelamer.com
+hy2://ae9e89ee-bad8-4638-b776-819ce123e45f@in4.wish.ml:30102/?insecure=1
+hy2://0ad98ce1-4d07-491a-93b8-795f92ff4753@in5.wish.ml:30102/?insecure=1
+hy2://0ad98ce1-4d07-491a-93b8-795f92ff4753@jp1.wish.ml:30102/?insecure=1
+hy2://ae9e89ee-bad8-4638-b776-819ce123e45f@jp1.wish.ml:30102/?insecure=1
+hy2://0ad98ce1-4d07-491a-93b8-795f92ff4753@tw1.wish.ml:30102/?insecure=1#TW_57
+hy2://ae9e89ee-bad8-4638-b776-819ce123e45f@tw1.wish.ml:30102/?insecure=1#TW_58
+hy2://3725816f-1464-450f-a2ce-dfcd81e28eaf@129.159.97.206:51000/?insecure=1&sni=cn.cremedelamer.com
+hy2://070af91ce010976d@167.253.152.235:11100/?insecure=1&sni=www.bing.com
 hy2://NTIxMTMzOjE3ODEzNzphNWY1MDNlN2M1YmRlOTVi@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B02%40oneclickvpnkeys
 hy2://%40azadi_az_inja_migzare@a2.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi1
 hy2://%40azadi_az_inja_migzare@a1.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi2

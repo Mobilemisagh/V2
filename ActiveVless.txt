@@ -3,6 +3,7 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
+hy2://bc97f674-c578-4940-9234-0a1da46041b9@85.194.243.117:15466/?insecure=1&sni=www.bing.com#%F0%9F%87%B5%F0%9F%87%B1
 hy2://%40azadi_az_inja_migzare@a1.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi2
 hy2://%40azadi_az_inja_migzare@a2.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi1
 hy2://702e707a-a3f2-4cc4-898b-34e846da3ea4@129.159.97.206:51000/?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%BA%F0%9F%87%B8

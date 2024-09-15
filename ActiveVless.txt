@@ -3,6 +3,11 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
+hy2://68033f0f-bfda-4db9-a438-cb9943f69468@oracle-amd-osaka1.lanmaoyun.icu:30001/?sni=osaka.nodes.lanmaoyun.icu#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-2-1B
+hy2://68033f0f-bfda-4db9-a438-cb9943f69468@oracle-arm-seoul1.lanmaoyun.icu:30001/?sni=korea.nodes.lanmaoyun.icu#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-%E9%A6%96%E5%B0%94-1B
+hy2://68033f0f-bfda-4db9-a438-cb9943f69468@oracle-amd-tokyo1.lanmaoyun.icu:30001/?sni=tokyo.nodes.lanmaoyun.icu#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-1-1B
+hy2://68033f0f-bfda-4db9-a438-cb9943f69468@oracle-amd-san-jose2.lanmaoyun.icu:30001/?sni=san-jose2.nodes.lanmaoyun.icu#%F0%9F%87%BA%F0%9F%87%B8%20%E5%8C%97%E7%BE%8E-US-%E5%9C%A3%E4%BD%95%E5%A1%9E-2-1B
+hy2://68033f0f-bfda-4db9-a438-cb9943f69468@oracle-arm-frankfurt1.lanmaoyun.icu:30001/?sni=frankfurt1.nodes.lanmaoyun.icu#%F0%9F%87%A9%F0%9F%87%AA%20%E6%AC%A7%E6%B4%B2-%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F-1-1B
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@85.194.243.117:15466/?insecure=1&sni=www.bing.com#%F0%9F%87%B5%F0%9F%87%B1
 hy2://%40azadi_az_inja_migzare@a1.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi2
 hy2://%40azadi_az_inja_migzare@a2.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi1

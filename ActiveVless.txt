@@ -3,7 +3,14 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
-
+hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.76.0.86%3A443
+hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-207.148.22.93%3A443
+hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#%E2%9A%99%EF%B8%8Fb%40oneclickvpnkeys
+hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys
+hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.76.0.86%3A443
+hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-207.148.22.93%3A443
+hy2://4e9ee29b39a28277@66.135.11.68:443/?insecure=1&obfs=salamander&obfs-password=13f7ba5f#CPI
+hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#CPI2
 hy2://%40azadi_az_inja_migzare@a2.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi1
 hy2://%40azadi_az_inja_migzare@a1.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi2
 hy2://702e707a-a3f2-4cc4-898b-34e846da3ea4@129.159.97.206:51000/?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%BA%F0%9F%87%B8

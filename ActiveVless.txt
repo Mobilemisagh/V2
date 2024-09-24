@@ -3,6 +3,9 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
+hy2://idBum9dt5O@mci-public.serverv.net:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40KevinZakarian-iVPN.Pro#misaghmobile1
+hy2://Xh5fdGVxhd@tci-public.serverv.net:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40KevinZakarian-iVPN.Pro#misaghmobile2
+hy2://5OO5jCWiQl@mtn-public.serverv.net:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40KevinZakarian-iVPN.Pro#misaghmobile3
 hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.76.0.86%3A443
 hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-207.148.22.93%3A443
 hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#%E2%9A%99%EF%B8%8Fb%40oneclickvpnkeys

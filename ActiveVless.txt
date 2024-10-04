@@ -2,6 +2,16 @@
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
+hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4
+hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=cd29099d
+hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=4b817757
+hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=4b817757
+hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=cd29099d
+hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=4b817757
+hysteria://173.234.25.53:48919/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=50&downmbps=100&alpn=h3
+hy2://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@159.13.34.59:443/?mport=55000-56000&insecure=1&sni=TG.%40WangCai2
+hy2://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@192.9.164.54:443/?mport=55000-56000&insecure=1&sni=TG.%40WangCai2
+hy2://685d7252-0c4b-4540-b8d7-afe13c1fd08f@ca.gas51qwrhmzz8.top:443/?mport=6000-36000&insecure=1#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.238:2053/?type=ws&encryption=none&host=Bpb-V.pAgEs.dev&path=%2FKheiTaJ43GZuGk3r%2FMTI5LjE1OS4yNDEuMTcy&security=tls&sni=bPB-v.PaGeS.DEV&alpn=http%2F1.1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.247.243:443/?type=ws&encryption=none&host=bPB-V.pAgEs.dEV&path=%2F9SNO3I0xNyACM41M%2FMTI5LjE1OS4yNDEuMTcy&security=tls&sni=bPb-v.pAGEs.Dev&alpn=http%2F1.1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.34.11:443/?type=ws&encryption=none&host=BPb-V.pAGES.dEv&path=%2FlayGDYx3Fd6ODgAF%2FMTI5LjE1OS4yNDEuMTcy&security=tls&sni=BpB-V.pagEs.dev&alpn=http%2F1.1

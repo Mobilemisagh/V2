@@ -47,3 +47,6 @@ hy2://81ea378b37931b23@77.221.158.52:7373/?insecure=1&sni=www.google.com&obfs=sa
 hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#CPI3
 hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#%E2%9A%99%EF%B8%8Fb%40oneclickvpnkeys
 hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys
+hy2://81ea378b37931b23@77.221.158.52:7373/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=7d9dff369a11f6e0#%40TM_KODLARY%F0%9F%9A%80
+hy2://364e8db7a2d57e32@167.253.152.235:46600/?insecure=1&sni=www.bing.com#%40VPN_KODLARY%F0%9F%87%B9%F0%9F%87%B2
+hy2://4e9ee29b39a28277@66.135.11.68:443/?insecure=1&obfs=salamander&obfs-password=13f7ba5f#%40web_hyzmatlary%E2%9D%A4%EF%B8%8F

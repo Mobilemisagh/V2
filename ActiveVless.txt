@@ -2,6 +2,24 @@
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
+hy2://3de94e3b-8acf-41b1-89ad-42cd069e2cdc@oracle-amd-san-jose2.lanmaoyun.icu:30001/?insecure=1&sni=san-jose2.nodes.lanmaoyun.icu#%F0%9F%87%BA%F0%9F%87%B8%20%E5%8C%97%E7%BE%8E-US-%E5%9C%A3%E4%BD%95%E5%A1%9E-2-1B
+hy2://3de94e3b-8acf-41b1-89ad-42cd069e2cdc@oracle-amd-tokyo1.lanmaoyun.icu:30001/?insecure=1&sni=tokyo.nodes.lanmaoyun.icu#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-1-1B
+hy2://3de94e3b-8acf-41b1-89ad-42cd069e2cdc@oracle-amd-osaka1.lanmaoyun.icu:30001/?insecure=1&sni=osaka.nodes.lanmaoyun.icu#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-2-1B
+hy2://3de94e3b-8acf-41b1-89ad-42cd069e2cdc@oracle-arm-chuncheon2.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-2-1B
+hy2://3de94e3b-8acf-41b1-89ad-42cd069e2cdc@oracle-arm-seoul1.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-%E9%A6%96%E5%B0%94-1B
+hy2://3de94e3b-8acf-41b1-89ad-42cd069e2cdc@oracle-arm-chuncheon1.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-1-1B
+hy2://45b4ed2b-92a6-488b-b6cf-570d3a038d68@oracle-amd-osaka1.lanmaoyun.icu:30001/?insecure=1&sni=osaka.nodes.lanmaoyun.icu#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-2
+hy2://45b4ed2b-92a6-488b-b6cf-570d3a038d68@oracle-amd-san-jose2.lanmaoyun.icu:30001/?insecure=1&sni=san-jose2.nodes.lanmaoyun.icu#%F0%9F%87%BA%F0%9F%87%B8%20%E5%8C%97%E7%BE%8E-US-%E5%9C%A3%E4%BD%95%E5%A1%9E-2
+hy2://45b4ed2b-92a6-488b-b6cf-570d3a038d68@oracle-amd-tokyo1.lanmaoyun.icu:30001/?insecure=1&sni=tokyo.nodes.lanmaoyun.icu#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-1
+hy2://45b4ed2b-92a6-488b-b6cf-570d3a038d68@oracle-arm-seoul1.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-%E9%A6%96%E5%B0%94
+hy2://45b4ed2b-92a6-488b-b6cf-570d3a038d68@oracle-arm-chuncheon1.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-1
+hy2://45b4ed2b-92a6-488b-b6cf-570d3a038d68@oracle-arm-chuncheon2.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-2
+hy2://cebe7db0-4f6f-40b0-86ba-0ca0fa9deb96@oracle-amd-tokyo1.lanmaoyun.icu:30001/?insecure=1&sni=tokyo.nodes.lanmaoyun.icu#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-1
+hy2://cebe7db0-4f6f-40b0-86ba-0ca0fa9deb96@oracle-amd-osaka1.lanmaoyun.icu:30001/?insecure=1&sni=osaka.nodes.lanmaoyun.icu#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-2
+hy2://cebe7db0-4f6f-40b0-86ba-0ca0fa9deb96@oracle-arm-seoul1.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-%E9%A6%96%E5%B0%94
+hy2://cebe7db0-4f6f-40b0-86ba-0ca0fa9deb96@oracle-arm-chuncheon1.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-1
+hy2://cebe7db0-4f6f-40b0-86ba-0ca0fa9deb96@oracle-arm-chuncheon2.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-2
+hy2://cebe7db0-4f6f-40b0-86ba-0ca0fa9deb96@oracle-amd-san-jose2.lanmaoyun.icu:30001/?insecure=1&sni=san-jose2.nodes.lanmaoyun.icu#%F0%9F%87%BA%F0%9F%87%B8%20%E5%8C%97%E7%BE%8E-US-%E5%9C%A3%E4%BD%95%E5%A1%9E-2
 hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4
 hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=cd29099d
 hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=4b817757

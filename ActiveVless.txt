@@ -3,37 +3,6 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
-hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%F0%9F%87%BA%F0%9F%87%B8%20
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%F0%9F%87%BA%F0%9F%87%B8%20%20%281%29
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys%20%281%29
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys%20%282%29
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys%20%283%29
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys%20%284%29
-hy2://%40azadi_az_inja_migzare@v6.dgi000.store:443/?insecure=1&sni=all-v6.dgi000.store&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi1
-hy2://%40azadi_az_inja_migzare@a1.dgi000.store:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi2
-hy2://idBum9dt5O@mci-public.serverv.net:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40KevinZakarian-iVPN.Pro#misaghmobile1
-hy2://Xh5fdGVxhd@tci-public.serverv.net:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40KevinZakarian-iVPN.Pro#misaghmobile2
-hy2://5OO5jCWiQl@mtn-public.serverv.net:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%40KevinZakarian-iVPN.Pro#misaghmobile3
-hy2://81ea378b37931b23@77.221.158.52:7373/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=7d9dff369a11f6e0#%F0%9F%A7%B8%40TM_KODLARY
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#CPI3
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys%20%285%29
-hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#%E2%9A%99%EF%B8%8Fb%40oneclickvpnkeys%20%281%29
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys%20%286%29
-hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#%E2%9A%99%EF%B8%8Fb%40oneclickvpnkeys%20%282%29
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys%20%2811%29
-hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4#%F0%9F%87%B3%F0%9F%87%B1h1%40oneclickvpnkeys
-hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@140.82.16.240:8080/?sni=jp4.trojanws.xyz#%F0%9F%87%BA%F0%9F%87%B8h4%40oneclickvpnkeys
-hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4#%F0%9F%87%B3%F0%9F%87%B1h1%40oneclickvpnkeys%20%281%29
-hy2://%40azadi_az_inja_migzare@v4.dgi000.store:443/?insecure=1&sni=all-v4.dgi000.store&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#azadi3
-vmess://eyJhZGQiOiIxNTcuMjU0LjIxLjExOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiYTYzMDRjOWMtNzRmYy00NWFhLWIzNzgtMjg4NzQ0NjM1MWYxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dhZGExMjIyMiIsInBvcnQiOiI4ODg4IiwicHMiOiLwn4et8J+HsCDpppnmuK8gfCAwMS0xQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4#%F0%9F%87%B3%F0%9F%87%B1h1%40oneclickvpnkeys%20%282%29
-hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@140.82.16.240:8080/?sni=jp4.trojanws.xyz#%F0%9F%87%BA%F0%9F%87%B8h4%40oneclickvpnkeys%20%281%29
-hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4#%F0%9F%87%B3%F0%9F%87%B1h1%40oneclickvpnkeys%20%283%29
-
-
-
 vmess://eyJhZGQiOiIxNDYuNTYuMTAwLjIwMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMmU3MDhhZTUtMmE2MC00YTRmLTlkNTYtMjY1NmZlMzY3NzkzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dhZGExMjIyMiIsInBvcnQiOiI0OTg1MiIsInBzIjoi5pil5bedIHwgMDEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNDYuNTYuMTAwLjIwMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiYTYzMDRjOWMtNzRmYy00NWFhLWIzNzgtMjg4NzQ0NjM1MWYxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dhZGExMjIyMiIsInBvcnQiOiI0OTg1MiIsInBzIjoi5pil5bedIHwgMDEtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNDYuNTYuMTAwLjIwMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiM2FjODQzNjktODQ5Ni00NDZkLWFhZjctNWUwMzA2MDQ4ZDU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dhZGExMjIyMiIsInBvcnQiOiI0OTg1MiIsInBzIjoi5pil5bedIHwgMDEtMUIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -290,3 +259,4 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.248.29:8888#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.248.29:9090#%F0%9F%87%BA%F0%9F%87%B8US_9090%20%40WangCai_8
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.150.248.29:9101#%F0%9F%87%BA%F0%9F%87%B8US_9101%20%40WangCai_8
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.150.248.29:9102#%F0%9F%87%BA%F0%9F%87%B8US_9102%20%40WangCai_8
+

@@ -23,7 +23,6 @@ hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-passwo
 hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys%20%286%29
 hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#%E2%9A%99%EF%B8%8Fb%40oneclickvpnkeys%20%282%29
 hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys%20%2811%29
-hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4#%40TM_KODLARY%F0%9F%87%B3%F0%9F%87%B1
 hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4#%F0%9F%87%B3%F0%9F%87%B1h1%40oneclickvpnkeys
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@140.82.16.240:8080/?sni=jp4.trojanws.xyz#%F0%9F%87%BA%F0%9F%87%B8h4%40oneclickvpnkeys
 hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4#%F0%9F%87%B3%F0%9F%87%B1h1%40oneclickvpnkeys%20%281%29
@@ -32,6 +31,7 @@ vmess://eyJhZGQiOiIxNTcuMjU0LjIxLjExOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4#%F0%9F%87%B3%F0%9F%87%B1h1%40oneclickvpnkeys%20%282%29
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@140.82.16.240:8080/?sni=jp4.trojanws.xyz#%F0%9F%87%BA%F0%9F%87%B8h4%40oneclickvpnkeys%20%281%29
 hy2://f0126e9fe4014e17@77.91.77.27:39292/?insecure=1&sni=TG.%40WangCai2&obfs=salamander&obfs-password=5449c086723e86d4#%F0%9F%87%B3%F0%9F%87%B1h1%40oneclickvpnkeys%20%283%29
+
 
 
 vmess://eyJhZGQiOiIxNDYuNTYuMTAwLjIwMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMmU3MDhhZTUtMmE2MC00YTRmLTlkNTYtMjY1NmZlMzY3NzkzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dhZGExMjIyMiIsInBvcnQiOiI0OTg1MiIsInBzIjoi5pil5bedIHwgMDEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=

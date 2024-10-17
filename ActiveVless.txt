@@ -3,6 +3,23 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
+hy2://104fdd8d-a364-4246-92ef-d8788e2e2eb3@141.11.216.189:50000/?insecure=1&sni=v2.chatpro.icu&obfs=salamander&obfs-password=N2IwNzRhZTY1ZWI0NTQyMw%3D%3D#%F0%9F%87%AD%F0%9F%87%B0hk2
+vless://5c191320-7ee7-400b-e6ab-388896461b57@38.207.170.217:443/?type=ws&encryption=none&host=us.setoncatholic.net&path=%2Fbing&security=tls&sni=us.setoncatholic.net&packetEncoding=xudp#%E7%94%B2%E9%AA%A8%E6%96%87%E5%9C%A3%E4%BD%95%E5%A1%9E
+vless://5c191320-7ee7-400b-e6ab-388896461b57@37.123.193.219:443/?type=ws&encryption=none&host=us.setoncatholic.net&path=%2Fbing&security=tls&sni=us.setoncatholic.net&packetEncoding=xudp#%E7%94%B2%E9%AA%A8%E6%96%87%E5%9C%A3%E4%BD%95%E5%A1%9EB
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@129.153.75.202:443/?mport=50000-53000&insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E1%E5%8F%B7
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@129.153.80.156:443/?mport=50000-53000&insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E2%E5%8F%B7
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@158.101.37.59:443/?mport=50000-53000&insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E3%E5%8F%B7
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@129.146.249.162:443/?mport=50000-53000&insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E4%E5%8F%B7
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@131.186.42.162:443/?mport=50000-53000&insecure=1&sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@140.245.52.9:443/?mport=50000-53000&insecure=1&sni=www.microsoft.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1hy
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@62.210.71.30:443/?mport=50000-53000&insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDhy
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@144.22.129.240:443/?mport=50000-53000&insecure=1&sni=www.microsoft.com#%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97-1.5%E5%80%8D%E7%8E%87
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@139.185.34.29:443/?mport=50000-53000&insecure=1&sni=www.hoyoverse.com#%F0%9F%87%A6%F0%9F%87%AA%E8%BF%AA%E6%8B%9C2-1.5%E5%80%8D%E7%8E%87
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@146.56.114.61:443/?mport=50000-53000&insecure=1&sni=www.hoyoverse.com#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%E6%98%A5%E5%B7%9D-1.5%E5%80%8D%E7%8E%87
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@152.67.200.22:443/?mport=50000-53000&insecure=1&sni=www.hoyoverse.com#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%E6%98%A5%E5%B7%9D2-1.5%E5%80%8D%E7%8E%87
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@159.13.38.138:443/?mport=50000-53000&insecure=1&sni=www.hoyoverse.com#%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%82%89%E5%B0%BC-1.5%E5%80%8D%E7%8E%87
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@152.69.186.200:443/?mport=50000-53000&insecure=1&sni=www.hoyoverse.com#%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%A2%A8%E5%B0%94%E6%9C%AC-1.5%E5%80%8D%E7%8E%87
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@129.151.169.64:65535/?insecure=1&sni=www.microsoft.com#%F0%9F%87%BF%F0%9F%87%A6%E9%9D%9E%E6%B4%B2%E7%BA%A6%E7%BF%B0%E5%86%85%E6%96%AF%E5%A0%A1-3.5%E5%80%8D%E7%8E%87
 vless://5c191320-7ee7-400b-e6ab-388896461b57@38.207.170.217:443/?type=ws&encryption=none&host=us.setoncatholic.net&path=%2Fbing&security=tls&sni=us.setoncatholic.net&packetEncoding=xudp#%E7%94%B2%E9%AA%A8%E6%96%87%E5%9C%A3%E4%BD%95%E5%A1%9E
 vless://5c191320-7ee7-400b-e6ab-388896461b57@37.123.193.219:443/?type=ws&encryption=none&host=us.setoncatholic.net&path=%2Fbing&security=tls&sni=us.setoncatholic.net&packetEncoding=xudp#%E7%94%B2%E9%AA%A8%E6%96%87%E5%9C%A3%E4%BD%95%E5%A1%9EB
 hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@163.123.192.167:443/?mport=50000-50080&insecure=1&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E_gpt

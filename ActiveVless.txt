@@ -261,15 +261,7 @@ vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.205:443/?type=ws&encrypti
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.209:443/?type=ws&encryption=none&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&sni=freedom-1rj.pages.dev&fp=randomized#4FreeIran-6009
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.75.208:443/?type=ws&encryption=none&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&sni=freedom-1rj.pages.dev&fp=randomized#4FreeIran-6023
 vless://29419d2e-5475-42a9-a615-996608ce0a46@104.21.87.200:443/?type=ws&encryption=none&host=parsairon.ironnettt.workers.dev&path=%2F&security=tls&sni=parsairon.ironnettt.workers.dev#4FreeIran-6044
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.119:5601#V2Ray_ClicK%F0%9F%8D%8106-08
 vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.44.223:443/?type=ws&encryption=none&host=cfpage-39t.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&sni=cfpage-39t.pages.dev&fp=random
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.102:6697#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20-%20%E8%BF%88%E9%98%BF%E5%AF%86%20-%20GTHost%20-%2025
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.113:8000#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20-%20%E5%9C%A3%E5%85%8B%E6%8B%89%E6%8B%89%20-%20GTHost%20-%2014
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20-%20%E8%81%96%E8%8D%B7%E8%A5%BF%20-%20Zenlayer%20Inc%20-%2059
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.131:443#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20-%20%E8%A5%BF%E9%9B%85%E5%9C%96%20-%20Datacamp%20Limited%20-%2017
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@15.204.87.225:8090#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20-%20%E5%B8%8C%E5%B0%94%E6%96%AF%E4%BC%AF%E5%8B%92%20-%20OVH%20SAS%20-%202
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20-%20%E5%B8%8C%E5%B0%94%E6%96%AF%E4%BC%AF%E5%8B%92%20-%20OVH%20SAS%20-%2051
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@15.204.87.225:8000#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20-%20%E5%B8%8C%E5%B0%94%E6%96%AF%E4%BC%AF%E5%8B%92%20-%20OVH%20SAS%20-%2052
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:2087/?type=ws&encryption=none&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=tnetplus-1wc.pages.dev&fp=randomized
 hy2://KevinZakarian@kevin.serverv.net:8443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#KevinVPN
 hy2://3207c480-c536-45a8-bfec-ec7c59dcc398@bp.jisovpn.site:443/?mport=30000-40000#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A999999999%20GB
@@ -470,7 +462,6 @@ vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.210:8443/?type=ws&encryp
 vless://feb6f54a-1c99-4281-b0d4-113765e70c61@93.185.163.238:8082/?type=http&encryption=none&path=media%2Fdownload%3Ffile_id%3D12345%26ReturnUrl%3D%2Fmedia%2Fdownload%2Fcallback%3Fresponse_type%3Ddownload%26client_id%3DmediaClient%26redirect_uri%3Dhttps%3A%2F%2Fyourapp.com%2Fsuccess&sni=use.fontawesome.com&fp=chrome&security=reality&pbk=1wsuGvwHBl4upMnlmg3ehyqL-CgRpK9g4XZXkUX-B3k&sid=6a69d0c3821da542#4Jadi-9688
 hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&obfs=salamander&obfs-password=4b817757#%F0%9F%87%BA%F0%9F%87%B8%20%282%29
 hy2://4e9ee29b39a28277@66.135.11.68:443/?insecure=1&sni=66.135.11.68&obfs=salamander&obfs-password=13f7ba5f#%F0%9F%87%BA%F0%9F%87%B8%20%283%29
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#%F0%9F%87%AC%F0%9F%87%A7_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40QS00008
 vless://1250c0dd-856e-4cb9-b254-5d8e55419fed@57.128.123.50:2096/?type=http&encryption=none&sni=dalfak.com&fp=chrome&security=reality&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&sid=a56f693ce784b4cc#4Mohsen-5854
 vless://28ceb89c-03d8-443d-bd89-c90b34236485@172.66.47.133:443/?type=ws&encryption=none&host=7ba6dc37.joinmahdiserver-4q9.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=7ba6dc37.joinmahdiserver-4q9.pages.dev&fp=randomized#4Mohsen-6058
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.148:443/?type=ws&encryption=none&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&sni=freedom-1rj.pages.dev#4Mohsen-6230

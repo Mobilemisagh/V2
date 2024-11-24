@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
-
 vless://0e921714-b28c-4ffd-a371-eb486bc5a1ce@40.160.11.136:2053/?type=ws&encryption=none&path=%2FGcore.com%3Fed%3D443&security=tls&sni=test.mrkian.us.kg#4Jadi-4990
 vless://16282c60-1fbf-4a28-b6e3-ae76a7a331da@172.66.47.51:443/?type=ws&encryption=none&host=pardazeshvpn-tg96.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048fp%3Drandomized&security=tls&sni=pardazeshvpn-tg96.pages.dev#4Jadi-5021
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096/?type=grpc&encryption=none&sni=dash.cloudflare.com&alpn=null&fp=firefox&security=reality&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#4Jadi-5023
@@ -39,7 +38,6 @@ vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443/?type=tcp&encrypt
 vless://77470ed6-7da8-47dc-8963-5f538ff08404@162.159.153.2:443/?type=ws&encryption=none&host=frepurliteneww.pages.dev&path=%2Ffrepurliteneww.pages.dev%2F%3Fed%3D2560&security=tls&sni=frepurliteneww.pages.dev&fp=randomized#4Jadi-5851
 vless://7790e51c-d4a1-461c-8afd-3dccc1859dbd@20.251.160.230:443/?type=ws&encryption=none&host=yjc.ir&path=%2Fnews#4Jadi-5862
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.100:80/?type=ws&encryption=none&host=IRANINGOAT.IR&path=%2F7qJzyVWj0ybhGdPg#4Jadi-6109
-vless://89e28408-99e9-4348-af10-14071e616b15@185.227.111.41:21155/?type=tcp&encryption=none#4Jadi-6133
 vless://8e1a80da-bd61-4ee4-b480-c2d860aad9c3@151.101.130.228:80/?type=ws&encryption=none&host=hsdhvifubh6.com&path=ws%2F%3Fed%3D2048Telegram%2B%3A%2B%40JOKERRVPN%2B-Telegram%2B%3A%2B%40JOKERRVPN%2B-Telegram%2B%3A%2B%40JOKERRVPN%2B-Telegram%2B%3A%2B%40JOKERRVPN%2B-Telegram%2B%3A%2B%40JOKERRVPN%2B-Telegram%2B%3A%2B%40JOKERRVPN%2B-Telegram%2B%3A%2B%40JOKERRVPN%2B-Telegram%2B%3A%2B%40JOKERRVPN%2B-Telegram%2B%3A%2B%40JOKERRVPN%2B-Telegram%2B%3A%2B%40JOKERRVPN%2B-Telegram%2B%3A%2B%40JOKERRVPN#4Jadi-6160
 vless://8ff11428-caa1-4863-94de-2f1e56281c25@79.127.70.88:443/?encryption=none&host=fast.com%20%40Client_Proo&type=tcp&headerType=http#4Jadi-6184
 vless://92c15dc4-6e60-5603-8a13-a760e1e87f3a@151.101.194.219:80/?type=ws&encryption=none&host=ELiV2RaY-0.cOm#4Jadi-6197

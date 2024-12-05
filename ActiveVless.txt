@@ -3,7 +3,8 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
-
+hy2://KevinZakarian@kevin.serverv.net:443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#KevinVPN
+hy2://KevinZakarian@kevin.serverv.net:8443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#KevinVPN
 vless://98d15952-07aa-5331-b67f-0c2f8a60d0a6@151.101.66.228:443/?type=ws&encryption=none&host=speedtest.net.ladgn.ir&path=%2FTELEGRAM-Daily_Configs-Daily_Configs%2F%3Fed%3D2560&security=tls&sni=forestbiology.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=android#%40Hope_Net-join-us-on-Telegram%20%281%29
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.xn--i-sx6a60i.us.kg#%40Hope_Net-join-us-on-Telegram%20%2819%29
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.199.19:443/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.xn--i-sx6a60i.us.kg#%40Hope_Net-join-us-on-Telegram%20%2823%29

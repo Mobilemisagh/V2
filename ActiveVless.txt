@@ -3,6 +3,7 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
+hy2://sysadmin.sysadmin@154.23.175.126:6813/?insecure=1#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%40TM_KODLARY%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
 hysteria2://sysadmin.sysadmin@154.12.61.72:2053?security=tls&insecure=1&sni=hk1.helima.net#🇨🇦_سورن 🇨🇻
 hysteria2://sysadmin.sysadmin@209.141.56.5:456?security=tls&insecure=1&sni=youtube.maptoca.monster#🇨🇦_سورن 🇨🇴
 hysteria2://6b469585-4a07-4387-89cc-b28da026a9a7@195.58.48.220:80?security=tls&obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🇨🇦_سورن 🇨🇲

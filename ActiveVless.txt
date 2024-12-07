@@ -183,12 +183,6 @@ hy2://KevinZakarian@kevin.serverv.net:8443/?insecure=1&obfs=salamander&obfs-pass
 hy2://KevinZakarian@kevin.serverv.net:8443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%A9%F0%9F%87%AA_%D8%B3%D9%88%D8%B1%D9%86%F0%9F%87%AC%F0%9F%87%B6%F0%9F%87%BA%F0%9F%87%B2
 hy2://sysadmin.sysadmin@68.233.123.218:2024/?insecure=1&sni=68-233-123-218.nip.io#%F0%9F%87%A8%F0%9F%87%A6_%D8%B3%D9%88%D8%B1%D9%86%F0%9F%87%AE%F0%9F%87%A8
 
-//profile-title: base64:8J+RvUFub255bW91cyhQcm9qZWN0QWluaXRhKQ==
-//profile-update-interval: 6
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/BXAMbot
-//profile-web-page-url: https://github.com/4n0nymou3
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cDhYaXA1UjUwcjJndVdncmZmTFVn@18.223.206.65:36325/?POST%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VzBXb0NvWHlHVU14M2JTaENSVjQ1@3.128.172.67:47695/?POST%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSmVUNFF3SWJlRDBGbWg5SVpISFJz@34.222.15.93:62611/?POST%20

@@ -2,6 +2,7 @@
 //profile-update-interval: 8
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
+
 vless://6646c92b-78b5-4171-e95c-1d7eb7d2cd22@151.101.64.155:80/?type=ws&encryption=none&host=tgidvirav2ray.org&path=farsi.khamenei.ir%2Fcontact%2FViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%3Fed%3D2096#%40Hope_Net-join-us-on-Telegram%20%282%29
 vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@168.119.101.219:443/?type=ws&encryption=none&host=168.119.101.219&path=%2F#telegram%F0%9F%9B%B8DailyV2ry
 vless://6646c92b-78b5-4171-e95c-1d7eb7d2cd22@151.101.2.165:80/?type=ws&encryption=none&host=tgidvirav2ray.org&path=farsi.khamenei.ir%2Fcontact%2FViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%3Fed%3D2096#%40Hope_Net-join-us-on-Telegram%20%2821%29
@@ -186,7 +187,6 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.107:80/?type=ws&encrypti
 vless://54c68483-f072-40bb-dead-b7635bc206f1@154.37.217.156:54735/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com&fp=chrome&security=reality&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&sid=#4Mohsen-8076
 vless://6646c92b-78b5-4171-e95c-1d7eb7d2cd22@151.101.0.155:80/?type=ws&encryption=none&host=tgidvirav2ray.org&path=farsi.khamenei.ir%2Fcontact%2FViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%3Fed%3D2096#4Mohsen-8363
 vless://6762f189-0c6a-45e4-831a-0363bc25f0c0@194.5.193.73:26469/?type=ws&encryption=none&path=%2F#4Mohsen-8379
-vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393/?type=tcp&encryption=none#4Mohsen-9260
 vless://76604d4f-e3d7-4377-a680-31d7ca2e85e6@135.125.244.42:2030/?type=grpc&encryption=none&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=refersion.com&fp=chrome&security=reality&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#4Mohsen-9290
 vless://76604d4f-e3d7-4377-a680-31d7ca2e85e6@141.227.128.218:2030/?type=grpc&encryption=none&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=refersion.com&fp=chrome&security=reality&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#4Mohsen-9291
 vless://771020d7-a6d6-477c-a2ab-62146cb9639e@151.101.130.228:443/?type=ws&encryption=none&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=tls&sni=fishlab.ucdavis.edu&fp=randomized#4Mohsen-9301

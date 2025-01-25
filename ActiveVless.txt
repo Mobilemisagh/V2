@@ -3,7 +3,7 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 
 
-http://127.0.0.1:1080/#%DA%86%D9%86%D8%AF%20%D8%AF%D9%82%DB%8C%D9%82%D9%87%20%D8%B5%D8%A8%D8%B1%20%DA%A9%D9%86%DB%8C%D8%AF
+vless://182c26e1-b3fe-4ae0-aee5-dcbeeca5b9fd@167.114.211.212:51048/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=9gKGvJkNm_aHlknQqlDAuap9n0cjDnQPZUoUa2T7hH4&sid=23567c2b2713301d#%DA%86%D9%86%D8%AF%20%D8%AF%D9%82%DB%8C%D9%82%D9%87%20%D8%B5%D8%A8%D8%B1%20%DA%A9%D9%86%DB%8C%D8%AF
 hy2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443/?insecure=1&sni=all-v6.dgi000.store&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#%F0%9F%87%A8%F0%9F%87%AD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTnRoOVkzV3RlWlRPdHMwYnp1RTlw@16.16.90.53:39012#%C2%A0%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTnRoOVkzV3RlWlRPdHMwYnp1RTlw@16.16.90.53:39012#%C2%A0%F0%9F%87%B8%F0%9F%87%AA%202

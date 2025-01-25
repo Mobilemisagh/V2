@@ -1,6 +1,6 @@
 //profile-title: base64:8J2UkPCdlKbwnZSw8J2UnvCdlKTwnZSlIPCdlJnihJHwnZST
 //profile-update-interval: 8
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
+//subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
 
 
 vless://182c26e1-b3fe-4ae0-aee5-dcbeeca5b9fd@167.114.211.212:51048/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=9gKGvJkNm_aHlknQqlDAuap9n0cjDnQPZUoUa2T7hH4&sid=23567c2b2713301d#%DA%86%D9%86%D8%AF%20%D8%AF%D9%82%DB%8C%D9%82%D9%87%20%D8%B5%D8%A8%D8%B1%20%DA%A9%D9%86%DB%8C%D8%AF

@@ -5,6 +5,7 @@
 
 
 vless://182c26e1-b3fe-4ae0-aee5-dcbeeca5b9fd@167.114.211.212:51048/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=9gKGvJkNm_aHlknQqlDAuap9n0cjDnQPZUoUa2T7hH4&sid=23567c2b2713301d#%DA%86%D9%86%D8%AF%20%D8%AF%D9%82%DB%8C%D9%82%D9%87%20%D8%B5%D8%A8%D8%B1%20%DA%A9%D9%86%DB%8C%D8%AF
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%C2%A0%F0%9F%87%B3%F0%9F%87%B1
 hy2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443/?insecure=1&sni=all-v6.dgi000.store&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#%F0%9F%87%A8%F0%9F%87%AD
 hysteria://195.154.184.5:22787/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7
 hy2://e3f4729d-2bdf-4326-a2a7-c8678da4121c@107.149.212.189:47085/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%20%282%29

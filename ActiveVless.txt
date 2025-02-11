@@ -8,3 +8,7 @@ hy2://%40azadi_az_inja_migzare@all-v4.kpll49.space:443/?insecure=1&sni=all-v6.dg
 
 
 hy2://%40KevinZakarian@keviny.iserver.store:8443/?insecure=1&obfs=salamander&obfs-password=%40KevinZakarian#%F0%9F%87%BA%F0%9F%87%B8
+
+
+
+hy2://a0605527-28e4-449c-80ee-5642cc16a8af@203.23.128.167:80/?insecure=1#%F0%9F%87%A7%F0%9F%87%B7

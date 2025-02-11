@@ -5,3 +5,6 @@
 .
 
 hy2://%40azadi_az_inja_migzare@all-v4.kpll49.space:443/?insecure=1&sni=all-v6.dgi000.store&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#%F0%9F%87%A8%F0%9F%87%AD
+
+
+hy2://%40KevinZakarian@keviny.iserver.store:8443/?insecure=1&obfs=salamander&obfs-password=%40KevinZakarian#%F0%9F%87%BA%F0%9F%87%B8

@@ -9,7 +9,7 @@ vless://182c26e1-b3fe-4ae0-aee5-dcbeeca5b9fd@167.114.211.212:51048/?type=tcp&enc
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%C2%A0%F0%9F%87%B3%F0%9F%87%B1
 hy2://%40azadi_az_inja_migzare@all-v4.kpll49.space:443/?insecure=1&sni=all-v6.dgi000.store&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#%F0%9F%87%A8%F0%9F%87%AD
 hy2://%40KevinZakarian@keviny.iserver.store:8443/?insecure=1&obfs=salamander&obfs-password=%40KevinZakarian#%F0%9F%87%BA%F0%9F%87%B8
-hy2://a0605527-28e4-449c-80ee-5642cc16a8af@203.23.128.167:80/?insecure=1#%F0%9F%87%A7%F0%9F%87%B7
+
 
 ----------
 hy2://bcf89582-072f-4e16-97e2-5d1258e0100d@89.168.44.2:443/?mport=22000-27000&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%B7%20FR-89.168.44.2%3A443

@@ -9,4 +9,5 @@ vless://182c26e1-b3fe-4ae0-aee5-dcbeeca5b9fd@167.114.211.212:51048/?type=tcp&enc
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%C2%A0%F0%9F%87%B3%F0%9F%87%B1
 hy2://Telegram--%3E%40Ln2Ray@chopper.88981401.xyz:443/?mport=35000-45000&insecure=1&sni=chopper.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%20
 vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@chopper.lnmarketplace.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=chopper.lnmarketplace.net&alpn=h2&fp=randomized#%F0%9F%87%B3%F0%9F%87%B1%202
-hy2://%40KevinZakarian1@keviny.iserver.store:8443/?insecure=1&obfs=salamander&obfs-password=%40KevinZakarian#%F0%9F%87%BA%F0%9F%87%B8----------
+hy2://%40KevinZakarian1@keviny.iserver.store:8443/?insecure=1&obfs=salamander&obfs-password=%40KevinZakarian#%F0%9F%87%BA%F0%9F%87%B8
+----------

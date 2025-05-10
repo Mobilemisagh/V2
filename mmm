@@ -6,8 +6,19 @@
 vless://182c26e1-b3fe-4ae0-aee5-dcbeeca5b9fd@167.114.211.212:51048/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=9gKGvJkNm_aHlknQqlDAuap9n0cjDnQPZUoUa2T7hH4&sid=23567c2b2713301d#%DA%86%D9%86%D8%AF%20%D9%84%D8%AD%D8%B8%D9%87%20%D8%B5%D8%A8%D8%B1%20%DA%A9%D9%86%DB%8C%D8%AF
 --------
 
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%C2%A0%F0%9F%87%B3%F0%9F%87%B1
-hy2://Telegram--%3E%40Ln2Ray@chopper.88981401.xyz:443/?mport=35000-45000&insecure=1&sni=chopper.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%20
+
 hy2://Yet-Another-Public-Config-1@yapc-1.afshin.ir:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%A9%F0%9F%87%AA
 hy2://KevinZakarian@kevin.iserver.store:443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%87%BA%F0%9F%87%B8
-----------
+hy2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@jnir-1.pichondan.com:35000/?insecure=1&sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%A9%F0%9F%87%AA
+hy2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@jnir-2.pichondan.com:35000/?insecure=1&sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%A9%F0%9F%87%AA2
+hy2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@jnir-3.pichondan.com:35000/?insecure=1&sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%A9%F0%9F%87%AA3
+hy2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@jnir-4.pichondan.com:443/?mport=35000-45000&insecure=1&sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%AB%F0%9F%87%B7
+hy2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@jnir-5.pichondan.com:443/?mport=35000-45000&insecure=1&sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%AB%F0%9F%87%B72
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%C2%A0%F0%9F%87%B3%F0%9F%87%B1
+hy2://Telegram--%3E%40Ln2Ray@chopper.88981401.xyz:443/?mport=35000-45000&insecure=1&sni=chopper.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%20
+hy2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@45.15.167.181:443/?sni=sinavm.soft10.ir&obfs=salamander&obfs-password=%40SiNAVM-SiNAVM-SiNAVM-%40SiNAVM-%40SiNAVM#%F0%9F%87%A9%F0%9F%87%AA4
+hysteria://195.154.200.178:46938/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%AB%F0%9F%87%B73
+hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%204
+hy2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002/?sni=us.10101251.xyz#%F0%9F%87%BA%F0%9F%87%B82
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%203
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20

@@ -20,3 +20,5 @@ hy2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002/?sni=us.10101251.
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%203
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-62.100.205.48%3A989
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B11
+hy2://Yet-Another-Public-Config-1@yapc-2.adamhayward.co.uk:35000/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%A9%F0%9F%87%AA

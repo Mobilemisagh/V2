@@ -1,28 +1,195 @@
-//profile-title: base64:8J2UkPCdlKbwnZSw8J2UnvCdlKTwnZSlIPCdlJnihJHwnZST
-//profile-update-interval: 8
-//subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
-
-
-vless://182c26e1-b3fe-4ae0-aee5-dcbeeca5b9fd@167.114.211.212:51048/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=9gKGvJkNm_aHlknQqlDAuap9n0cjDnQPZUoUa2T7hH4&sid=23567c2b2713301d#%DA%86%D9%86%D8%AF%20%D9%84%D8%AD%D8%B8%D9%87%20%D8%B5%D8%A8%D8%B1%20%DA%A9%D9%86%DB%8C%D8%AF
---------
-vless://dc8a7de0-e311-4675-bce9-656dada9751a@164.90.190.249:2053/?type=grpc&encryption=none&serviceName=qauuf.iran.ailreza.org.tr&security=tls&sni=qauuf.iran.ailreza.org.tr&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD13%20%7C%20%E2%AC%87%EF%B8%8F%203.6MB%2Fs
-vless://c79e0d55-2fc2-4fc2-b221-e768be7d2ba7@194.5.50.172:5001/?type=ws&encryption=none&host=telewebion.com&path=%2FGsmx3erverFuckIrancellMci#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD27%20%7C%20%E2%AC%87%EF%B8%8F%201.4MB%2Fs
-vless://1d521904-5ffa-4afa-b639-96ea4e5fce4a@151.101.64.155:80/?type=ws&encryption=none&host=Lightning.ir&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B01%20%7C%20%E2%AC%87%EF%B8%8F%203.5MB%2Fs
-vmess://eyJhZGQiOiI0My4yNDcuMTM1LjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODAzN2NlMDAtYzg2MC00MjEzLWI4ODgtYmU1YzdlZDZlYTQ4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAzMzIiLCJwcyI6IvCfh63wn4ewIOS4gOWFg+acuuWcujpzc3JzdWIuZGUg6aaZ5rivIDE2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@14.102.229.89:8880/?type=httpupgrade&encryption=none&host=dl1.mcinet.xyz.&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-14.102.229.89%3A8880
-vless://d49f777a-6b2b-4286-bc20-c5e862135716@109.172.55.28:2063/?type=grpc&encryption=none&serviceName=2095vless#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%AB%F0%9F%87%B7%20FR-109.172.55.28%3A2063
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@176.124.223.6:8880/?type=httpupgrade&encryption=none&host=dl1.mcinet.xyz.&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NA%20%F0%9F%87%B7%F0%9F%87%BA%20RU-176.124.223.6%3A8880
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.129.167.213:8880/?type=httpupgrade&encryption=none&host=dl1.mcinet.xyz.&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-104.129.167.213%3A8880
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.228:8880/?type=httpupgrade&encryption=none&host=dl1.mcinet.xyz.&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-102.177.189.228%3A8880
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.239.72.145:8880/?type=httpupgrade&encryption=none&host=dl1.mcinet.xyz.&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-104.239.72.145%3A8880
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@5.10.245.158:8880/?type=httpupgrade&encryption=none&host=dl1.mcinet.xyz.&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NA%20%F0%9F%87%B3%F0%9F%87%B1%20NL-5.10.245.158%3A8880
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@77.75.199.18:8880/?type=httpupgrade&encryption=none&host=dl1.mcinet.xyz.&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-77.75.199.18%3A8880
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@176.124.223.42:8880/?type=httpupgrade&encryption=none&host=dl1.mcinet.xyz.&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NA%20%F0%9F%87%B7%F0%9F%87%BA%20RU-176.124.223.42%3A8880
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.107:443/?type=tcp&encryption=none&security=tls&sni=147135011033.sec21org.com
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.193:8880/?type=grpc&encryption=none
-vless://7648af05-f18f-4d16-ad53-1781370b3596@104.17.148.22:443/?type=ws&encryption=none&host=liNGeRing-scENe-42dd.BoLIj51053.WorkERS.dEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=liNGeRing-scENe-42dd.BoLIj51053.WorkERS.dEv
-vless://c59695d1-b0d3-440e-a502-76e408805a1e@5.160.144.80:57209/?encryption=none&host=parsabr.com&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%5Bopenproxylist.com%5D%20vless-DE%60%60%60%20%281%29
-vless://dc2fe927-7b72-4db2-b686-aa741a7613db@151.101.64.155:80/?type=ws&encryption=none&host=LIGHTNING6.ir&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#%F0%9F%86%94SOSkeyNET%20%F0%9F%94%93%20VL-WS-N%2FA%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
-vless://5b77d2e4-c347-4f15-8082-9383d5f3ff68@185.79.158.147:8087/?encryption=none&host=%2FChannel%3A%40ShadowProxy66---%40ShadowProxy66---%40ShadowProxy66&type=tcp&headerType=http#%F0%9F%86%94ShadowProxy66%20%F0%9F%94%93%20VL-TCP-N%2FA%20%E2%9D%94%20XX%20down
-vless://5b77d2e4-c347-4f15-8082-9383d5f3ff68@185.79.158.147:8087/?encryption=none&host=%2FChannel%3A%40ShadowProxy66---%40ShadowProxy66---%40ShadowProxy66&type=tcp&headerType=http#%F0%9F%86%94ShadowProxy66%20%F0%9F%94%93%20VL-TCP-N%2FA%20%E2%9D%94%20XX%20down
-vless://5b77d2e4-c347-4f15-8082-9383d5f3ff68@185.79.158.147:8087/?encryption=none&host=%2FChannel%3A%40ShadowProxy66---%40ShadowProxy66---%40ShadowProxy66&type=tcp&headerType=http#%F0%9F%86%94ShadowProxy66%20%F0%9F%94%93%20VL-TCP-N%2FA%20%E2%9D%94%20XX%20down
+{
+  "dns": {
+    "final": "local-dns",
+    "rules": [
+      {
+        "action": "route",
+        "clash_mode": "Global",
+        "server": "proxy-dns",
+        "source_ip_cidr": [
+          "172.19.0.0/30",
+          "fdfe:dcba:9876::1/126"
+        ]
+      },
+      {
+        "action": "route",
+        "server": "proxy-dns",
+        "source_ip_cidr": [
+          "172.19.0.0/30",
+          "fdfe:dcba:9876::1/126"
+        ]
+      },
+      {
+        "action": "route",
+        "clash_mode": "Direct",
+        "server": "direct-dns"
+      },
+      {
+        "action": "route",
+        "rule_set": [
+          "geosite-ir"
+        ],
+        "server": "direct-dns"
+      }
+    ],
+    "servers": [
+      {
+        "address": "tcp://1.1.1.1",
+        "address_resolver": "local-dns",
+        "detour": "proxy",
+        "tag": "proxy-dns"
+      },
+      {
+        "address": "local",
+        "detour": "direct",
+        "tag": "local-dns"
+      },
+      {
+        "address": "tcp://8.8.8.8",
+        "detour": "direct",
+        "tag": "direct-dns"
+      }
+    ],
+    "strategy": "prefer_ipv4"
+  },
+  "inbounds": [
+    {
+      "address": [
+        "172.19.0.1/30",
+        "fdfe:dcba:9876::1/126"
+      ],
+      "auto_route": true,
+      "endpoint_independent_nat": false,
+      "mtu": 9000,
+      "platform": {
+        "http_proxy": {
+          "enabled": true,
+          "server": "127.0.0.1",
+          "server_port": 2080
+        }
+      },
+      "stack": "system",
+      "strict_route": false,
+      "type": "tun"
+    },
+    {
+      "listen": "127.0.0.1",
+      "listen_port": 2080,
+      "type": "mixed",
+      "users": []
+    }
+  ],
+  "outbounds": [
+    {
+      "outbounds": [
+        "auto",
+        "direct",
+        "VPNy-US"
+      ],
+      "tag": "proxy",
+      "type": "selector"
+    },
+    {
+      "interval": "10m",
+      "outbounds": [
+        "VPNy-US"
+      ],
+      "tag": "auto",
+      "tolerance": 50,
+      "type": "urltest",
+      "url": "http://www.gstatic.com/generate_204"
+    },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "headers": {
+        "Host": "google.com",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+      },
+      "password": "24PAm7tCKQ",
+      "server": "185.141.216.99",
+      "server_port": 11001,
+      "tag": "VPNy-US",
+      "type": "http",
+      "username": "VPNy-US"
+    }
+  ],
+  "route": {
+    "auto_detect_interface": true,
+    "final": "proxy",
+    "rule_set": [
+      {
+        "download_detour": "direct",
+        "format": "binary",
+        "tag": "geosite-ads",
+        "type": "remote",
+        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ads-all.srs"
+      },
+      {
+        "download_detour": "direct",
+        "format": "binary",
+        "tag": "geosite-private",
+        "type": "remote",
+        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/private.srs"
+      },
+      {
+        "download_detour": "direct",
+        "format": "binary",
+        "tag": "geosite-ir",
+        "type": "remote",
+        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ir.srs"
+      },
+      {
+        "download_detour": "direct",
+        "format": "binary",
+        "tag": "geoip-private",
+        "type": "remote",
+        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/private.srs"
+      },
+      {
+        "download_detour": "direct",
+        "format": "binary",
+        "tag": "geoip-ir",
+        "type": "remote",
+        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/ir.srs"
+      }
+    ],
+    "rules": [
+      {
+        "action": "sniff"
+      },
+      {
+        "action": "route",
+        "clash_mode": "Direct",
+        "outbound": "direct"
+      },
+      {
+        "action": "route",
+        "clash_mode": "Global",
+        "outbound": "proxy"
+      },
+      {
+        "action": "hijack-dns",
+        "protocol": "dns"
+      },
+      {
+        "action": "route",
+        "outbound": "direct",
+        "rule_set": [
+          "geoip-private",
+          "geosite-private",
+          "geosite-ir",
+          "geoip-ir"
+        ]
+      },
+      {
+        "action": "reject",
+        "rule_set": [
+          "geosite-ads"
+        ]
+      }
+    ]
+  }
+}

@@ -115,7 +115,7 @@
       "type": "http",
       "username": "VPNy-US"
     },
-{
+    {
       "headers": {
         "Host": "google.com",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
@@ -127,7 +127,7 @@
       "type": "http",
       "username": "VPNy-DE-A"
     },
-{
+    {
   "route": {
     "auto_detect_interface": true,
     "final": "proxy",

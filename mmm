@@ -116,6 +116,19 @@
       "username": "VPNy-US"
     }
   ],
+{
+      "headers": {
+        "Host": "google.com",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+      },
+      "password": "6XRH177bpL",
+      "server": "179.61.138.128",
+      "server_port": 11001,
+      "tag": "VPNy-DE",
+      "type": "http",
+      "username": "VPNy-DE-A"
+    }
+],
   "route": {
     "auto_detect_interface": true,
     "final": "proxy",

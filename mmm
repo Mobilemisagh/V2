@@ -114,8 +114,7 @@
       "tag": "VPNy-US",
       "type": "http",
       "username": "VPNy-US"
-    }
-  ],
+    },
 {
       "headers": {
         "Host": "google.com",
@@ -127,8 +126,7 @@
       "tag": "VPNy-DE",
       "type": "http",
       "username": "VPNy-DE-A"
-    }
-],
+    },
 {
   "route": {
     "auto_detect_interface": true,

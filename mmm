@@ -129,6 +129,7 @@
       "username": "VPNy-DE-A"
     }
 ],
+{
   "route": {
     "auto_detect_interface": true,
     "final": "proxy",

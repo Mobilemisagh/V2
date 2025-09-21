@@ -1,1 +1,1174 @@
-hy2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000/?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-206.71.158.40%3A35000
+{
+  "dns": {
+    "final": "local-dns",
+    "rules": [
+      {
+        "clash_mode": "Global",
+        "server": "proxy-dns",
+        "source_ip_cidr": [
+          "172.19.0.0/30"
+        ]
+      },
+      {
+        "server": "proxy-dns",
+        "source_ip_cidr": [
+          "172.19.0.0/30"
+        ]
+      },
+      {
+        "clash_mode": "Direct",
+        "server": "direct-dns"
+      },
+      {
+        "rule_set": [
+          "geosite-ir"
+        ],
+        "server": "direct-dns"
+      },
+      {
+        "rule_set": [
+          "geosite-category-ads-all",
+          "geosite-malware",
+          "geosite-phishing",
+          "geosite-cryptominers"
+        ],
+        "server": "block"
+      }
+    ],
+    "servers": [
+      {
+        "address": "tls://208.67.222.123",
+        "address_resolver": "local-dns",
+        "detour": "proxy",
+        "tag": "proxy-dns"
+      },
+      {
+        "address": "local",
+        "detour": "direct",
+        "tag": "local-dns"
+      },
+      {
+        "address": "rcode://success",
+        "tag": "block"
+      },
+      {
+        "address": "local",
+        "detour": "direct",
+        "tag": "direct-dns"
+      }
+    ],
+    "strategy": "prefer_ipv4"
+  },
+  "inbounds": [
+    {
+      "address": [
+        "172.19.0.1/30",
+        "fdfe:dcba:9876::1/126"
+      ],
+      "auto_route": true,
+      "endpoint_independent_nat": false,
+      "mtu": 9000,
+      "platform": {
+        "http_proxy": {
+          "enabled": true,
+          "server": "127.0.0.1",
+          "server_port": 2080
+        }
+      },
+      "sniff": true,
+      "stack": "system",
+      "strict_route": false,
+      "type": "tun"
+    },
+    {
+      "listen": "127.0.0.1",
+      "listen_port": 2080,
+      "sniff": true,
+      "type": "mixed",
+      "users": []
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "type": "selector",
+      "outbounds": [
+        "auto",
+        "hysteria2-Misagh-1",
+        "hysteria2-Misagh-2",
+        "hysteria2-Misagh-3",
+        "hysteria2-Misagh-4",
+        "hysteria2-Misagh-5",
+        "hysteria2-Misagh-6",
+        "hysteria2-Misagh-7",
+        "hysteria2-Misagh-8",
+        "hysteria2-Misagh-9",
+        "hysteria2-Misagh-10",
+        "hysteria2-Misagh-11",
+        "hysteria2-Misagh-12",
+        "hysteria2-Misagh-13",
+        "hysteria2-Misagh-14",
+        "hysteria2-Misagh-15",
+        "hysteria2-Misagh-16",
+        "hysteria2-Misagh-17",
+        "hysteria2-Misagh-18",
+        "hysteria2-Misagh-19",
+        "hysteria2-Misagh-20",
+        "hysteria2-Misagh-21",
+        "hysteria2-Misagh-22",
+        "hysteria2-Misagh-23",
+        "hysteria2-Misagh-24",
+        "hysteria2-Misagh-25",
+        "hysteria2-Misagh-26",
+        "hysteria2-Misagh-27",
+        "hysteria2-Misagh-28",
+        "hysteria2-Misagh-29",
+        "hysteria2-Misagh-30",
+        "hysteria2-Misagh-31",
+        "hysteria2-Misagh-32",
+        "hysteria2-Misagh-33",
+        "hysteria2-Misagh-34",
+        "hysteria2-Misagh-35",
+        "hysteria2-Misagh-36",
+        "hysteria2-Misagh-37",
+        "hysteria2-Misagh-38",
+        "hysteria2-Misagh-39",
+        "hysteria2-Misagh-40",
+        "hysteria2-Misagh-41",
+        "hysteria2-Misagh-42",
+        "hysteria2-Misagh-43",
+        "hysteria2-Misagh-44",
+        "hysteria2-Misagh-45",
+        "hysteria2-Misagh-46",
+        "hysteria2-Misagh-47",
+        "hysteria2-Misagh-48",
+        "hysteria2-Misagh-49",
+        "hysteria2-Misagh-50",
+        "hysteria2-Misagh-51",
+        "hysteria2-Misagh-52",
+        "hysteria2-Misagh-53",
+        "hysteria2-Misagh-54",
+        "hysteria2-Misagh-55",
+        "hysteria2-Misagh-56",
+        "hysteria2-Misagh-57",
+        "hysteria2-Misagh-58",
+        "hysteria2-Misagh-59",
+        "hysteria2-Misagh-60",
+        "hysteria2-Misagh-61",
+        "hysteria2-Misagh-62",
+        "hysteria2-Misagh-63",
+        "hysteria2-Misagh-64",
+        "hysteria2-Misagh-65",
+        "hysteria2-Misagh-66",
+        "hysteria2-Misagh-67",
+        "hysteria2-Misagh-68",
+        "direct"
+      ]
+    },
+    {
+      "tag": "auto",
+      "type": "urltest",
+      "outbounds": [
+        "hysteria2-Misagh-1",
+        "hysteria2-Misagh-2",
+        "hysteria2-Misagh-3",
+        "hysteria2-Misagh-4",
+        "hysteria2-Misagh-5",
+        "hysteria2-Misagh-6",
+        "hysteria2-Misagh-7",
+        "hysteria2-Misagh-8",
+        "hysteria2-Misagh-9",
+        "hysteria2-Misagh-10",
+        "hysteria2-Misagh-11",
+        "hysteria2-Misagh-12",
+        "hysteria2-Misagh-13",
+        "hysteria2-Misagh-14",
+        "hysteria2-Misagh-15",
+        "hysteria2-Misagh-16",
+        "hysteria2-Misagh-17",
+        "hysteria2-Misagh-18",
+        "hysteria2-Misagh-19",
+        "hysteria2-Misagh-20",
+        "hysteria2-Misagh-21",
+        "hysteria2-Misagh-22",
+        "hysteria2-Misagh-23",
+        "hysteria2-Misagh-24",
+        "hysteria2-Misagh-25",
+        "hysteria2-Misagh-26",
+        "hysteria2-Misagh-27",
+        "hysteria2-Misagh-28",
+        "hysteria2-Misagh-29",
+        "hysteria2-Misagh-30",
+        "hysteria2-Misagh-31",
+        "hysteria2-Misagh-32",
+        "hysteria2-Misagh-33",
+        "hysteria2-Misagh-34",
+        "hysteria2-Misagh-35",
+        "hysteria2-Misagh-36",
+        "hysteria2-Misagh-37",
+        "hysteria2-Misagh-38",
+        "hysteria2-Misagh-39",
+        "hysteria2-Misagh-40",
+        "hysteria2-Misagh-41",
+        "hysteria2-Misagh-42",
+        "hysteria2-Misagh-43",
+        "hysteria2-Misagh-44",
+        "hysteria2-Misagh-45",
+        "hysteria2-Misagh-46",
+        "hysteria2-Misagh-47",
+        "hysteria2-Misagh-48",
+        "hysteria2-Misagh-49",
+        "hysteria2-Misagh-50",
+        "hysteria2-Misagh-51",
+        "hysteria2-Misagh-52",
+        "hysteria2-Misagh-53",
+        "hysteria2-Misagh-54",
+        "hysteria2-Misagh-55",
+        "hysteria2-Misagh-56",
+        "hysteria2-Misagh-57",
+        "hysteria2-Misagh-58",
+        "hysteria2-Misagh-59",
+        "hysteria2-Misagh-60",
+        "hysteria2-Misagh-61",
+        "hysteria2-Misagh-62",
+        "hysteria2-Misagh-63",
+        "hysteria2-Misagh-64",
+        "hysteria2-Misagh-65",
+        "hysteria2-Misagh-66",
+        "hysteria2-Misagh-67",
+        "hysteria2-Misagh-68"
+      ],
+      "url": "http://www.gstatic.com/generate_204",
+      "interval": "10m",
+      "tolerance": 50
+    },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-1",
+      "server": "195.254.165.129",
+      "server_port": 1020,
+      "password": "bugfreenet",
+      "tls": {
+        "enabled": true,
+        "server_name": "miro.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-2",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36300,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-3",
+      "server": "96.62.214.75",
+      "server_port": 2056,
+      "password": "16461a78-363c-457a-92f9-83b0a68edc37",
+      "tls": {
+        "enabled": true,
+        "server_name": "zp1.eyujichang.xyz",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-4",
+      "server": "70.34.215.221",
+      "server_port": 20335,
+      "password": "80747420-96c4-4a2f-83e6-eea4e46beb09",
+      "tls": {
+        "enabled": true,
+        "server_name": "drhystuichdfy.samanidempire.org",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-5",
+      "server": "208.87.243.187",
+      "server_port": 22222,
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-6",
+      "server": "142.91.101.45",
+      "server_port": 2055,
+      "password": "78c2bad7-f5f3-41f2-88cc-81de9d05040b",
+      "tls": {
+        "enabled": true,
+        "server_name": "xjp1.mangshe.xyz",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-7",
+      "server": "77.223.214.193",
+      "server_port": 31468,
+      "password": "79c4fe11-9787-406b-bf94-c1c1dbf59e28",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-8",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35200,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-9",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36300,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-10",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35200,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-11",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36400,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-12",
+      "server": "192.227.152.86",
+      "server_port": 61001,
+      "password": "5CBqBh6MeDq6GajcilBiDg%3D%3D",
+      "tls": {
+        "enabled": true,
+        "server_name": "192-227-152-86.nip.io",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-13",
+      "server": "185.85.242.177",
+      "server_port": 1443,
+      "password": "cf125f42-759d-4112-82c3-014d2ffcb1e7",
+      "tls": {
+        "enabled": true,
+        "server_name": "gbr1.587458.xyz",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-14",
+      "server": "95.181.174.31",
+      "server_port": 443,
+      "password": "kanale_dailyconfigs",
+      "tls": {
+        "enabled": true,
+        "server_name": "slack.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-15",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35200,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-16",
+      "server": "193.56.135.85",
+      "server_port": 443,
+      "password": "8da7bd17-70ab-472d-a925-cc827857dc35",
+      "tls": {
+        "enabled": true,
+        "server_name": "ylk.1mao.me",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-17",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35000,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-18",
+      "server": "206.71.158.37",
+      "server_port": 36300,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-19",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36600,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-20",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36600,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-21",
+      "server": "[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]",
+      "server_port": 443,
+      "password": "71504eaf-29ac-4190-89d1-dd9ce2c9ee14",
+      "tls": {
+        "enabled": true,
+        "server_name": "Ab.ac",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-22",
+      "server": "[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]",
+      "server_port": 443,
+      "password": "71504eaf-29ac-4190-89d1-dd9ce2c9ee14",
+      "tls": {
+        "enabled": true,
+        "server_name": "Ab.ac",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-23",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36600,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-24",
+      "server": "[2a0b:4140:b17f::2]",
+      "server_port": 443,
+      "password": "kanale_dailyconfigs",
+      "tls": {
+        "enabled": true,
+        "server_name": "slack.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-25",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36400,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-26",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35000,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-27",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35000,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-28",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36400,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-29",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35000,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-30",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36600,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-31",
+      "server": "[2001:bc8:32d7:302::11]",
+      "server_port": 20088,
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "apple.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-32",
+      "server": "206.71.158.37",
+      "server_port": 36600,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-33",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35000,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-34",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36400,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-35",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36600,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-36",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35200,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-37",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35200,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-38",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35200,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-39",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36400,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-40",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36400,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-41",
+      "server": "208.87.243.187",
+      "server_port": 22222,
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-42",
+      "server": "208.87.243.187",
+      "server_port": 22222,
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "🔒",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-43",
+      "server": "192.227.152.86",
+      "server_port": 61001,
+      "password": "5CBqBh6MeDq6GajcilBiDg%3D%3D",
+      "tls": {
+        "enabled": true,
+        "server_name": "192-227-152-86.nip.io",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-44",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36400,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-45",
+      "server": "208.87.243.187",
+      "server_port": 22222,
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-46",
+      "server": "77.223.214.193",
+      "server_port": 31468,
+      "password": "79c4fe11-9787-406b-bf94-c1c1dbf59e28",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-47",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 35200,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-48",
+      "server": "208.87.243.187",
+      "server_port": 22222,
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "🔒",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-49",
+      "server": "208.87.243.187",
+      "server_port": 22222,
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-50",
+      "server": "208.87.243.187",
+      "server_port": 22222,
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-51",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36300,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-52",
+      "server": "206.71.158.37",
+      "server_port": 36600,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-53",
+      "server": "206.71.158.37",
+      "server_port": 36300,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-54",
+      "server": "185.92.220.240",
+      "server_port": 30205,
+      "password": "8864aa9f-7517-4fd5-aef1-32050eb3095d",
+      "tls": {
+        "enabled": true,
+        "server_name": "net2025.afsharidempire.uk",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-55",
+      "server": "206.71.158.37",
+      "server_port": 36400,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-56",
+      "server": "206.71.158.37",
+      "server_port": 35200,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-57",
+      "server": "206.71.158.37",
+      "server_port": 35000,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-58",
+      "server": "208.87.243.187",
+      "server_port": 22222,
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-59",
+      "server": "77.223.214.193",
+      "server_port": 31468,
+      "password": "79c4fe11-9787-406b-bf94-c1c1dbf59e28",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-60",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36400,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-61",
+      "server": "70.34.215.221",
+      "server_port": 20335,
+      "password": "80747420-96c4-4a2f-83e6-eea4e46beb09",
+      "tls": {
+        "enabled": true,
+        "server_name": "drhystuichdfy.samanidempire.org",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-62",
+      "server": "70.34.215.221",
+      "server_port": 20335,
+      "password": "80747420-96c4-4a2f-83e6-eea4e46beb09",
+      "tls": {
+        "enabled": true,
+        "server_name": "drhystuichdfy.samanidempire.org",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-63",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36600,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-64",
+      "server": "70.34.215.221",
+      "server_port": 20335,
+      "password": "80747420-96c4-4a2f-83e6-eea4e46beb09",
+      "tls": {
+        "enabled": true,
+        "server_name": "drhystuichdfy.samanidempire.org",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-65",
+      "server": "70.34.215.221",
+      "server_port": 20335,
+      "password": "80747420-96c4-4a2f-83e6-eea4e46beb09",
+      "tls": {
+        "enabled": true,
+        "server_name": "drhystuichdfy.samanidempire.org",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-66",
+      "server": "[2a14:3f87:f001:13::a]",
+      "server_port": 36300,
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-67",
+      "server": "195.22.157.104",
+      "server_port": 39279,
+      "password": "1sbtkLK7F3",
+      "tls": {
+        "enabled": true,
+        "server_name": "joon.arshiacomplus.dpdns.org",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hysteria2-Misagh-68",
+      "server": "208.87.243.187",
+      "server_port": 22222,
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "208.87.243.187",
+        "insecure": true
+      }
+    }
+  ],
+  "route": {
+    "auto_detect_interface": true,
+    "final": "proxy",
+    "rules": [
+      {
+        "clash_mode": "Direct",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "Global",
+        "outbound": "proxy"
+      },
+      {
+        "protocol": "dns",
+        "action": "hijack-dns"
+      },
+      {
+        "domain_suffix": [
+          ".ir"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "geoip-ir",
+          "geosite-ir"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "geosite-category-ads-all",
+          "geosite-malware",
+          "geosite-phishing",
+          "geosite-cryptominers",
+          "geoip-malware",
+          "geoip-phishing"
+        ],
+        "outbound": "block"
+      }
+    ],
+    "rule_set": [
+      {
+        "tag": "geosite-ir",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-ir.srs",
+        "download_detour": "direct",
+        "update_interval": "1d"
+      },
+      {
+        "tag": "geosite-category-ads-all",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-category-ads-all.srs",
+        "download_detour": "direct",
+        "update_interval": "1d"
+      },
+      {
+        "tag": "geosite-malware",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-malware.srs",
+        "download_detour": "direct",
+        "update_interval": "1d"
+      },
+      {
+        "tag": "geosite-phishing",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-phishing.srs",
+        "download_detour": "direct",
+        "update_interval": "1d"
+      },
+      {
+        "tag": "geosite-cryptominers",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs",
+        "download_detour": "direct",
+        "update_interval": "1d"
+      },
+      {
+        "tag": "geoip-ir",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-ir.srs",
+        "download_detour": "direct",
+        "update_interval": "1d"
+      },
+      {
+        "tag": "geoip-malware",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-malware.srs",
+        "download_detour": "direct",
+        "update_interval": "1d"
+      },
+      {
+        "tag": "geoip-phishing",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-phishing.srs",
+        "download_detour": "direct",
+        "update_interval": "1d"
+      }
+    ]
+  }
+}

@@ -1,3 +1,7 @@
+vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=209.126.84.189&path=%2Fvmessws&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-11385
+vmess://a89feda9-ec30-48c1-ae6b-1a6f5b573f6b@69.63.210.35:24943?encryption=auto&host=www.bing.com&path=%2Fa89feda9-ec30-48c1-ae6b-1a6f5b573f6b-vm&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-11485
+vless://28be1c11-fbf8-50ff-9bfc-3652dd479300@[::ffff:9872:c066]:80?encryption=none&path=%2F%F0%92%89%AD%F0%93%86%A9%40rootface%F0%92%86%9C%F0%92%89%AD+%40pwn_1337+TELEGRAM&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-3726
+vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?encryption=none&host=zoom.us&path=%2FFREE+By+Tharuwa+%280767597317%29&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-15
 vless://c2eb2dbe-6fdd-4852-af3b-139236bcf1df@westernspeefinland.speedgate.space:34900?encryption=none&host=westernspeefinland.speedgate.space&path=%2F%40WesternSpeed&security=none&type=ws#WESTERNSPED%20%F0%9F%87%AB%F0%9F%87%AE-2kmhu7gz
 vmess://618a5ee8-a484-42a5-9646-33b9c0ea8304@47.74.52.59:8080?encryption=auto&security=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2013
 vmess://f0cb1364-5638-4561-8059-040baf7f6117@47.74.9.133:8080?encryption=auto&security=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2011
